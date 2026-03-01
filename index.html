@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Online Test Platform</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root {
+            /* Standart (Tun) ranglar */
+            --bg-color: #0f172a;
+            --container-bg: #1e293b;
+            --text-main: #f1f5f9;
+            --text-muted: #94a3b8;
+            --accent: #3b82f6;
+            --border: #334155;
+            --success: #22c55e;
+            --error: #ef4444;
+            --hover-opt: #334155;
+        }
+
+        [data-theme="light"] {
+            /* Kun rejimi */
+            --bg-color: #f8fafc;
+            --container-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --accent: #2563eb;
+            --border: #e2e8f0;
+            --success: #16a34a;
+            --error: #dc2626;
+            --hover-opt: #f1f5f9;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; transition: background-color 0.3s, color 0.3s; }
+        
+        body { 
+            background-color: var(--bg-color); 
+            color: var(--text-main); 
+            min-height: 100vh; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            justify-content: center;
+            padding: 20px;
+            /* Google Translate yuqori panelini yashirish */
+            top: 0 !important; 
+        }
+
+        /* Google Translate maxsus stillari */
+        .goog-te-banner-frame.skiptranslate { display: none !important; }
+        .goog-tooltip { display: none !important; }
+        .goog-te-gadget-simple {
+            background-color: transparent !important;
+            border: none !important;
+            padding: 0 !important;
+            font-size: 1rem !important;
+        }
+        .goog-te-gadget-simple .goog-te-menu-value span {
+            color: var(--text-main) !important;
+            font-weight: bold;
+        }
+        .goog-te-gadget-icon { display: none !important; }
+
+        /* Sozlamalar Paneli */
+        .settings-panel {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: var(--container-bg);
+            padding: 8px 15px;
+            border-radius: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            border: 1px solid var(--border);
+            z-index: 1000;
+        }
+
+        .setting-item { display: flex; align-items: center; gap: 8px; font-size: 0.9rem; cursor: pointer; }
+        
+        /* Til tanlash qutisi */
+        #google_translate_element { overflow: hidden; height: 30px; display: flex; align-items: center; }
+
+        .container {
+            width: 100%;
+            max-width: 850px;
+            background-color: var(--container-bg);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            position: relative;
+            border: 1px solid var(--border);
+        }
+
+        h1, h2 { text-align: center; color: var(--accent); margin-bottom: 25px; }
+
+        /* Kirish Formasi */
+        input, select {
+            width: 100%; padding: 15px; margin-bottom: 20px; border-radius: 10px;
+            border: 2px solid var(--border); background: var(--bg-color); color: var(--text-main);
+            font-size: 1rem; outline: none;
+        }
+        input:focus { border-color: var(--accent); }
+        label { margin-bottom: 8px; display: block; color: var(--text-muted); font-weight: 500; }
+
+        .btn {
+            width: 100%; padding: 15px; border: none; border-radius: 10px;
+            background: var(--accent); color: white; font-size: 1.1rem; font-weight: bold;
+            cursor: pointer; letter-spacing: 0.5px;
+        }
+        .btn:hover { filter: brightness(1.1); transform: translateY(-2px); }
+        .btn-outline { background: transparent; border: 2px solid var(--accent); color: var(--accent); }
+        .btn-outline:hover { background: var(--accent); color: white; }
+
+        /* Test Ekrani */
+        .quiz-header {
+            display: flex; justify-content: space-between; align-items: center;
+            border-bottom: 2px solid var(--border); padding-bottom: 15px; margin-bottom: 20px;
+            font-weight: 600;
+        }
+        
+        .timer-badge {
+            background: rgba(59, 130, 246, 0.15); color: var(--accent);
+            padding: 5px 15px; border-radius: 20px; font-family: monospace; font-size: 1.2rem;
+        }
+
+        .theme-tag {
+            display: inline-block; background: var(--border); color: var(--text-muted);
+            padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 10px;
+        }
+
+        .question-text { font-size: 1.25rem; line-height: 1.6; margin-bottom: 25px; font-weight: 500; }
+        .question-text br { display: block; margin-bottom: 8px; content: ""; }
+
+        .options-list { display: grid; gap: 12px; }
+        .option-item {
+            background: var(--bg-color); border: 2px solid var(--border);
+            padding: 15px 20px; border-radius: 12px; cursor: pointer;
+            display: flex; gap: 15px; align-items: center; font-size: 1rem;
+        }
+        .option-item:hover { border-color: var(--accent); background: var(--hover-opt); }
+        .option-key { 
+            background: var(--border); width: 30px; height: 30px; 
+            display: flex; align-items: center; justify-content: center; 
+            border-radius: 50%; font-weight: bold; font-size: 0.9rem; flex-shrink: 0;
+        }
+
+        /* Natijalar */
+        .result-circle {
+            width: 180px; height: 180px; border-radius: 50%; margin: 0 auto 30px;
+            border: 10px solid var(--border); display: flex; flex-direction: column;
+            align-items: center; justify-content: center; font-size: 3rem; font-weight: bold;
+        }
+        
+        .review-box { margin-top: 30px; max-height: 500px; overflow-y: auto; padding-right: 10px; }
+        .review-card {
+            background: var(--bg-color); padding: 15px; border-radius: 10px;
+            margin-bottom: 15px; border-left: 5px solid var(--border);
+        }
+        .review-card.correct { border-left-color: var(--success); }
+        .review-card.wrong { border-left-color: var(--error); }
+        
+        .ans-row { margin-top: 8px; font-size: 0.95rem; }
+        .ans-label { font-weight: bold; margin-right: 5px; }
+
+        .loader { border: 4px solid var(--border); border-top: 4px solid var(--accent); border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 20px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .hidden { display: none !important; }
+    </style>
+</head>
+<body>
+
+    <!-- Sozlamalar: Rang, Rejim, Tarjima -->
+    <div class="settings-panel">
+        <div class="setting-item" title="Tilni tanlang">
+            <i class="fas fa-language" style="color: var(--accent)"></i>
+            <div id="google_translate_element"></div>
+        </div>
+        
+        <div class="setting-item" onclick="toggleTheme()" title="Rejim">
+            <i class="fas fa-moon" id="themeIcon"></i>
+        </div>
+    </div>
+
+    <div class="container">
+        
+        <!-- 1. Yuklanish ekrani -->
+        <div id="loading-screen">
+            <div class="loader"></div>
+            <p style="text-align: center; margin-top: 10px;">Test Data Loading...</p>
+        </div>
+
+        <!-- 2. Kirish ekrani -->
+        <div id="start-screen" class="hidden">
+            <h1><i class="fas fa-book-reader"></i> Online Test Platform</h1>
+            <p style="text-align: center; margin-bottom: 30px; color: var(--text-muted);">
+                Database Status: <span style="color: var(--success); font-weight: bold;">Online (<span id="total-q">0</span> questions)</span>
+            </p>
+
+            <label>Full Name:</label>
+            <input type="text" id="username" placeholder="Enter your full name" required>
+
+            <label>Question Count:</label>
+            <input type="number" id="q-count" value="20" min="1">
+
+            <button class="btn" onclick="startQuiz()">START QUIZ</button>
+        </div>
+
+        <!-- 3. Test Jarayoni -->
+        <div id="quiz-screen" class="hidden">
+            <div class="quiz-header">
+                <div><i class="fas fa-user-circle"></i> <span id="display-name">User</span></div>
+                <div class="timer-badge" id="timer">00:00</div>
+            </div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: flex-end;">
+                <div class="theme-tag" id="q-theme">General</div>
+                <div style="font-size: 0.9rem; color: var(--text-muted);">Quest: <span id="q-idx">1</span>/<span id="q-total">20</span></div>
+            </div>
+
+            <div class="question-text" id="q-text">Loading question...</div>
+            <div class="options-list" id="options-area"></div>
+        </div>
+
+        <!-- 4. Natijalar -->
+        <div id="result-screen" class="hidden">
+            <h2>Test Results</h2>
+            
+            <div class="result-circle" id="score-circle">
+                <span id="score-percent">0%</span>
+                <span style="font-size: 1rem; color: var(--text-muted); margin-top: -10px;">score</span>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
+                <button class="btn" onclick="downloadJSON()"><i class="fas fa-download"></i> Download Report</button>
+                <button class="btn btn-outline" onclick="location.reload()"><i class="fas fa-redo"></i> Restart</button>
+            </div>
+
+            <h3 style="border-bottom: 1px solid var(--border); padding-bottom: 10px; margin-top: 30px;">
+                <i class="fas fa-chart-bar"></i> Detailed Analysis
+            </h3>
+            <div class="review-box" id="review-area"></div>
+        </div>
+
+    </div>
+
+    <!-- Google Translate Script -->
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en', // Asl til ingliz tili
+                includedLanguages: 'en,ru,uz', // Faqat shu tillar chiqadi
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                autoDisplay: false
+            }, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script>
+        const DB_URL = "https://raw.githubusercontent.com/sunattagayev-cloud/Testlar/refs/heads/main/testbase.json";
+        
+        let allQuestions = [];
+        let quizSet = [];
+        let currentIdx = 0;
+        let timerInterval;
+        let timeLeft = 0;
+        let userData = { name: '', count: 0 };
+        let userResponses = []; 
+        let questionStartTime = 0;
+
+        window.onload = async () => {
+            try {
+                const response = await fetch(DB_URL);
+                if (!response.ok) throw new Error("Network Error");
+                const textData = await response.text(); 
+                allQuestions = JSON.parse(textData);
+                
+                document.getElementById('loading-screen').classList.add('hidden');
+                document.getElementById('start-screen').classList.remove('hidden');
+                document.getElementById('total-q').textContent = allQuestions.length;
+            } catch (error) {
+                document.getElementById('loading-screen').innerHTML = `
+                    <p style="color: var(--error);"><i class="fas fa-exclamation-triangle"></i> Data Load Failed!</p>
+                    <button class="btn" onclick="location.reload()" style="margin-top:10px; width:auto;">Retry</button>
+                `;
+            }
+        };
+
+        // Javob matnini foizga aylantiruvchi yordamchi funksiya
+        function formatOptionText(text) {
+            if (!text) return text;
+            
+            // Agar matn faqat raqamdan iborat bo'lsa (masalan "0.05", "0.3")
+            // Va 0 dan katta, 1 dan kichik yoki teng bo'lsa
+            const num = parseFloat(text);
+            const isPureNumber = !isNaN(text) && !isNaN(parseFloat(text));
+
+            if (isPureNumber && num > 0 && num <= 1) {
+                return (num * 100) + "%";
+            }
+            return text;
+        }
+
+        function startQuiz() {
+            const name = document.getElementById('username').value.trim();
+            const count = parseInt(document.getElementById('q-count').value);
+
+            if (!name) return alert("Please enter your name!");
+            if (count < 1 || count > allQuestions.length) return alert(`Please enter between 1 and ${allQuestions.length}`);
+
+            userData.name = name;
+            userData.count = count;
+            quizSet = allQuestions.sort(() => 0.5 - Math.random()).slice(0, count);
+            timeLeft = count * 120;
+
+            document.getElementById('start-screen').classList.add('hidden');
+            document.getElementById('quiz-screen').classList.remove('hidden');
+            document.getElementById('display-name').textContent = name;
+            document.getElementById('q-total').textContent = count;
+
+            startTimer();
+            loadQuestion(0);
+        }
+
+        function loadQuestion(index) {
+            currentIdx = index;
+            const q = quizSet[index];
+            
+            document.getElementById('q-idx').textContent = index + 1;
+            document.getElementById('q-theme').textContent = q.Theme || "General";
+
+            // Formatlash
+            let text = q.Question;
+            text = text.replace(/(\b[i|v|x]+\.)\s/gi, '<br><b>$1</b> '); 
+            text = text.replace(/\n/g, '<br>');
+            document.getElementById('q-text').innerHTML = text;
+
+            const area = document.getElementById('options-area');
+            area.innerHTML = '';
+            
+            const options = [
+                { k: 'A', t: q.A },
+                { k: 'B', t: q.B },
+                { k: 'C', t: q.C },
+                { k: 'D', t: q.D }
+            ].filter(o => o.t);
+
+            questionStartTime = Date.now();
+
+            options.forEach(opt => {
+                const div = document.createElement('div');
+                div.className = 'option-item';
+                
+                // BU YERDA: Agar raqam 0.X bo'lsa, foizga o'giramiz
+                const displayText = formatOptionText(opt.t);
+
+                div.innerHTML = `<span class="option-key">${opt.k}</span> ${displayText}`;
+                div.onclick = () => answerSelected(opt.t, q); // Bazaviy qiymatni saqlab qolamiz (0.3)
+                area.appendChild(div);
+            });
+        }
+
+        function answerSelected(choosenText, qObj) {
+            const timeSpent = ((Date.now() - questionStartTime) / 1000).toFixed(1);
+            
+            // Taqqoslashda string trim() ishlatamiz
+            const correctText = String(qObj["True answer"]).trim();
+            const selectedStr = String(choosenText).trim();
+            const isCorrect = selectedStr === correctText;
+
+            userResponses.push({
+                question_id: qObj.Question_ID,
+                theme: qObj.Theme,
+                question: qObj.Question,
+                selectedOriginal: selectedStr, // Bazadagi asl qiymat
+                correctOriginal: correctText,
+                is_correct: isCorrect,
+                time_spent_seconds: timeSpent
+            });
+
+            if (currentIdx + 1 < userData.count) {
+                loadQuestion(currentIdx + 1);
+            } else {
+                finishQuiz();
+            }
+        }
+
+        function startTimer() {
+            const el = document.getElementById('timer');
+            timerInterval = setInterval(() => {
+                let m = Math.floor(timeLeft / 60);
+                let s = timeLeft % 60;
+                el.textContent = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`;
+
+                if (timeLeft <= 0) {
+                    clearInterval(timerInterval);
+                    finishQuiz();
+                } else {
+                    timeLeft--;
+                }
+            }, 1000);
+        }
+
+        function finishQuiz() {
+            clearInterval(timerInterval);
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.remove('hidden');
+
+            const correctCount = userResponses.filter(r => r.is_correct).length;
+            const percentage = Math.round((correctCount / userData.count) * 100);
+
+            const circle = document.getElementById('score-circle');
+            document.getElementById('score-percent').textContent = percentage + "%";
+            
+            if(percentage >= 80) { circle.style.borderColor = "var(--success)"; circle.style.color = "var(--success)"; }
+            else if(percentage >= 50) { circle.style.borderColor = "#f59e0b"; circle.style.color = "#f59e0b"; }
+            else { circle.style.borderColor = "var(--error)"; circle.style.color = "var(--error)"; }
+
+            const reviewArea = document.getElementById('review-area');
+            reviewArea.innerHTML = '';
+
+            userResponses.forEach((res, index) => {
+                const card = document.createElement('div');
+                card.className = `review-card ${res.is_correct ? 'correct' : 'wrong'}`;
+                
+                // Tahlilda ham foizni to'g'ri ko'rsatish
+                const selectedDisplay = formatOptionText(res.selectedOriginal);
+                const correctDisplay = formatOptionText(res.correctOriginal);
+
+                let content = `
+                    <div style="display:flex; justify-content:space-between; font-size: 0.85rem; color: var(--text-muted); margin-bottom:5px;">
+                        <span>#${index+1} (${res.theme})</span>
+                        <span><i class="fas fa-clock"></i> ${res.time_spent_seconds}s</span>
+                    </div>
+                    <div style="font-weight: 500; margin-bottom: 10px;">${res.question}</div>
+                    
+                    <div class="ans-row">
+                        <span class="ans-label" style="color: var(--text-muted)">Your Answer:</span>
+                        <span style="color: ${res.is_correct ? 'var(--success)' : 'var(--error)'}; font-weight: bold;">
+                            ${selectedDisplay} ${res.is_correct ? '<i class="fas fa-check"></i>' : '<i class="fas fa-times"></i>'}
+                        </span>
+                    </div>
+                `;
+
+                if(!res.is_correct) {
+                    content += `
+                    <div class="ans-row">
+                        <span class="ans-label" style="color: var(--success)">Correct Answer:</span>
+                        <span style="font-weight: bold;">${correctDisplay}</span>
+                    </div>`;
+                }
+
+                card.innerHTML = content;
+                reviewArea.appendChild(card);
+            });
+        }
+
+        function downloadJSON() {
+            const finalData = {
+                user_info: {
+                    name: userData.name,
+                    test_date: new Date().toLocaleString(),
+                    total_questions: userData.count,
+                    score_percentage: (userResponses.filter(r => r.is_correct).length / userData.count) * 100
+                },
+                detailed_results: userResponses
+            };
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(finalData, null, 2));
+            const downloadAnchor = document.createElement('a');
+            downloadAnchor.setAttribute("href", dataStr);
+            downloadAnchor.setAttribute("download", `Result_${userData.name.replace(/\s/g,'_')}.json`);
+            document.body.appendChild(downloadAnchor);
+            downloadAnchor.click();
+            downloadAnchor.remove();
+        }
+
+        function toggleTheme() {
+            const body = document.body;
+            const icon = document.getElementById('themeIcon');
+            if(body.hasAttribute('data-theme')) {
+                body.removeAttribute('data-theme');
+                icon.className = "fas fa-moon";
+            } else {
+                body.setAttribute('data-theme', 'light');
+                icon.className = "fas fa-sun";
+            }
+        }
+    </script>
+</body>
+</html>
