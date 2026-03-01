@@ -101,7 +101,7 @@
     },
     {
         "Question_ID":"QID_0011",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Agency in trading in currencies ….",
         "A":"is not permissible at all",
         "B":"is permissible, provided that the agent is given an authorization to take possession of, and deliver, the counter value",
@@ -111,7 +111,7 @@
     },
     {
         "Question_ID":"QID_0012",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"What is a primary condition for trading in currencies under Shari’ah rules?",
         "A":"Delivery can be deferred for 30 days",
         "B":"Possession of countervalues before dispersing",
@@ -121,7 +121,7 @@
     },
     {
         "Question_ID":"QID_0013",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"What is prohibited in a contract for currency exchange under Shari’ah?",
         "A":"Conditional options or deferments",
         "B":"Spot exchange of currencies",
@@ -131,7 +131,7 @@
     },
     {
         "Question_ID":"QID_0014",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Which of the following is NOT a permissible aim in trading currencies?",
         "A":"Complying with Shari’ah",
         "B":"Avoiding harm to society",
@@ -141,7 +141,7 @@
     },
     {
         "Question_ID":"QID_0015",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Which of the following is permissible for hedging against future devaluation?",
         "A":"Entering forward currency contracts",
         "B":"Using futures contracts",
@@ -151,7 +151,7 @@
     },
     {
         "Question_ID":"QID_0016",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"At the time of settlement in a credit transaction like Murabahah, payment in another currency is permissible if:",
         "A":"The payment is deferred",
         "B":"The contract contains options",
@@ -161,7 +161,7 @@
     },
     {
         "Question_ID":"QID_0017",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"What constitutes constructive possession in currency exchange?",
         "A":"Receiving physical currency",
         "B":"Credit to the customer’s account",
@@ -171,7 +171,7 @@
     },
     {
         "Question_ID":"QID_0018",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"When can receipt of a cheque be deemed constructive possession?",
         "A":"When the cheque issuer’s balance is blocked for payment",
         "B":"When the cheque is post-dated",
@@ -181,7 +181,7 @@
     },
     {
         "Question_ID":"QID_0019",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Parallel purchase and sale of currencies are forbidden due to:",
         "A":"Deferred delivery of currencies",
         "B":"Immediate possession of countervalues",
@@ -191,7 +191,7 @@
     },
     {
         "Question_ID":"QID_0020",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Taking partial possession in currency transactions:",
         "A":"Invalidates the entire transaction",
         "B":"Validates only the possessed portion",
@@ -201,7 +201,7 @@
     },
     {
         "Question_ID":"QID_0021",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Physical possession in currency exchange occurs through:",
         "A":"Bank transfers",
         "B":"Cheque receipts",
@@ -211,7 +211,7 @@
     },
     {
         "Question_ID":"QID_0022",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"A customer may use a credit facility for trading currencies if:",
         "A":"The transaction is restricted to one institution",
         "B":"It involves forward contracts",
@@ -221,7 +221,7 @@
     },
     {
         "Question_ID":"QID_0023",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Guaranteeing currency risks by a partner in Musharakah is:",
         "A":"Permissible",
         "B":"Required",
@@ -231,7 +231,7 @@
     },
     {
         "Question_ID":"QID_0024",
-        "Theme":"Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Set-off in debts under Shari’ah requires:",
         "A":"Future exchange rates",
         "B":"Historical exchange rates",
@@ -501,7 +501,7 @@
     },
     {
         "Question_ID":"QID_0051",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Which of the following forms is not considered a permissible form of a guarantee?",
         "A":"Discharge of debts with mutual consent",
         "B":"A promise a guaranteed profit in Musharaka",
@@ -511,7 +511,7 @@
     },
     {
         "Question_ID":"QID_0052",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"In trust-based contracts such as agency or deposits, guarantees are prohibited unless:",
         "A":"The client agrees in writing",
         "B":"There is risk of market volatility",
@@ -521,7 +521,7 @@
     },
     {
         "Question_ID":"QID_0053",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Combining Wakalah (Agency) and Kafalah (Personal Guarantee) is prohibited",
         "A":"True",
         "B":"False",
@@ -531,7 +531,7 @@
     },
     {
         "Question_ID":"QID_0054",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Which of the following is true regarding Kafalah with no right of recourse?",
         "A":"Islamic bank must be a non-recourse guarantor allways",
         "B":"It requires debtor’s consent",
@@ -541,7 +541,7 @@
     },
     {
         "Question_ID":"QID_0055",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" Which of the following is not allowed in relation to a personal guarantee (Kafalah)?",
         "A":"Guarantor receiving actual expenses incurred",
         "B":"A personal guarantee contract may be designated in a separate contract",
@@ -551,7 +551,7 @@
     },
     {
         "Question_ID":"QID_0056",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" If a creditor discharges the guarantor, what is the effect on the debtor?",
         "A":"Debtor is also discharged",
         "B":"Debtor remains liable",
@@ -561,7 +561,7 @@
     },
     {
         "Question_ID":"QID_0057",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" What is the ruling on charging for issuing a letter of credit (LC)?",
         "A":"Permissible at market rates",
         "B":"Only allowed with central bank approval",
@@ -571,7 +571,7 @@
     },
     {
         "Question_ID":"QID_0058",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" When can a security deposit (Hamish Jiddiyah) be retained by the IFI?",
         "A":"Only to cover actual damages incurred",
         "B":"Whenever the promise is withdrawn",
@@ -581,7 +581,7 @@
     },
     {
         "Question_ID":"QID_0059",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" Combining personal and mortgage guarantees (Kafalah and Rahn) is",
         "A":"Permissible in one contract",
         "B":"Prohibited in any form",
@@ -591,7 +591,7 @@
     },
     {
         "Question_ID":"QID_0060",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Combining Wakalah and Kafalah in one contract is prohibited because:",
         "A":"It leads to excessive costs for creditors",
         "B":"It results in an interest-based loan",
@@ -601,7 +601,7 @@
     },
     {
         "Question_ID":"QID_0061",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" Which of the following statements is correct regarding a personal guarantee with recourse? ",
         "A":"It does not require the debtor’s consent",
         "B":"It is voluntary and considered a donation",
@@ -611,7 +611,7 @@
     },
     {
         "Question_ID":"QID_0062",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Islamic Financial Institution can offer Kafalah with no recourse to the debtor only if",
         "A":"The shareholders authorize it voluntarily as a donation",
         "B":"The debtor agrees to share profits with the guarantor",
@@ -621,7 +621,7 @@
     },
     {
         "Question_ID":"QID_0063",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Attestation (A shahadah) is:",
         "A":"Forbidden in all fiduciary contracts",
         "B":"Optional and discouraged in contracts",
@@ -631,7 +631,7 @@
     },
     {
         "Question_ID":"QID_0064",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" Freezing cash deposits as a guarantee",
         "A":"Is allowed only for Current Accounts.",
         "B":"Requires client’s willingness for Current Accounts.",
@@ -641,7 +641,7 @@
     },
     {
         "Question_ID":"QID_0065",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" In the event of bankruptcy, which rights come first?",
         "A":"Secured creditors' rights",
         "B":"Liquidation process costs",
@@ -651,7 +651,7 @@
     },
     {
         "Question_ID":"QID_0066",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":" If the guarantor pays a discounted amount of the debtor’s liability to the creditor, they can claim: ",
         "A":"The original full amount from the debtor",
         "B":"The full debt amount plus a profit margin",
@@ -661,7 +661,7 @@
     },
     {
         "Question_ID":"QID_0067",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"Which of the following is correct? ",
         "A":"It is permissible for the Rab al-Mal to obtain a guarantee from the Mudarib to receive the expected profit",
         "B":"It is permissible for the Rab al-Mal to obtain a guarantee from the Mudarib against any loss it may suffer due to negligence, misconduct or breach of contract by Mudarib",
@@ -671,7 +671,7 @@
     },
     {
         "Question_ID":"QID_0068",
-        "Theme":"Guarantees ",
+        "Theme":"Guarantees",
         "Question":"It is permissible that:",
         "A":"The creditor is entitled to claim the amount of his debt from either the debtor or the guarantor and he has the choice of claiming his right from either of them in all cases.",
         "B":"That a personal guarantee contract is designated in a separate contract. It can also be concluded together with, or before, or after, the conclusion of the contract of a credit transaction.",
@@ -1131,7 +1131,7 @@
     },
     {
         "Question_ID":"QID_0114",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Which of the following is correct ?",
         "A":"The lessor must be the legal owner of the leased asset",
         "B":"The lessee must be the legal owner of the leased asset",
@@ -1141,7 +1141,7 @@
     },
     {
         "Question_ID":"QID_0115",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"There must be a master agreement if two parties are entering into multiple Ijarah contracts.",
         "A":"True",
         "B":"False",
@@ -1151,7 +1151,7 @@
     },
     {
         "Question_ID":"QID_0116",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"An Islamic bank purchased an asset to lease it out under an Ijarah Muntahia Bittamleek contract. The purchase was made in response to a customer's request who have paid CU 10,000 as security deposit. However, after the Islamic bank purchased the asset, the customer declined to lease it. Hence, the Islamic bank leased out the asset under Ijarah Muntahia Bittamleek to another party. The total rental receivable from this lease is CU 495,000, whereas the total rental receivable from the previous arrangement was CU 525,000.\nHow much the Islamic bank must return to the customer if the total cost incurred in acquiring the asset was CU 500,000?",
         "A":25000,
         "B":10000,
@@ -1161,7 +1161,7 @@
     },
     {
         "Question_ID":"QID_0117",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"An Islamic bank purchased an asset to lease it out under an Ijarah Muntahia Bittamleek contract. The purchase was made in response to a customer's request who have paid CU 10,000 as security deposit. However, after the Islamic bank purchased the asset, the customer declined to lease it. Hence, the Islamic bank leased out the asset under Ijarah Muntahia Bittamleek to another party. The total rental receivable from this lease is CU 450,000, whereas the total rental receivable from the previous arrangement was CU 525,000.\nWhat is the actual damage of the Islamic bank if the total cost incurred in acquiring the asset was CU 500,000?",
         "A":50000,
         "B":25000,
@@ -1171,7 +1171,7 @@
     },
     {
         "Question_ID":"QID_0118",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"An Islamic bank purchased an asset to lease it out under an operating Ijarah. The purchase was made in response to a customer's request who have paid CU 20,000 as security deposit. However, after the Islamic bank purchased the asset, the customer declined to lease it. Hence, the Islamic bank sold the asset to a third party. The sale price was CU 245,000, whereas the Islamic bank expected to receive CU 275,000 as lease rental.\nWhat is the actual damage of the Islamic bank if the total cost incurred in acquiring the asset was CU 250,000?",
         "A":30000,
         "B":25000,
@@ -1181,7 +1181,7 @@
     },
     {
         "Question_ID":"QID_0119",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Which of the following is correct?      ",
         "A":"The lease contract should be preceded by acquisition of either the asset to be leased or the usufruct of that asset",
         "B":"It is permissible to treat the security deposit as advance lease rental",
@@ -1191,7 +1191,7 @@
     },
     {
         "Question_ID":"QID_0120",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Which of the following is allowed in a lease and leaseback arrangement?",
         "A":"The rent paid in deferred to be higher than the rent paid on spot",
         "B":"The rent paid on spot to be higher than the rent paid in deferred",
@@ -1201,7 +1201,7 @@
     },
     {
         "Question_ID":"QID_0121",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"In a headlease and sublease arrangement, which one of the following is allowed?",
         "A":"Headlease rental to be CU 1,000 paid on spot, and sublease rental to be CU 950 paid on deferred",
         "B":"Headlease rental to be CU 1,000 paid on deferred, and sublease rental to be CU 1,050 paid on deferred",
@@ -1211,7 +1211,7 @@
     },
     {
         "Question_ID":"QID_0122",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"An Islamic bank and its customer jointly acquired an asset. The ownership ratio is 80: 20 (Islamic bank: Customer). The rental for this asset is CU 8,000 per month. If the customer lease the asset for its own use, how much he will pay as rental?",
         "A":8000,
         "B":6400,
@@ -1221,7 +1221,7 @@
     },
     {
         "Question_ID":"QID_0123",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Which of the following is incorrect? ",
         "A":"The customer may act as an agent of the Institution to acquire the Ijarah asset",
         "B":"It is preferrable that the agent for acquiring the asset is someone other than the customer",
@@ -1231,7 +1231,7 @@
     },
     {
         "Question_ID":"QID_0124",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Which of the following is incorrect?\ni. The lessor must bear the costs of all major maintenance\nii. The lessor must bear the cost of insurance\niii. The lessor may consider its insurance cost in determining the lease rental\niv. The lessor has the right to increase the agreed lease rental if the actual insurance cost is higher than the anticipated",
         "A":"i, iii",
         "B":"ii, iv",
@@ -1241,7 +1241,7 @@
     },
     {
         "Question_ID":"QID_0125",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"On 01 January 2025, a customer entered into an Ijarah contract with an Islamic bank. As per agreement, Ijarah asset will be made available to the customer on 31 January 2025. However, in reality the asset was made available to the customer on 01 March 2025. The customer started to using the Ijarah asset on 01 April 2025. The annual rental of the Ijarah was determined as CU 12,000. What will be the total Ijarah rental payable by the customer for the year-ending 31 December 2025?",
         "A":9000,
         "B":10000,
@@ -1251,7 +1251,7 @@
     },
     {
         "Question_ID":"QID_0126",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"On 01 January 2024, a customer entered into an Ijarah contract with an Islamic bank. The Ijarah tenure is 12 months, and rental per month is CU 1,000.\nIf on 30 June 2024, the customer acquire full ownership of the asset from the Islamic bank, how much rental the Islamic bank will recognize for the year-ending 31 December 2024?",
         "A":6000,
         "B":12000,
@@ -1261,7 +1261,7 @@
     },
     {
         "Question_ID":"QID_0127",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Which of the following is correct?\ni. It is allowed to execute an Ijarah contract and a sale contract for the same asset on the same day\nii. It is allowed to execute an Ijarah contract and a sale contract for the same asset on the same day if the sale contract carries a future effective date\niii. It is allowed for the lessor to sell the Ijarah asset to the lessee and continue receiving rental until the end of originally agreed lease period",
         "A":"i, ii",
         "B":"ii, iii",
@@ -1271,7 +1271,7 @@
     },
     {
         "Question_ID":"QID_0128",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"While entering an Ijarah contract which of the following key elements shall be considered by an IFI?\n i. The subject matter of Ijarah should be fragile (consumable) goods\nii. The subject matter of Ijarah should be non-fragile goods\niii. The object of the Ijarah contract should include the rental of subject matter and the usufruct transferred to the lessee\niv. The object of the Ijarah contract should include transfer of ownership to the lessee",
         "A":"i and ii",
         "B":"i and iii",
@@ -1281,7 +1281,7 @@
     },
     {
         "Question_ID":"QID_0129",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"White Travels is a transport company located in Dubai, the company approaches Ameen Bank for financing of trucks via Ijarah mode of financing. After doing the necessary background checks, the Bank comes to the knowledge that White Travels mostly earns its revenue by transportation of alcoholic beverages. This transaction is illegitimate because it involves:",
         "A":"Gharar",
         "B":"Sale of non-permissible goods",
@@ -1291,7 +1291,7 @@
     },
     {
         "Question_ID":"QID_0130",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"The lessor (Mu’jir) provides the asset for use and \/ or benefit against rental. The lessee (Musta’jir) is entitled to use \/ benefit from the Ijarah asset and is considered the trustee. Major maintenance and impairment to the asset not caused by negligence will be borne by which of the following?",
         "A":"Cost of major maintenance of asset is borne by the mutual consent of the lessor and lessee",
         "B":"Cost of major maintenance of asset is borne by the lessee only",
@@ -1301,7 +1301,7 @@
     },
     {
         "Question_ID":"QID_0131",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"Islamic financial institutions (IFIs) offer lease-based products as a popular financing instrument. It represents a material portion of their income in many jurisdictions. Which of the following conditions can be set in an Ijarah contract?\ni. The lessor can terminate the contract in case of default in payment\nii. In case of major damage of the asset the lessee can terminate the contract\niii. All the rental paid in at the end of the lease term\niv. Lessee can terminate the contract in case of damage of leased asset due to his negligence",
         "A":"i, ii and iii",
         "B":"i and iv",
@@ -1311,7 +1311,7 @@
     },
     {
         "Question_ID":"QID_0132",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"What steps should an IFI follow to execute a valid Ijara transaction?\n i. The IFI makes payment and acquires the item required. The IFI also receives the title of ownership from the vendor. The IFI leases the asset to the customer after execution of a lease agreement and delivery of asset (usable condition)\nii. The customer informs the IFI of the required asset. In case the IFI does not own the asset readily, it will either purchase the asset directly or will appoint the customer as its agent to purchase the required asset on its behalf\niii. The customer makes monthly \/ quarterly \/ annual rental payments (the amount may change periodically as per the agreement)\niv. At the end of the lease term, the transfer of the asset to the customer will depend on the type of Ijarah. If the Ijarah is operational in nature, the asset will be returned to the IFI",
         "A":"i, ii, iii and iv",
         "B":"ii, i, iii and iv",
@@ -1321,7 +1321,7 @@
     },
     {
         "Question_ID":"QID_0133",
-        "Theme":"Ijarah and Ijarah Muntahia Bittamleek ",
+        "Theme":"Ijarah and Ijarah Muntahia Bittamleek",
         "Question":"A company is going to sign a contract on the basis of Ijarah. If the assest provided is consumable, which of the statements is correct?",
         "A":"This transaction can be executed on the basis of Ijarah",
         "B":"This transaction cannot be executed on the basis of Ijarah as asset cannot be specified",
@@ -1331,7 +1331,7 @@
     },
     {
         "Question_ID":"QID_0134",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"Which of the following is NOT a valid form of expressing a Salam contract according to Shari’ah?",
         "A":"Salam",
         "B":"Salaf",
@@ -1341,7 +1341,7 @@
     },
     {
         "Question_ID":"QID_0135",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"What happens if the delay in Salam capital payment exceeds the delivery period of al-Muslam Fihi?",
         "A":"The contract remains valid",
         "B":"The contract becomes a Murabaha",
@@ -1351,7 +1351,7 @@
     },
     {
         "Question_ID":"QID_0136",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"What type of goods are permissible in Salam contracts?",
         "A":"Gold and silver coins",
         "B":"Fungible and standardized goods",
@@ -1361,7 +1361,7 @@
     },
     {
         "Question_ID":"QID_0137",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"Is it allowed for the buyer to sell al-Muslam Fihi before taking possession?",
         "A":"True",
         "B":"False",
@@ -1371,7 +1371,7 @@
     },
     {
         "Question_ID":"QID_0138",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"What must be done if the seller delivers goods of superior quality than required?",
         "A":"Buyer can demand a higher price",
         "B":"Buyer must reject the goods",
@@ -1381,7 +1381,7 @@
     },
     {
         "Question_ID":"QID_0139",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"Regarding Capital of Salam, which statement is correct?  ",
         "A":"The capital must be known, immediate, and not a debt.",
         "B":"The capital may be in the form of delayed debt.",
@@ -1391,7 +1391,7 @@
     },
     {
         "Question_ID":"QID_0140",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"Regarding Delivery Rules in Salam, which statement is correct?  ",
         "A":"Penalties are allowed for delay.",
         "B":"Buyer can reject goods even if they meet specs.",
@@ -1401,7 +1401,7 @@
     },
     {
         "Question_ID":"QID_0141",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"A Salam contract stipulates delivery of a type of rice “from my field only.” The field is destroyed in a flood. What is the Shariah consequence?",
         "A":"The contract is valid but subject to force majeure",
         "B":"The contract is void ab initio",
@@ -1411,7 +1411,7 @@
     },
     {
         "Question_ID":"QID_0142",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"In Salam contracts, if the quality of the delivered goods is inferior to that required by the contractual specifications:\ni. the buyer is entitled to reject the goods.\nii. the buyer must accept the goods in that condition.\niii. the buyer is entitled to accept the goods in that condition, and this action is considered as ethical acceptance.\niv. the two parties may agree to a settlement on terms for acceptance of the goods even at a discounted price.",
         "A":"i, ii, iv",
         "B":"i, iii, iv",
@@ -1421,7 +1421,7 @@
     },
     {
         "Question_ID":"QID_0143",
-        "Theme":"Salam and Parallel Salam ",
+        "Theme":"Salam and Parallel Salam",
         "Question":"In a Salam transaction, when the commodity of a higher quality is delivered than what was stipulated in the terms of the contract, the buyer______ whereas the seller ______ .",
         "A":"Has the choice to accept the goods; can increase the price if both parties agree",
         "B":"Can refuse to accept the goods; can not request for an increase in price",
@@ -5741,7 +5741,7 @@
     },
     {
         "Question_ID":"QID_0575",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"When exchanging currencies of the same type (e.g., dollar for dollar), which condition must be fulfilled?  ",
         "A":"One party may charge a premium as profit",
         "B":"Both parties must exchange exactly equal amounts",
@@ -5751,7 +5751,7 @@
     },
     {
         "Question_ID":"QID_0576",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"What is the ruling regarding unilateral and bilateral promises?  ",
         "A":"A bilateral promise is prohibited because it resembles a forward contract, while a unilateral promise is permissible",
         "B":"A binding promise on both parties is permissible",
@@ -5761,7 +5761,7 @@
     },
     {
         "Question_ID":"QID_0577",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Entering forward or futures contracts on currencies is:",
         "A":"Permissible if used solely for risk-management purposes",
         "B":"Permissible if both parties agree to deliver the currency in the future",
@@ -5771,7 +5771,7 @@
     },
     {
         "Question_ID":"QID_0578",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Which of the following constitutes a currency transaction that violates AAOIFI Shari’ah standards?  ",
         "A":"A bank receives USD and simultaneously credits the customer’s account with EUR on a spot basis",
         "B":"Mutual debts in different currencies are set off (muqāṣṣah) using the spot market rate",
@@ -5781,7 +5781,7 @@
     },
     {
         "Question_ID":"QID_0579",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Which of the following most closely resembles monopoly or harmful market manipulation?  ",
         "A":"Benefiting from natural fluctuations in exchange rates",
         "B":"Buying currency and selling it later when the market rate rises naturally",
@@ -5791,7 +5791,7 @@
     },
     {
         "Question_ID":"QID_0580",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Trading in currencies must be carried out in compliance. The following Shari'ah rulings must be observed for trading in currencies:",
         "A":"Both parties must take possession of the countervalues before dispersing, such possession being either actual or constructive",
         "B":"The countervalues of the same currency must not be of equal amount, even if one of them is in paper money and the other is in coin of the same country, like a note of one pound for a coin of one pound",
@@ -5801,7 +5801,7 @@
     },
     {
         "Question_ID":"QID_0581",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Possession should take place of the countervalues in trading of currencies either:",
         "A":"Actual",
         "B":"Constructive",
@@ -5811,7 +5811,7 @@
     },
     {
         "Question_ID":"QID_0582",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"If an IFI gives and takes loans without interest in different currencies to hedge for currency deprecation in the future, it is:",
         "A":"Absolutely permissible",
         "B":"Absolutely impermissible",
@@ -5821,7 +5821,7 @@
     },
     {
         "Question_ID":"QID_0583",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Agency in trading in currencies:",
         "A":"is not permissible at all",
         "B":"is permissible, provided that the agent is given an authorization to take possession of, and deliver, the countervalue",
@@ -5831,7 +5831,7 @@
     },
     {
         "Question_ID":"QID_0584",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"Ahmed wishes to purchase 100,000 Turkish Lira with Bahraini Dinars to pay for clothing imported from a supplier in Turkey. Due to concerns about changing fashions, he stipulated a revocation option with the supplier within a month, allowing him to return the clothing to the supplier's representative in Bahrain. Now, Ahmed wants to stipulate the same option when purchasing the Turkish Lira from the bank. What is the Shariah ruling in this case?",
         "A":"It is permissible for Ahmed to stipulate a revocation option when purchasing the Turkish Lira, as it benefits him and does not cause significant harm to the bank",
         "B":"It is not permissible to stipulate the option because the currency exchange contract must be concluded in a binding way at the contract session, and the conditional option prevents the contract from being binding",
@@ -5841,7 +5841,7 @@
     },
     {
         "Question_ID":"QID_0585",
-        "Theme":" Trading in currencies ",
+        "Theme":"Trading in currencies",
         "Question":"A creditor can make a payment due to him in a currency different from that in which the debt was incurred provided that:",
         "A":"The settlement is effected as a spot transaction at the spot exchange rate on the day the transaction leading to credit took place",
         "B":"The settlement is effected as a deferred transaction at the spot exchange rate on the day of settlement",
@@ -5851,7 +5851,7 @@
     },
     {
         "Question_ID":"QID_0586",
-        "Theme":" Murabahah",
+        "Theme":"Murabahah",
         "Question":"It is permissible that the contract of Murabahah stipulates that:",
         "A":"The customer shall pay an amount of money or a percentage taking of the debt, on the basis of undertaking to donate it in the event of a delay on his part in paying instalments on their due date",
         "B":"The date of payment of the debt shall be extended in exchange for an additional payment in case of rescheduling, irrespectively of whether the debtor is solvent or insolvent.",
@@ -5861,7 +5861,7 @@
     },
     {
         "Question_ID":"QID_0587",
-        "Theme":" Murabahah",
+        "Theme":"Murabahah",
         "Question":"The sale price in the Murabaha contract:",
         "A":"Should be known and fixed on the signature of the contract of sale.",
         "B":"May be determined subject to a regulated indicator (LIBOR, for example), provided that the benchmark should be determined at the beginning of every year over the period during which the price is paid.",
@@ -5871,7 +5871,7 @@
     },
     {
         "Question_ID":"QID_0588",
-        "Theme":" Murabahah",
+        "Theme":"Murabahah",
         "Question":"__________________ is a sum of money that is paid by the customer at the request of the Institution, both as an indication of the financial capacity of the customer and to ensure the compensation of any damage to the Institution arising from a breach by the customer of his binding promise.",
         "A":"Hamish al-Jiddiyyah.",
         "B":"Arboun.",
@@ -5881,7 +5881,7 @@
     },
     {
         "Question_ID":"QID_0589",
-        "Theme":" Murabahah",
+        "Theme":"Murabahah",
         "Question":"In Murabahah financing:",
         "A":"The customer's promise to purchase, and the related contractual framework, are integral to a Murabahah transaction, and should be in place to provide assurance that the customer will complete the transaction after the item has been acquired by the Institution.",
         "B":"It is not permissible that the document of promise, or its equivalent, includes a bilateral promise which is binding on both parties (the Institution and the customer).",
@@ -5891,7 +5891,7 @@
     },
     {
         "Question_ID":"QID_0590",
-        "Theme":" Murabahah",
+        "Theme":"Murabahah",
         "Question":"The ruling for imposing on a customer who is the purchase orderer in the Murabaha contract a guarantee regarding the hazards that may affect the item such as damage and destruction during a period of shipment or storage is:",
         "A":"Permissible and is considered a guarantee of something held in trust.",
         "B":"Permissible and is considered a guarantee of damage.",
