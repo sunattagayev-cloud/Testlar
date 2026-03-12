@@ -9,7 +9,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     
     <style>
-        /* --- COLOR PALETTE --- */
+        /* --- RANG PALITRASI --- */
         :root {
             /* Dark Mode (Default) */
             --bg-body: #0f172a;
@@ -208,7 +208,6 @@
         <!-- HEADER CONTROL PANEL -->
         <div class="control-bar">
             <div class="bar-left">
-                <!-- Original Google Translate Widget -->
                 <div id="google_translate_element"></div>
             </div>
 
@@ -237,13 +236,13 @@
                 <input type="text" id="username" placeholder="Enter your full name" required>
 
                 <div class="flex-between">
-                    <label style="margin:0"><i class="fas fa-layer-group"></i> Select Topics (Min 3):</label>
+                    <label style="margin:0"><i class="fas fa-layer-group"></i> Select Topic (Min 1):</label>
                     <span class="select-all" onclick="toggleAllThemes()">Select All</span>
                 </div>
                 <div class="theme-box" id="theme-list"></div>
 
                 <label><i class="fas fa-list-ol"></i> Number of Questions (Max: <span id="dyn-total" class="notranslate">0</span>):</label>
-                <input type="number" id="q-count" value="10" min="10">
+                <input type="number" id="q-count" value="10" min="5">
 
                 <button class="btn" id="start-btn" onclick="initiateSession()">
                     <i class="fas fa-play"></i> START TEST
@@ -361,7 +360,6 @@
             }, 'google_translate_element');
         }
 
-        // --- CONFIGURATION ---
         const API_URL = "https://script.google.com/macros/s/AKfycbwfOg-xJDjdJaFEK6l2j1uNFHYchGB7i-W_fYOOMZVzQVIFTeCLtYHrfeBZUZecNnEAzA/exec";
         const DB_URL = "https://raw.githubusercontent.com/sunattagayev-cloud/Testlar/refs/heads/main/testbase.json";
 
@@ -371,14 +369,11 @@
         let userResponses = []; 
         let rawDashboardData = []; 
 
-        // 1. INIT
         window.onload = async () => {
             try {
                 let res = await fetch(DB_URL);
                 processDB(JSON.parse(await res.text()));
-            } catch(e) { 
-                document.getElementById('loading-screen').innerHTML = "<p style='color:var(--error); text-align:center'>Network Error. Please reload.</p>";
-            }
+            } catch(e) { document.getElementById('loading-screen').innerHTML = "<p style='color:var(--error); text-align:center'>Network Error.</p>"; }
         };
 
         function processDB(data) {
@@ -423,20 +418,36 @@
             calcTotal();
         }
 
+        // --- MATNNI FORMATLASH (0.3 -> 30% hamda Raqamli Javoblar) ---
         function formatOption(txt) {
-            let n = parseFloat(txt);
-            return (!isNaN(n) && n>0 && n<=1 && txt.length<6) ? (n*100)+"%" : txt;
+            // Javob null yoki bo'sh bo'lsa
+            if (!txt) return "";
+            
+            // Uni stringga aylantirib, bo'shliqlarni olamiz
+            let strTxt = String(txt).trim();
+            
+            // Raqam ekanligini tekshiramiz
+            let n = parseFloat(strTxt);
+            
+            // SHART: Agar bu raqam bo'lsa VA u 0 dan katta, 1 dan kichik bo'lsa (0.3, 0.05 kabi)
+            // VA matn uzunligi 6 dan kam bo'lsa (sana yoki ID emasligiga ishonch hosil qilish uchun)
+            if (!isNaN(n) && n > 0 && n <= 1 && strTxt.length < 6 && String(n) === strTxt) {
+                return (n * 100) + "%";
+            }
+            
+            // Aks holda aslini qaytaramiz (5000, 10000 kabi)
+            return strTxt;
         }
 
-        // 2. START SESSION
         async function initiateSession() {
             let name = document.getElementById('username').value.trim();
             let count = parseInt(document.getElementById('q-count').value);
             let checks = document.querySelectorAll('.theme-check:checked');
             
             if(!name) return alert("Please enter your name!");
-            if(checks.length < 3) return alert("Select at least 3 topics!");
-            if(count < 10) return alert("Select at least 10 questions!");
+            // Minimal 1 ta mavzu (Talab bo'yicha)
+            if(checks.length < 1) return alert("Select at least 1 topic!"); 
+            if(count < 5) return alert("Minimum 5 questions required!");
 
             let pool = [];
             checks.forEach(c => pool = pool.concat(themesMap[c.value]));
@@ -445,7 +456,6 @@
             document.getElementById('start-btn').disabled = true;
             document.getElementById('start-msg').style.display = 'block';
 
-            // Generate Local Session ID 
             userData.testID = Date.now() + "_" + Math.floor(Math.random()*1000); 
             userData.name = name;
             userData.count = count;
@@ -475,28 +485,38 @@
             let txt = q.Question.replace(/(\b[i|v|x]+\.)\s/gi, '<br><b class="notranslate">$1</b> ').replace(/\n/g, '<br>');
             document.getElementById('q-text').innerHTML = txt;
 
-            let opts = [{k:'A',t:q.A}, {k:'B',t:q.B}, {k:'C',t:q.C}, {k:'D',t:q.D}].filter(o=>o.t);
-            let h = '';
+            // CLEAR OPTIONS (Fix overlap issue)
+            const optsArea = document.getElementById('options-area');
+            optsArea.innerHTML = '';
+
+            let opts = [{k:'A',t:q.A}, {k:'B',t:q.B}, {k:'C',t:q.C}, {k:'D',t:q.D}].filter(o=>o.t !== null && o.t !== "");
+            
             opts.forEach(o => {
-                h += `<div class="option-item" onclick="answer('${o.t.replace(/'/g, "\\'")}', this)">
-                    <span class="option-key notranslate">${o.k}</span> ${formatOption(o.t)}</div>`;
+                let div = document.createElement('div');
+                div.className = 'option-item';
+                div.innerHTML = `<span class="option-key notranslate">${o.k}</span> ${formatOption(o.t)}`;
+                // Javob bosilganda (Escaping quote)
+                div.onclick = () => answer(o.t, div);
+                optsArea.appendChild(div);
             });
-            document.getElementById('options-area').innerHTML = h;
+            
             questionStart = Date.now();
             
-            // Re-trigger Translate logic for new content
+            // Translate Trigger (DOM yangilangandan keyin)
             setTimeout(() => {
                 let c = document.querySelector('.goog-te-combo');
                 if(c && c.value !== 'en') { let old = c.value; c.value='en'; c.dispatchEvent(new Event('change')); setTimeout(()=> { c.value=old; c.dispatchEvent(new Event('change')); }, 50); }
-            }, 100);
+            }, 150);
         }
 
         function answer(selText, el) {
             document.getElementById('options-area').style.pointerEvents = 'none';
 
             let q = quizSet[currentIdx];
+            // Formatlashdan emas, to'g'ridan to'g'ri String qilib solishtiramiz
             let correctText = String(q['True answer']).trim();
             let selectedText = String(selText).trim();
+            
             let isCorrect = selectedText === correctText;
             let time = ((Date.now() - questionStart)/1000).toFixed(1);
 
@@ -544,7 +564,6 @@
             }, 1000);
         }
 
-        // 3. FINISH
         function finish() {
             clearInterval(timerInterval);
             document.getElementById('quiz-screen').classList.add('hidden');
@@ -560,7 +579,6 @@
             document.getElementById('score-circle').style.borderColor = color;
             circle.style.color = color;
 
-            // Render Current Review
             let reviewHTML = '';
             userResponses.forEach((r, i) => {
                 let cls = r.isCorrect ? 'correct' : 'wrong';
@@ -582,7 +600,7 @@
             document.getElementById('current-review-area').innerHTML = reviewHTML;
         }
 
-        // 4. DASHBOARD
+        // --- DASHBOARD ---
         let chartInst = null;
 
         function showDashboard() {
@@ -656,7 +674,6 @@
                 if(isCorr) topicStats[theme].correct++;
             });
 
-            // Stats
             let sessionKeys = Object.keys(sessions);
             document.getElementById('total-tests').innerText = sessionKeys.length;
             document.getElementById('total-questions').innerText = rows.length;
@@ -677,7 +694,6 @@
 
             document.getElementById('avg-score').innerText = Math.round(totalPercent / sessionKeys.length || 0) + "%";
 
-            // Chart Draw
             let ctx = document.getElementById('scoreChart').getContext('2d');
             if(chartInst) chartInst.destroy();
             chartInst = new Chart(ctx, {
@@ -700,7 +716,6 @@
                 }
             });
 
-            // Topics Progress (ALL TOPICS)
             let topicsArr = Object.keys(topicStats).map(t => {
                 return { 
                     t: t, 
