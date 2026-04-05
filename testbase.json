@@ -2633,11 +2633,11 @@
         "Question_ID":"QID_0264",
         "Theme":"Financial Papers (Shares and Bonds)",
         "Question":"What is the maximum allowable percentage of income from prohibited activities for a corporation’s shares to be tradable?",
-        "A":0.05,
-        "B":0.075,
-        "C":0.1,
-        "D":0.3,
-        "True answer":0.05
+        "A":"5.0%",
+        "B":"7.5%",
+        "C":"10.0%",
+        "D":"30.0%",
+        "True answer":"5.0%"
     },
     {
         "Question_ID":"QID_0265",
@@ -6398,5 +6398,505 @@
         "C":"A customer trades currencies using borrowed funds (leverage\/margin), thereby transacting with funds he does not own",
         "D":"An agent executes a spot currency exchange on behalf of the client, ensuring valid possession (qabd) for both parties",
         "True answer":"A customer trades currencies using borrowed funds (leverage\/margin), thereby transacting with funds he does not own"
+    },
+    {
+        "Question_ID":"QID_0641",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Green Travels is a transport company located in Kuala Lumpur, the company approaches Ameen Bank for financing of trucks via Ijarah mode of financing. After doing the necessary background checks, the Bank comes to the knowledge that Green Travels mostly earns its revenue by transportation of alcoholic beverages. This transaction is illegitimate because it involves:",
+        "A":"Gharar",
+        "B":"Sale of non-permissible goods",
+        "C":"Non permissible use of asset",
+        "D":"Gambling (Maisir)",
+        "True answer":"Non permissible use of asset"
+    },
+    {
+        "Question_ID":"QID_0642",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Mr. D decides to gift his car to one of his friends, the car is of economic value and is worth CU 500,000. Which type of contract is this?",
+        "A":"This is a void contract",
+        "B":"This is a commutative contract",
+        "C":"This is a non-commutative contract",
+        "D":"This is a non-binding contract",
+        "True answer":"This is a non-commutative contract"
+    },
+    {
+        "Question_ID":"QID_0643",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Mr. A offers to buy the entire production of apples from Mr. Z for CU 250,000, with the condition that the sale will conclude if it rains before the apples are ripe. This is prohibited by the precepts of Shari’ah for which of the following reasons.",
+        "A":"It is a black marketing",
+        "B":"It is gambling and speculation business",
+        "C":"It is a riba contract",
+        "D":"It is a form of Gharar",
+        "True answer":"It is a form of Gharar"
+    },
+    {
+        "Question_ID":"QID_0644",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"In Islamic finance, a promise (Waad) refers to an obligation issued by one party unilaterally. A nonbinding promise is where:",
+        "A":"The promisor is under no legal obligation to fulfill a specific act (effect) towards the promise",
+        "B":"The promisor is under legal obligation to fulfill a specific act (effect) towards the promise",
+        "C":"The promisee is under legal obligation to fulfill a specific act (effect) towards the promisor",
+        "D":"None of the above",
+        "True answer":"The promisor is under no legal obligation to fulfill a specific act (effect) towards the promise"
+    },
+    {
+        "Question_ID":"QID_0645",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"In case of early payment of Murabaha price by customer to IFI what are the Shari’ah requirements regarding rebate?\ni. Customer can demand the rebate\nii. Giving rebate should not be a customary practice\niii. IFI can only give that unconditionally\niv. Rebate cannot be given even it is unconditional",
+        "A":"i and ii",
+        "B":"i and iii",
+        "C":"ii and iii",
+        "D":"iii and iv",
+        "True answer":"ii and iii"
+    },
+    {
+        "Question_ID":"QID_0646",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Selling a commodity as per the purchasing price with a defined and agreed profit mark-up is Murabaha.\nThis mark-up may be a percentage of the selling price or a lump sum amount. Which of the following expenses can be included in the Murabaha price?\ni. Transportation\nii. Staff salary\niii. Documentation charges\niv. Insurance",
+        "A":"i, iii and iv",
+        "B":"ii and iv",
+        "C":"iii and iv",
+        "D":"i and ii",
+        "True answer":"i, iii and iv"
+    },
+    {
+        "Question_ID":"QID_0647",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"In contracts involving indebtedness, such as Murabahah, if a procrastinating debtor is late in payment:",
+        "A":"a payment may be accepted from a debtor who is in default that is in excess of the amount of the debt, provided there is no contractual condition whether written or verbal, or customary practice or mutual agreement relating to this additional amount",
+        "B":"An Institution is entitled to monitor and investigate [the financial status and activities of a defaulting debtor through all permissible and legitimate means.",
+        "C":"the Institution is entitled to recoup the amount due from any of the accounts of the customer with the Institution,whether current accounts or investment accounts. This may be done without getting any further consent of the debtor provided the balance in the account is of the same currency as that of the debt. If, however, the currency is different, then the rate of exchange to be used must be the then prevailing rate of exchange.",
+        "D":"All of the above are true.",
+        "True answer":"All of the above are true."
+    },
+    {
+        "Question_ID":"QID_0648",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"A set-off on demand is:",
+        "A":"the discharge of two debts by the consent of the two parties to extinguish their obligations towards each other.",
+        "B":"the discharge of two debts at the request of the creditor for the superior debt and his consent to forgo the excess of the amount or privilege he is owed over what he owes.This set-off will take place whether or not the creditor for the smaller debt consents.",
+        "C":"the spontaneous discharge of two debts that is not contingent on the request or consent of both or either party.",
+        "D":"All of the above are true.",
+        "True answer":"the spontaneous discharge of two debts that is not contingent on the request or consent of both or either party."
+    },
+    {
+        "Question_ID":"QID_0649",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"If the guarantor manages to convince the creditor to grant him a discount on the debt he has guaranteed on behalf of the debtor:",
+        "A":"The guarantor may recover from the guaranteed debtor the amount he has actually paid to the creditor, but not the amount he has guaranteed",
+        "B":"The guarantor has the right to recover from the guaranteed debtor the entire amount he has guaranteed to pay.",
+        "C":"The guarantor may charge the guaranteed debtor a fee for his service.",
+        "D":"The guarantor may recover from the guaranteed debtor what he has actually paid to the creditor, in addition to a fee for his service",
+        "True answer":"The guarantor may recover from the guaranteed debtor the amount he has actually paid to the creditor, but not the amount he has guaranteed"
+    },
+    {
+        "Question_ID":"QID_0650",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"What distinguishes Ju’alah from Ijarah?",
+        "A":"Ju’alah requires acceptance, while Ijarah does not",
+        "B":"Ju’alah is valid despite uncertainty of work",
+        "C":"Ijarah is terminable, while Ju’alah is binding",
+        "D":"Ju’alah requires a known worker",
+        "True answer":"Ju’alah is valid despite uncertainty of work"
+    },
+    {
+        "Question_ID":"QID_0651",
+        "Theme":"MOCK EXAM 2026",
+        "Question":" ………… is the replacement of a creditor with another:",
+        "A":"Transfer of debt.",
+        "B":"Transfer of right",
+        "C":"Restricted hawalah",
+        "D":"Unrestricted hawalah",
+        "True answer":"Transfer of right"
+    },
+    {
+        "Question_ID":"QID_0652",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"In the Murabahah contract, it is permissible for the institution:",
+        "A":"To stipulate in the contract of Murabahah to the purchase orderer a condition that the institution is free from responsibility for all or some of the defects of the asset. This is known as Ba’i al-Bara’ah (sale on ‘as is’ basis).",
+        "B":"In case of the customer’s refusal to execute the contract of Murabahah, to oblige the customer to the purchase orderer to take delivery of the commodity and pay the price thereof.",
+        "C":"Add the indirect expenses to the cost of the commodity, such as costs of the institution’s staff.",
+        "D":"All of the above are true.",
+        "True answer":"To stipulate in the contract of Murabahah to the purchase orderer a condition that the institution is free from responsibility for all or some of the defects of the asset. This is known as Ba’i al-Bara’ah (sale on ‘as is’ basis)."
+    },
+    {
+        "Question_ID":"QID_0653",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"In case of total destruction of the leased asset in an Ijarah contract:",
+        "A":"The Ijarah contract is terminated if it is concluded on an identified asset.",
+        "B":"In an Ijarah Mawsufah fi al-Dhimmah (contract for an unidentified asset undertaken by the lessor to be delivered according to the agreed specifications), the contract terminates, even if the owner offers an alternative asset having a specification similar to that of the destroyed asset.",
+        "C":"It is permissible to stipulate that the rest of the instalments should be paid.",
+        "D":"All of the above are true.",
+        "True answer":"The Ijarah contract is terminated if it is concluded on an identified asset."
+    },
+    {
+        "Question_ID":"QID_0654",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"If an IFI provides funding for one of its major farmer customers under a Salam contract, and the IFI buys from this customer a specific quantity of wheat provided that the customer should hand it over to the IFI at a specified future date, and the IFI agrees with the customer that the price under the Salam contract should be the debt due to the IFI from the same customer, which is a debt that fell due three months ago but he defaulted on its payment, this transaction is impermissible because:",
+        "A":"It is possible for the quantity of wheat to be more than the debt amount.",
+        "B":"It is possible for the IFI to take into consideration in the Salam price the period of delay in payment of the debt due from the customer.",
+        "C":"It is not permissible for the Salam capital to be in the form of a debt.",
+        "D":"It is not permissible for wheat to be purchased under a Salam contract because it is a form of fungible goods.",
+        "True answer":"It is not permissible for the Salam capital to be in the form of a debt."
+    },
+    {
+        "Question_ID":"QID_0655",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The stipulation by the sani’ (manufacturer) for the mustasni’ (customer) to pay part of the price promptly in order to enable it to buy materials, against the manufacturer’s undertaking not to use it for the benefit of another customer, is:",
+        "A":"Not permissible according to Shari’ah",
+        "B":"Permissible, and the customer becomes the owners of the materials, and the manufacturer may not dispose of them xcept to manufacture the required commodity",
+        "C":"Permissible, and the manufacturer becomes the owner of the materials, but it is impermissible that he uses them for the benefit of another customer",
+        "D":"Permissible, and the manufacturer becomes the owner of the materials and he may use them for the benefit of another customer, and the stipulation becomes null and void",
+        "True answer":"Permissible, and the manufacturer becomes the owner of the materials, but it is impermissible that he uses them for the benefit of another customer"
+    },
+    {
+        "Question_ID":"QID_0656",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The IFI has handed over to its customer a land owned by it to build a commercial complex according to specific plans and specifications, provided that the customer should utilize the complex after completion of the construction, for 20 years, and after this period the customer should hand over the complex to the IFI without any consideration. This transaction is:",
+        "A":"Permissible, and it is considered an Istisna’a in which the price is the benefit of the manufactured commodity itself.",
+        "B":"Permissible and it is considered a described Ijarah (forward Ijarah)",
+        "C":"Impermissible and it is considered an Istisna’a in which the price is not known",
+        "D":"Impermissible and it is considered an Ijarah in which the rental is unknown",
+        "True answer":"Permissible, and it is considered an Istisna’a in which the price is the benefit of the manufactured commodity itself."
+    },
+    {
+        "Question_ID":"QID_0657",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The stock company is a modern day company, and it is in fact:",
+        "A":"Sharikat al-Wojooh or dhimam (liability partnership)",
+        "B":"Sharikat al-inan (contractual partnership)",
+        "C":"Sharikat al-a’mal (vocational partnership)",
+        "D":"Sharikat al-milk",
+        "True answer":"Sharikat al-inan (contractual partnership)"
+    },
+    {
+        "Question_ID":"QID_0658",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"A Mudarabah contract can be liquidated in the following manner:",
+        "A":"being a non-binding contract, it can be liquidated by unilateral termination of the contract by one of the parties",
+        "B":"with the agreement of both parties",
+        "C":"when the funds of the Mudarabah contract have been exhausted or have sustained losses",
+        "D":"All of the above are true",
+        "True answer":"All of the above are true"
+    },
+    {
+        "Question_ID":"QID_0659",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"If the two parties to the Mudaraba contract are silent on the percentages of profit distribution between them:",
+        "A":"Profit shall be distributed between them evenly",
+        "B":"Profit shall be entirely for the capital provider (rab almaal)",
+        "C":"The Mudarib shall be paid remuneration for similar services, while profit shall be that of the capital provider",
+        "D":"Custom and practice should be followed in distributing profit, and if there is no custom and practice the Mudarib shall get remuneration for similar services while profit shall be that of the capital provider",
+        "True answer":"Custom and practice should be followed in distributing profit, and if there is no custom and practice the Mudarib shall get remuneration for similar services while profit shall be that of the capital provider"
+    },
+    {
+        "Question_ID":"QID_0660",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Dealing in documentary credit includes agency for providing procedural services, the most important of which is the examination of documents. It also includes the following:",
+        "A":"The provision of institutional guarantee to the importer",
+        "B":"The provision of institutional guarantee to the exporter",
+        "C":"The provision of institutional guarantee of the goods",
+        "D":"The provision of the importing customer's guarantee of the documents",
+        "True answer":"The provision of institutional guarantee to the importer"
+    },
+    {
+        "Question_ID":"QID_0661",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Actual possession is realised in:",
+        "A":"immovable property through relinquishment and enabling transactions in it",
+        "B":"in movables through physical corporeal delivery",
+        "C":"a and b",
+        "D":"None of the above is true",
+        "True answer":"a and b"
+    },
+    {
+        "Question_ID":"QID_0662",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"In principle, charges incurred in delivery and collection in the Qard contract related to its payment using one of the standard customary units should be borne by:",
+        "A":"The lender",
+        "B":"The borrower",
+        "C":"The lender and the borrower equally",
+        "D":"The lender and borrower as agreed",
+        "True answer":"The borrower"
+    },
+    {
+        "Question_ID":"QID_0663",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The following may be traded on organised markets.",
+        "A":"commodity futures",
+        "B":"options",
+        "C":"spot contracts",
+        "D":"all the above are true",
+        "True answer":"spot contracts"
+    },
+    {
+        "Question_ID":"QID_0664",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The stipulation by the IFI for the customer that it shall have the right to manage the property which he has bought it from the institution in case the price thereof is not paid within the agreed time limits is a condition:",
+        "A":"That is permissible and it is a conditional agency",
+        "B":"That is not permissible because it is a suspended sale",
+        "C":"That is not permissible because it is a condition contemplated in a contract",
+        "D":"Null, the contract is valid, but the condition is null and void",
+        "True answer":"That is permissible and it is a conditional agency"
+    },
+    {
+        "Question_ID":"QID_0665",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The rulings on the uncommissioned agent are applicable to the following:",
+        "A":"compensatory contracts, like sale, purchase, rent and hiring contracts",
+        "B":"donations by way of gift",
+        "C":"investment agency contracts",
+        "D":"all of the above are true",
+        "True answer":"all of the above are true"
+    },
+    {
+        "Question_ID":"QID_0666",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Syndicated financing, it is not permissible:",
+        "A":"for any of the participating institutions to receive all its profits and entitlements in a currency other than the currency of the syndication according to the prevailing exchange rate on the day of receiving such amounts.",
+        "B":"to guarantee capital except in case of misconduct, negligence or breach of conditions incorporated in the syndication arrangement documents.",
+        "C":"for the investment agent or any other party of the Musharaka or the Mudaraba to provide a commitment to safeguard any other party against exchange rate fluctuations",
+        "D":"(a) and (b)",
+        "True answer":"(a) and (b)"
+    },
+    {
+        "Question_ID":"QID_0667",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"………… refers to the process of purchasing a commodity for a deferred price (determined through Musawama (bargaining) or Murabaha (mark-up sale) and selling it to a third party for a sport price so as to obtain cash",
+        "A":"Tawarruq (Monetization)",
+        "B":"‘Ena",
+        "C":"Parallel Salam",
+        "D":"Deferred sale",
+        "True answer":"Tawarruq (Monetization)"
+    },
+    {
+        "Question_ID":"QID_0668",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Gharar which violates transactions is:",
+        "A":"Involved in an exchange-based contract or any contract of that nature",
+        "B":"Hard to avoid in contracts, and is not sufficient to generate dispute",
+        "C":"and (b)",
+        "D":"None of the above is true",
+        "True answer":"Involved in an exchange-based contract or any contract of that nature"
+    },
+    {
+        "Question_ID":"QID_0669",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"………… is an agreement between two parties or more to designate an external party for resolving a dispute between them through issuance of a binding verdict.",
+        "A":"Sulh (reconciliation)",
+        "B":"Consensual settlement",
+        "C":"Arbitration",
+        "D":"Ju'alah",
+        "True answer":"Arbitration"
+    },
+    {
+        "Question_ID":"QID_0670",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"………. is the contract through which a service\/work of a natural or a legal person is obtained against a specific amount of pay. The service thus obtained could be specific or a future one that needs to be specified through detailed terms of reference, such as educational, health and consultancy services.",
+        "A":"Ijarah Mawsufah fi al-Dhimmah (contract for an unidentified asset undertaken by the lessor to be delivered according to the agreed specifications)",
+        "B":"Ijarah Mudafah (forward Ijarah)",
+        "C":"Hiring of people (Ijara al-Ashkhas)",
+        "D":"Ijarah Tashghiliyah (operating Ijarah)",
+        "True answer":"Hiring of people (Ijara al-Ashkhas)"
+    },
+    {
+        "Question_ID":"QID_0671",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Which of the following is permissible?\ni. for an institution to accept agency to pay Zakah on behalf of others\nii. for an institution to distribute Zakah through a Zakah agency\niii. for an institution to coordinate with its subsidiary to avoid double payment of Zakah",
+        "A":"i and ii",
+        "B":"ii and iii",
+        "C":"i and iii",
+        "D":"i, ii and iii",
+        "True answer":"i, ii and iii"
+    },
+    {
+        "Question_ID":"QID_0672",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Islamic Bank A deposited CU 500,000 in an investment account at Islamic Bank B based on a Mudarabah contract. Islamic Bank B invested the money in a venture where 30% of the assets are zakatable (e.g., cash and trading goods) and 70% of the assets are not zakatable (e.g., fixed assets and operational assets).\nIn the above scenario, what will be the zakatable asset for Islamic Bank A?",
+        "A":"CU 500,000",
+        "B":"CU 350,000",
+        "C":"CU 150,000",
+        "D":"There is no Zakatable asset for Islamic Bank A",
+        "True answer":"CU 150,000"
+    },
+    {
+        "Question_ID":"QID_0673",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Zakatable Assets include:",
+        "A":"Fixed assets for operations",
+        "B":"Revenue-generating fixed assets",
+        "C":"Liquid or easy-to-liquidate current assets",
+        "D":"All of the above are true",
+        "True answer":"Liquid or easy-to-liquidate current assets"
+    },
+    {
+        "Question_ID":"QID_0674",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"If the IFI takes a property from the customer as a pledge for his debt, the IFI may:",
+        "A":"Take the proceeds of the property until the customer pays off his debt",
+        "B":"Utilize the property itself without leasing it out to third parties",
+        "C":"Recover the debt from the proceeds of the property by mutual agreement",
+        "D":"All of the above are true",
+        "True answer":"Recover the debt from the proceeds of the property by mutual agreement"
+    },
+    {
+        "Question_ID":"QID_0675",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"It is permissible for the pledge to be held by a third party agreed upon by the two parties who is called “just”, and in this case:",
+        "A":"It is not permissible for the pledgor or pledgee to transfer the pledge to another party",
+        "B":"It is permissible for the pledgor and the pledgee to transfer the pledge to another party",
+        "C":"It is permissible for the pledgor only to move the pledge to another party",
+        "D":"It is permissible for the pledgee only to move the pledge to another party",
+        "True answer":"It is not permissible for the pledgor or pledgee to transfer the pledge to another party"
+    },
+    {
+        "Question_ID":"QID_0676",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"………. are independent rights that do not rely on the existence of any other right",
+        "A":"Personal rights",
+        "B":"Primary proprietary rights",
+        "C":"Secondary proprietary rights",
+        "D":"Rights to intangible assets",
+        "True answer":"Primary proprietary rights"
+    },
+    {
+        "Question_ID":"QID_0677",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"37. What steps should an Islamic bank follow to execute a Musharaka transaction after entering a Musharaka agreement with a company?\ni. An IFI and a customer jointly enter into a Musharaka agreement to contribute capital to the business venture\nii. The IFI and the customer jointly set up the business venture and manage its operations, sharing the responsibilities and profit as per agreed terms\niii. If profit is generated, it is shared between the partners as per the agreed ratio. Any loss will be shared among the partners in proportion to their capital contributions\niv. The profit earned from the business ventures is distributed among the IFI and the depositors as per the pre-agreed ratio. In case of loss, it is borne solely by the customers",
+        "A":"ii, iii and iv",
+        "B":"i, ii and iv",
+        "C":"i, iv and iii",
+        "D":"i, ii and iii",
+        "True answer":"i, ii and iii"
+    },
+    {
+        "Question_ID":"QID_0678",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Following information has been extracted from KLM Islamic Bank (KLM):\nTotal amount of Investment Account Holders (IAH): CU 200,000\nTotal amount of Assets: CU 300,000\nTotal amount of Equity: CU 100,000\nTotal amount of Profit from Assets: CU 70,000\nProfit sharing ratio for Mudarib and Rab al-maal: 30:70\nProfit Equalization Ratio (PER): 15%\nWhat amount will be distributed to the Rab al-maal?",
+        "A":"CU 27,767",
+        "B":"CU 10,500",
+        "C":"CU 4,900",
+        "D":"CU 3,500",
+        "True answer":"CU 27,767"
+    },
+    {
+        "Question_ID":"QID_0679",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The lessor (Mu’jir) provides the asset for use and \/ or benefit against rental. The lessee (Musta’jir) is entitled to use \/ benefit from the Ijarah asset and is considered the trustee. Major maintenance and impairment to the asset not caused by negligence will be borne by which of the following?",
+        "A":"Cost of major maintenance of asset is borne by the mutual consent of the lessor and lessee",
+        "B":"Cost of major maintenance of asset is borne by the lessee only",
+        "C":"Cost of major maintenance of asset is borne by both lessee and lessor in equal proportion",
+        "D":"Cost of major maintenance of asset is borne by the lessor only",
+        "True answer":"Cost of major maintenance of asset is borne by the lessor only"
+    },
+    {
+        "Question_ID":"QID_0680",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The government of a country is seeking a comprehensive survey report about coal reserves in desert region of the country. For the stated purpose, the government was signing a contract with an exploration firm which will submit a detailed report within 2 years against a consideration of CU 400,000. The contract is comprised of all necessary and detailed terms and conditions. Considering the features of the contract, choose the correct statement:",
+        "A":"Ju’ala is suitable for contract for survey report",
+        "B":"Service Ijarah is suitable for contract for survey report",
+        "C":"Asset Ijarah is suitable for contract for survey report",
+        "D":"None of Ju’ala and Ijarah is suitable for contract for survey report",
+        "True answer":"Ju’ala is suitable for contract for survey report"
+    },
+    {
+        "Question_ID":"QID_0681",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Trading in monetary substances is called ‘Bai al Sarf’. Bai' al-Sarf is defined as the sale of gold, silver or other monetary units on both sides. Which of the following is allowed while trading in different currencies?\ni. Both parties must take possession of the counter values before dispersing\nii. The dealing in currencies should aim at establishing a monopoly position\niii. Possession may take place either physically or constructively\niv. Currency transactions should be carried out on the forward or futures markets",
+        "A":"i and ii",
+        "B":"i and iii",
+        "C":"ii and iii",
+        "D":"iii and iv",
+        "True answer":"i and iii"
+    },
+    {
+        "Question_ID":"QID_0682",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Once the Mudarib (investment manager) commences work, the Mudarabah becomes binding until actual or constructive liquidation. Choose:",
+        "A":"True",
+        "B":"False",
+        "C":null,
+        "D":null,
+        "True answer":"True"
+    },
+    {
+        "Question_ID":"QID_0683",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The contract for provision of online access service by the institution is characterized by Shari'ah as a shared-hiring contract (Ijarah Mushtaraka). Choose:",
+        "A":"True",
+        "B":"False",
+        "C":null,
+        "D":null,
+        "True answer":"True"
+    },
+    {
+        "Question_ID":"QID_0684",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"It is permissible to include penalty clauses in all of the following contracts, except:",
+        "A":"Contracting agreements",
+        "B":"Istisna' contracts",
+        "C":"Service ijarah contracts",
+        "D":"Ijarah contracts when the lessee delays rent payment without justifiable excuse",
+        "True answer":"Ijarah contracts when the lessee delays rent payment without justifiable excuse"
+    },
+    {
+        "Question_ID":"QID_0685",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"The institutions (A) and (B) entered into a bilateral promise to conduct a set-off of debts that may arise between them in the future. At some time, mutual debts arose as each institution had made payments on behalf of the other in import-export trade finance transactions. Institution (A) had debts denominated in Saudi Riyals, while institution (B) had debts denominated in US Dollars. When executing the set-off, a disagreement arose regarding the applicable exchange rate. What is the correct course of action in accordance with Shariah?",
+        "A":"Set-off should be done at the prevailing exchange rate at the time of each payment against a previous debt",
+        "B":"Set-off should be done according to the pre-determined rate specified in the promise agreement",
+        "C":"Set-off should be done at the prevailing exchange rate at the time of set-off, to prevent collusion in riba",
+        "D":"This set-off is not permissible in the first place based on a prior agreement, as it constitutes a bilateral promise to a currency exchange transaction in the future",
+        "True answer":"Set-off should be done at the prevailing exchange rate at the time of set-off, to prevent collusion in riba"
+    },
+    {
+        "Question_ID":"QID_0686",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"All the following are considered applications of the hawala contract (transfer of debt), except:",
+        "A":"Issuing a cheque drawn on a current account with sufficient balance, with no creditor relationship between the beneficiary and the cheque drawer.",
+        "B":"Issuing a cheque drawn on a current account without sufficient balance, accepted by the bank, where the beneficiary is a creditor of the cheque drawer.",
+        "C":"Issuing a cheque drawn on a current account with sufficient balance, where the beneficiary is a creditor of the cheque drawer.",
+        "D":"Endorsing travellers' cheques in favour of a creditor.",
+        "True answer":"Issuing a cheque drawn on a current account with sufficient balance, with no creditor relationship between the beneficiary and the cheque drawer."
+    },
+    {
+        "Question_ID":"QID_0687",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"An Islamic financial institution financed a lithium battery startup for electric vehicles based on a partnership (Musharakah), stipulating that it would exclusively receive all profits from the last quarter, while profits from the first three quarters would be split equally. What is the Shariah ruling on this condition?",
+        "A":"Permissible — since profit shares may be pre-agreed by contract",
+        "B":"Not permissible — because one partner's exclusive entitlement to profits from a specific period severs partnership in profit",
+        "C":"Not permissible — because it constitutes exploitation",
+        "D":"There is no correct option",
+        "True answer":"Not permissible — because one partner's exclusive entitlement to profits from a specific period severs partnership in profit"
+    },
+    {
+        "Question_ID":"QID_0688",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Determine the incorrect ruling:",
+        "A":"It is impermissible to sell an invoice at a discount",
+        "B":"It is permissible to sell the invoice to a third party at its face value",
+        "C":"It is permissible for the beneficiary to use the invoice as consideration in exchange for a specified commodity, or the usufruct of a specified item, or the service of a specified service provider",
+        "D":"It is permissible for the creditor (holder of the invoice) to purchase a commodity on a deferred payment basis with a term equivalent to that of the invoice. Subsequently, upon the establishment of the debt obligation, he does Hawalah (transfers) the seller of the commodity to his debtor of the same invoice",
+        "True answer":"It is permissible for the creditor (holder of the invoice) to purchase a commodity on a deferred payment basis with a term equivalent to that of the invoice. Subsequently, upon the establishment of the debt obligation, he does Hawalah (transfers) the seller of the commodity to his debtor of the same invoice"
+    },
+    {
+        "Question_ID":"QID_0689",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Among contemporary applications of Qard are the following:\n1. Current accounts.\n2. Investment accounts.\n3. Overdrafts between the institution and its correspondents.\n4. Overdraft facility for a client.",
+        "A":"1, 2 and 3",
+        "B":"1, 3 and 4",
+        "C":"1 and 2 only",
+        "D":"1, 2, 3 and 4",
+        "True answer":"1, 3 and 4"
+    },
+    {
+        "Question_ID":"QID_0690",
+        "Theme":"MOCK EXAM 2026",
+        "Question":"Ahmad manages a factory for producing natural juices. The factory owns the following assets when the Zakat year (hawl) is due:\n• Ready-to-sell juice containers valued at 200,000 riyals\n• Fresh fruits stored for juicing valued at 80,000 riyals\n• Semi-processed juices in production lines valued at 60,000 riyals\n• Plastic containers and caps for packaging during transport valued at 15,000 riyals, which do not add value to the produced juices.\nWhich of these assets is not subject to Zakat?",
+        "A":"Ready-to-sell containers",
+        "B":"Stored fresh fruits",
+        "C":"Semi-processed juices",
+        "D":"Packaging containers and caps",
+        "True answer":"Packaging containers and caps"
     }
 ]
