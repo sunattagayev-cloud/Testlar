@@ -6675,7 +6675,7 @@
         "Question":"Gharar which violates transactions is:",
         "A":"Involved in an exchange-based contract or any contract of that nature",
         "B":"Hard to avoid in contracts, and is not sufficient to generate dispute",
-        "C":"and (b)",
+        "C":"(a) and (b)",
         "D":"None of the above is true",
         "True answer":"Involved in an exchange-based contract or any contract of that nature"
     },
@@ -6762,7 +6762,7 @@
     {
         "Question_ID":"QID_0677",
         "Theme":"MOCK EXAM 2026",
-        "Question":"37. What steps should an Islamic bank follow to execute a Musharaka transaction after entering a Musharaka agreement with a company?\ni. An IFI and a customer jointly enter into a Musharaka agreement to contribute capital to the business venture\nii. The IFI and the customer jointly set up the business venture and manage its operations, sharing the responsibilities and profit as per agreed terms\niii. If profit is generated, it is shared between the partners as per the agreed ratio. Any loss will be shared among the partners in proportion to their capital contributions\niv. The profit earned from the business ventures is distributed among the IFI and the depositors as per the pre-agreed ratio. In case of loss, it is borne solely by the customers",
+        "Question":"What steps should an Islamic bank follow to execute a Musharaka transaction after entering a Musharaka agreement with a company?\ni. An IFI and a customer jointly enter into a Musharaka agreement to contribute capital to the business venture\nii. The IFI and the customer jointly set up the business venture and manage its operations, sharing the responsibilities and profit as per agreed terms\niii. If profit is generated, it is shared between the partners as per the agreed ratio. Any loss will be shared among the partners in proportion to their capital contributions\niv. The profit earned from the business ventures is distributed among the IFI and the depositors as per the pre-agreed ratio. In case of loss, it is borne solely by the customers",
         "A":"ii, iii and iv",
         "B":"i, ii and iv",
         "C":"i, iv and iii",
