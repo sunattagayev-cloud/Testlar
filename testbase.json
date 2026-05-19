@@ -7648,5 +7648,325 @@
         "C":"Makruh",
         "D":"Not permissible",
         "True answer":"Permissible"
+    },
+    {
+        "Question_ID":"QID_0766",
+        "Theme":"Intensive course",
+        "Question":"Ahmad offers his laptop to Bob, saying: \"I will sell this to you for $500 today or $600 next month.\" They shake hands and agree to the deal without choosing which payment plan they are using. Is this valid?",
+        "A":"Yes, the contract is valid because they mutually agreed and shook hands, which fulfills the condition of offer and acceptance (Ijab and Qabul).",
+        "B":"No, the contract is nullified. This is an example of \"combining two sales in one sale\" (Bay’atayn Fi Bay’ah) without concluding either specific deal, which creates excessive Gharar in the form of the contract.",
+        "C":"Yes, the contract is valid, but it is considered a Murabaha transaction where the $100 difference is the agreed profit margin for the deferred payment.",
+        "D":"No, the contract is invalid because selling an item for two different prices is always considered Riba (usury), even if a specific plan is chosen.",
+        "True answer":"No, the contract is nullified. This is an example of \"combining two sales in one sale\" (Bay’atayn Fi Bay’ah) without concluding either specific deal, which creates excessive Gharar in the form of the contract."
+    },
+    {
+        "Question_ID":"QID_0767",
+        "Theme":"Intensive course",
+        "Question":"A store owner puts three different mystery boxes on a table. A customer pays $50, and the owner uses a random computer program to select which box the customer gets. Is this permissible?",
+        "A":"Yes, it is permissible as long as the value of the items inside the mystery boxes is guaranteed to be at least $50, ensuring the customer doesn't lose money.",
+        "B":"No, the sale is void because the transaction involves Riba (usury), as the customer might receive an item worth significantly more than what they paid.",
+        "C":"No, the sale is void. The contract is finalized subject to the random selection of the sold object, which is an impermissible form of Gharar.",
+        "D":"Yes, it is permissible because both parties mutually agreed to the random selection process and the fixed price before the payment was made.",
+        "True answer":"No, the sale is void. The contract is finalized subject to the random selection of the sold object, which is an impermissible form of Gharar."
+    },
+    {
+        "Question_ID":"QID_0768",
+        "Theme":"Intensive course",
+        "Question":"Can a restaurant owner buy vegetables from a local supplier every day without negotiating the price each morning, simply agreeing to pay the \"standard market price\" at the end of the month?",
+        "A":"No, this is strictly prohibited because the exact price is unknown at the time of each transaction, which constitutes excessive Gharar (uncertainty) in the contract.",
+        "B":"Yes, this is permissible (known as Bay’ al-Istjrar). Gharar in the price is forgiven when purchasing goods regularly subject to the price that people normally sell at in the market.",
+        "C":"No, this is impermissible because both the delivery of goods and the payment are deferred, which creates a forbidden sale of debt for debt (Bay’ al-Kali bil Kali).",
+        "D":"Yes, it is permissible under the condition that they use a Murabaha contract and explicitly state the supplier's profit margin at the end of each week.",
+        "True answer":"Yes, this is permissible (known as Bay’ al-Istjrar). Gharar in the price is forgiven when purchasing goods regularly subject to the price that people normally sell at in the market."
+    },
+    {
+        "Question_ID":"QID_0769",
+        "Theme":"Intensive course",
+        "Question":"Ali rents a taxi and agrees to pay $1 per km. The exact total price is unknown when she gets in the car and is only calculated once she reaches her destination. Is this contract valid?",
+        "A":"No, the contract is invalid because the exact total price must be known at the inception of the contract to avoid excessive Gharar (uncertainty) in an Ijarah (leasing) agreement.",
+        "B":"Yes, the contract is valid as an Ijarah contract, provided that a maximum cap on the fare is explicitly agreed upon before the journey begins to protect the customer.",
+        "C":"Yes, the contract is valid. This is considered a forgivable Gharar in price, as the total rent is determined by a known unit price after reaching the target destination.",
+        "D":"No, the contract is void because tying the price to an unknown distance constitutes Maysir (gambling) for both the driver and the passenger.",
+        "True answer":"Yes, the contract is valid. This is considered a forgivable Gharar in price, as the total rent is determined by a known unit price after reaching the target destination."
+    },
+    {
+        "Question_ID":"QID_0770",
+        "Theme":"Intensive course",
+        "Question":"A fisherman sells 50 kilograms of salmon to a restaurant, promising to catch them from the open ocean tomorrow. Is this sale valid?",
+        "A":"Yes, the contract is valid as a Salam (forward) contract, because the quantity (50 kg) and delivery date (tomorrow) are clearly specified.",
+        "B":"No, the contract is nullified due to Gharar relating to failure in delivery. You cannot sell fish still in the water unless they are in a confined place and do not require fishing.",
+        "C":"Yes, the sale is valid, provided the restaurant pays a deposit upfront and agrees to accept a different type of fish if salmon cannot be caught.",
+        "D":"No, the sale is invalid because the transaction involves Riba (usury) since the fisherman is attempting to profit from a physical effort he hasn't exerted yet.",
+        "True answer":"No, the contract is nullified due to Gharar relating to failure in delivery. You cannot sell fish still in the water unless they are in a confined place and do not require fishing."
+    },
+    {
+        "Question_ID":"QID_0771",
+        "Theme":"Intensive course",
+        "Question":"Zaid buys 100 bags of rice from a wholesaler. Before the wholesaler actually delivers the bags or allows Zaid to take possession of them, Zaid sells the rice to another merchant. Is this second sale permissible?",
+        "A":"Yes, the sale is permissible as long as Zaid has already paid the full price to the wholesaler, which automatically gives him the right to resell it.",
+        "B":"No, the sale is void. Zaid cannot sell a commodity that he does not guarantee through actual or constructive holding (possession).",
+        "C":"Yes, it is permissible if the second sale is structured as a Salam (forward) contract and the new merchant pays the price upfront.",
+        "D":"No, the sale is invalid because selling an item before possession constitutes Riba al-Fadl (usury of surplus) since rice is a ribawi item.",
+        "True answer":"No, the sale is void. Zaid cannot sell a commodity that he does not guarantee through actual or constructive holding (possession)."
+    },
+    {
+        "Question_ID":"QID_0772",
+        "Theme":"Intensive course",
+        "Question":"A school orders 500 desks from a factory. They haven't seen all 500 desks, but they examined one prototype desk provided by the manufacturer. Is this transaction permissible?",
+        "A":"No, the sale is invalid due to excessive Gharar (uncertainty), as the school must physically inspect every single desk before the contract can be concluded.",
+        "B":"Yes, the sale is valid. A sale can be permissibly concluded on the basis of a model that indicates the specific characteristics of the sold commodity.",
+        "C":"No, this transaction is considered selling something that does not exist yet (Bay' al-Ma'dum), which is strictly prohibited under all circumstances without exception.",
+        "D":"Yes, the sale is valid, but the transaction must be processed as a Murabaha, where the factory explicitly states its profit margin for manufacturing the unseen desks.",
+        "True answer":"Yes, the sale is valid. A sale can be permissibly concluded on the basis of a model that indicates the specific characteristics of the sold commodity."
+    },
+    {
+        "Question_ID":"QID_0773",
+        "Theme":"Intensive course",
+        "Question":"Can a farmer use his future, unharvested crops (a farm that has not yet reached the stage of giving yield) as collateral to secure a mortgage (Rahn) with a bank?",
+        "A":"No, this is impermissible. A mortgage (Rahn) is strictly treated like a standard sale, meaning the collateral must be fully existent and capable of immediate physical delivery to avoid Gharar.",
+        "B":"Yes, it is permissible, and the bank is allowed to sell the unyielded crops immediately to a third party if the farmer defaults, regardless of whether they have reached the yield stage.",
+        "C":"Yes, this is permissible. Documentation contracts like Rahn (mortgage) can involve a degree of Gharar that is not allowed in standard sales. However, the bank cannot actually sell the unyielded crops to settle the debt until they have reached the yield stage.",
+        "D":"No, this transaction is void because using an unharvested asset as collateral for a loan creates an illegal exchange of debt for debt (Bay’ al-Kali bil Kali).",
+        "True answer":"Yes, this is permissible. Documentation contracts like Rahn (mortgage) can involve a degree of Gharar that is not allowed in standard sales. However, the bank cannot actually sell the unyielded crops to settle the debt until they have reached the yield stage."
+    },
+    {
+        "Question_ID":"QID_0774",
+        "Theme":"Intensive course",
+        "Question":"An institution executed a currency exchange transaction, but the currencies were not immediately exchanged. During the settlement process, a disagreement arose regarding the applicable exchange rate. What is the correct course of action in accordance with Shari'ah?",
+        "A":"Set-off should be done at the prevailing exchange rate at the time of payment against cash.",
+        "B":"Set-off should be done at the prevailing exchange rate at the time of payment against a previous debt.",
+        "C":"Set-off should be done according to a pre-determined rate specified in the agreement at the time of set-off, to prevent collusion in riba.",
+        "D":"This set-off is not permissible in the first place based on a prior agreement, as it constitutes a bilateral promise to a currency exchange transaction in the future.",
+        "True answer":"This set-off is not permissible in the first place based on a prior agreement, as it constitutes a bilateral promise to a currency exchange transaction in the future."
+    },
+    {
+        "Question_ID":"QID_0775",
+        "Theme":"Intensive course",
+        "Question":"Excessive uncertainty is:",
+        "A":"What directly affects the contract and may lead to disputes, but not in most cases.",
+        "B":"What does not affect the contract and does not invalidate it.",
+        "C":"What is not affected by different environments and eras.",
+        "D":"What dominates the contract until the contract is described by it, and it is likely to lead to disputes.",
+        "True answer":"What dominates the contract until the contract is described by it, and it is likely to lead to disputes."
+    },
+    {
+        "Question_ID":"QID_0776",
+        "Theme":"Intensive course",
+        "Question":"A regional Islamic bank in 2026 launches a \"gamified savings app\" targeting youth. The app offers:\n• A Shari'ah-compliant wallet (qard-based current account) with no guaranteed return.\n• Users earn \"spin tokens\" every time they top up or maintain a minimum monthly balance; these tokens are used in a weekly digital wheel-of-fortune draw for prizes (smartphones, Umrah packages, cash vouchers).\n• Customers who do not maintain the minimum balance receive no tokens and cannot enter the draw.\n• The bank justifies the campaign as \"a halal loyalty programme with free prizes; no extra fee is charged for participation.\" Which is the most accurate Shari'ah assessment?",
+        "A":"Permissible only if every eligible saver receives an identical fixed gift (no draws or random selection), so that no element of chance or unequal gain remains.",
+        "B":"Impermissible in all cases: any prize linked in any way to bank accounts or cards is prohibited according to AAOIFI's Shari'ah standards.",
+        "C":"Impermissible: conditioning entry into a random prize draw on maintaining a balance in a qard-based account is tantamount to an impermissible perk by virtue of the loan.",
+        "D":"Fully permissible: since no explicit entry fee is charged for the draw, and participation is free, the campaign is a standard halal promotion.",
+        "True answer":"Impermissible: conditioning entry into a random prize draw on maintaining a balance in a qard-based account is tantamount to an impermissible perk by virtue of the loan."
+    },
+    {
+        "Question_ID":"QID_0777",
+        "Theme":"Intensive course",
+        "Question":"Which of the following scenarios would be considered Riba under the Qard contract rules?",
+        "A":"The lender receives a higher quantity of goods as repayment than originally loaned, as stipulated in the contract.",
+        "B":"The borrower repays the loan at a different location from where it was originally made.",
+        "C":"The lender and borrower agree to a longer repayment period during the contract.",
+        "D":"The borrower offers a gift to the lender after the loan has been repaid, without prior stipulation.",
+        "True answer":"The lender receives a higher quantity of goods as repayment than originally loaned, as stipulated in the contract."
+    },
+    {
+        "Question_ID":"QID_0778",
+        "Theme":"Intensive course",
+        "Question":"According to the standard, under which condition is an excess benefit permissible?",
+        "A":"When the excess benefit is stipulated in the contract.",
+        "B":"When the excess benefit is offered as a result of a previous habit between the two parties.",
+        "C":"When the excess benefit is related to a different contract like Bay' or Ijarah.",
+        "D":"When the lender specifically requests an excess benefit.",
+        "True answer":"When the excess benefit is offered as a result of a previous habit between the two parties."
+    },
+    {
+        "Question_ID":"QID_0779",
+        "Theme":"Intensive course",
+        "Question":"What does the standard specify regarding the stipulation of a repayment period in a Qard contract?",
+        "A":"The borrower must return the loan before the stipulated period ends.",
+        "B":"The lender can demand the loan back at any time, regardless of the stipulated period.",
+        "C":"If no period is stipulated, the borrower must return the substitute (Badal) on demand.",
+        "D":"The lender must wait until the end of the period to receive repayment, regardless of circumstances.",
+        "True answer":"If no period is stipulated, the borrower must return the substitute (Badal) on demand."
+    },
+    {
+        "Question_ID":"QID_0780",
+        "Theme":"Intensive course",
+        "Question":"Why is it not permissible to stipulate a contract of Bay' or Ijarah within the Qard contract?",
+        "A":"Because it complicates the repayment terms of the Qard.",
+        "B":"Because it creates a conflict of interest for the lender.",
+        "C":"Because it could lead to the misinterpretation of the Qard contract.",
+        "D":"Because it could disguise Riba within the Qard contract.",
+        "True answer":"Because it could disguise Riba within the Qard contract."
+    },
+    {
+        "Question_ID":"QID_0781",
+        "Theme":"Intensive course",
+        "Question":"How are service charges for Qard supposed to be determined according to AAOIFI Shariah Standards?",
+        "A":"Based on the total revenue of the lending institution.",
+        "B":"By including indirect expenses like employee salaries and rent.",
+        "C":"By the actual amount directly spent on rendering the service.",
+        "D":"By the total number of loans issued by the institution.",
+        "True answer":"By the actual amount directly spent on rendering the service."
+    },
+    {
+        "Question_ID":"QID_0782",
+        "Theme":"Intensive course",
+        "Question":"Can a penalty clause (Shart al-Jaza'i) be imposed in Islamic financial contracts to penalize a party for delaying their obligation?",
+        "A":"Yes, it can be imposed in all types of contracts to ensure timely fulfillment of obligations and to compensate for opportunity costs.",
+        "B":"No, penalty clauses are strictly prohibited in all Islamic contracts under any circumstances because they always constitute Riba.",
+        "C":"Yes, but only in contracts of performance (like a contractor delaying construction in Istisna), and never in contracts of indebtedness (like delaying payment in Qard or Murabaha), as that would constitute Riba.",
+        "D":"Yes, it can be imposed in contracts of indebtedness (debt) provided the penalty amount is distributed evenly between the bank and charity.",
+        "True answer":"Yes, but only in contracts of performance (like a contractor delaying construction in Istisna), and never in contracts of indebtedness (like delaying payment in Qard or Murabaha), as that would constitute Riba."
+    },
+    {
+        "Question_ID":"QID_0783",
+        "Theme":"Intensive course",
+        "Question":"Can a penalty clause be imposed in contracts?",
+        "A":"Delaying",
+        "B":"Penalty (Indebtedness | Performance)",
+        "C":"Costs",
+        "D":null,
+        "True answer":"Costs"
+    },
+    {
+        "Question_ID":"QID_0784",
+        "Theme":"Intensive course",
+        "Question":"If a person uses a card based on a Qard Hasan (interest-free loan) for cash withdrawal from the ATM of the card issuer, what fees can the IFI charge for this transaction?",
+        "A":"Only issuance fees",
+        "B":"Only cash withdrawal fees as agreed upon",
+        "C":"Only cash withdrawal fees, which must not exceed the actual direct cost",
+        "D":"No fees are due",
+        "True answer":"No fees are due"
+    },
+    {
+        "Question_ID":"QID_0785",
+        "Theme":"Intensive course",
+        "Question":"An Islamic bank granted a Qard Hasan (benevolent loan) to a customer. To manage its operational costs, the bank included a condition in the loan agreement requiring the customer to purchase an information technology service for a specified fee... What is the Shariah ruling on this transaction?",
+        "A":"Permissible, on the condition that the bank clearly discloses that this stipulation is made to help cover the administrative costs related to the loan.",
+        "B":"Not permissible, as it involves gharar (uncertainty) in the loan contract due to the uncertainty of future level of service performance.",
+        "C":"Permissible, because the IT support service is a separate commercial transaction from the loan, and its price is at the market rate.",
+        "D":"Not permissible, because stipulating a tied commercial transaction as a condition for the loan constitutes a prohibited conditional excess (riba).",
+        "True answer":"Not permissible, because stipulating a tied commercial transaction as a condition for the loan constitutes a prohibited conditional excess (riba)."
+    },
+    {
+        "Question_ID":"QID_0786",
+        "Theme":"Intensive course",
+        "Question":"A bilateral agreement was concluded between the central banks of two Muslim countries to exchange loans in each other's local currencies, with the objective of supporting inter-trade and reducing exchange conversion costs…",
+        "A":"Such an agreement is not permissible, as it entails a binding promise between the parties to exchange loans, which renders it non-compliant with Shariah principles.",
+        "B":"The agreement shall stipulate that, in case of default, the debtor central bank shall repay the loan in US dollars, as a means of protecting the lending central bank from losses...",
+        "C":"The agreement shall stipulate that, in case of default, the debtor central bank shall repay the loan in US dollars, as a means of protecting the lending central bank from losses, while affirming that each loan is independent, and neither is linked nor conditional upon the other.",
+        "D":"The agreement shall be for the purpose of conducting reciprocal loans in the two countries' currencies without stipulating any linkage or conditionality...",
+        "True answer":"The agreement shall be for the purpose of conducting reciprocal loans in the two countries' currencies without stipulating any linkage or conditionality..."
+    },
+    {
+        "Question_ID":"QID_0787",
+        "Theme":"Intensive course",
+        "Question":"In foreign currency forward transactions or future transactions, the Shari'ah auditor should, for the purpose of verifying that the transaction is Shari'ah-compliant, ensure that actual delivery and receipt of currencies subject to the transaction actually take place on the maturity date without delay, by comparing the statement of the IFIs account in the two currencies which are subject of the contract on the same date.",
+        "A":"True",
+        "B":"False",
+        "C":null,
+        "D":null,
+        "True answer":"False"
+    },
+    {
+        "Question_ID":"QID_0788",
+        "Theme":"Intensive course",
+        "Question":"A trader wishes to sell 100 grams of pure gold to a counterparty in exchange for 5,000 grams of silver. According to Shari'ah rulings, which of the following conditions must be met for this transaction to be valid?",
+        "A":"The transaction is impermissible because there is a disparity in the weight of the counter-values.",
+        "B":"The transaction is permissible, provided both the gold and silver are exchanged and delivered during the contracting session.",
+        "C":"The transaction is permissible, and the delivery of the silver can be deferred up to three days.",
+        "D":"The transaction is impermissible because gold can only be exchanged for gold or fiat currency.",
+        "True answer":"The transaction is permissible, provided both the gold and silver are exchanged and delivered during the contracting session."
+    },
+    {
+        "Question_ID":"QID_0789",
+        "Theme":"Intensive course",
+        "Question":"An Islamic financial institution holds gold ingots stored in a warehouse. These ingots do not have distinguishing serial numbers and are not physically allocated to specific owners. Can a client purchase and immediately resell one of these unspecified (unallocated) ingots to a third party without taking physical possession?",
+        "A":"Yes, because a warehouse receipt constitutes constructive possession regardless of allocation.",
+        "B":"Yes, provided the sale to the third party is executed at a higher price.",
+        "C":"No, it is not permissible to sell an unspecified (unallocated) ingot without having physical possession of it.",
+        "D":"No, unless the client pays a Hamish Jiddiyyah (security deposit) first.",
+        "True answer":"No, it is not permissible to sell an unspecified (unallocated) ingot without having physical possession of it."
+    },
+    {
+        "Question_ID":"QID_0790",
+        "Theme":"Intensive course",
+        "Question":"Two partners decide to form a Musharakah (partnership). One partner contributes fiat currency, and the other partner wishes to contribute physical gold bullion as their capital share. How should this be treated under Shari'ah standards?",
+        "A":"The gold cannot be used as capital; only fiat currency is permissible in Musharakah.",
+        "B":"The gold can be used as capital, and its share is determined strictly by its physical weight throughout the life of the contract.",
+        "C":"The gold can be used as capital, provided it is valuated and its monetary value in the currency of the capital is determined by mutual agreement at the contract date.",
+        "D":"The gold must be immediately sold into the market before the Musharakah contract can be signed.",
+        "True answer":"The gold can be used as capital, provided it is valuated and its monetary value in the currency of the capital is determined by mutual agreement at the contract date."
+    },
+    {
+        "Question_ID":"QID_0791",
+        "Theme":"Intensive course",
+        "Question":"An investor buys gold bars for cash on an Islamic brokerage platform, paying the price immediately today, while delivery of the bars into a secure vault and recording them to his account occurs after two business days (T+2). Which ruling is more accurate?",
+        "A":"Permissible, because a short T+2 delay in delivery is acceptable according to the norms.",
+        "B":"Not permissible, since gold-for-cash trades must involve spot mutual possession in the same session (T+0).",
+        "C":null,
+        "D":null,
+        "True answer":"Not permissible, since gold-for-cash trades must involve spot mutual possession in the same session (T+0)."
+    },
+    {
+        "Question_ID":"QID_0792",
+        "Theme":"Intensive course",
+        "Question":"After the institution's agent purchases gold on its behalf and takes valid possession, the client requests to purchase that gold from the institution on a Murabaha basis. This transaction is not permissible.",
+        "A":"True",
+        "B":"False",
+        "C":null,
+        "D":null,
+        "True answer":"True"
+    },
+    {
+        "Question_ID":"QID_0793",
+        "Theme":"Intensive course",
+        "Question":"A client wishes to lease (Ijarah) a heavy gold necklace for a three-day wedding event. She agrees to pay the rental fee (Ujrah) in advance using fiat currency. Is this Ijarah contract permissible?",
+        "A":"Permissible, provided that the corpus of the leased gold is not consumed during the lease.",
+        "B":"Impermissible, because gold is a Ribawi commodity and cannot be leased out.",
+        "C":"Permissible, but the rental fee must be paid in gold, not fiat currency.",
+        "D":"Impermissible, because the rental fee in an Ijarah contract involving gold must only be paid in arrears.",
+        "True answer":"Permissible, provided that the corpus of the leased gold is not consumed during the lease."
+    },
+    {
+        "Question_ID":"QID_0794",
+        "Theme":"Intensive course",
+        "Question":"Two parties owe each other debts. Under what condition will a \"compulsory set-off\" spontaneously discharge these debts without requiring the consent or request of either party?",
+        "A":"The debts are different in maturity, but the creditor of the superior debt demands the set-off.",
+        "B":"Both debts are equal in kind, type, description, and maturity, and neither is encumbered by third-party obligations.",
+        "C":"The debts are of different currencies, but both parties mutually agree to an exchange rate.",
+        "D":"One debt is secured by a mortgage and the other is unsecured, but both are currently due.",
+        "True answer":"Both debts are equal in kind, type, description, and maturity, and neither is encumbered by third-party obligations."
+    },
+    {
+        "Question_ID":"QID_0795",
+        "Theme":"Intensive course",
+        "Question":"Company X owes an Islamic bank $10,000 payable in one year. The Islamic bank owes Company X $10,000 payable immediately today. According to the rules of \"set-off on demand\", who holds the superior debt and what action can they take?",
+        "A":"Company X holds the superior debt because its receivable is currently due, and it can demand a set-off by consenting to relinquish this superiority in duration.",
+        "B":"The bank holds the superior debt because its payable is deferred for a year.",
+        "C":"Neither holds a superior debt because the monetary amounts are identical.",
+        "D":"A set-off on demand is impermissible here because the maturity dates must be exactly the same.",
+        "True answer":"Company X holds the superior debt because its receivable is currently due, and it can demand a set-off by consenting to relinquish this superiority in duration."
+    },
+    {
+        "Question_ID":"QID_0796",
+        "Theme":"Intensive course",
+        "Question":"Two financial institutions exchange bilateral promises to settle anticipated future debts between them by way of set-off. However, the anticipated debts will be in different currencies. To comply with Shari'ah rules and avoid Riba, how must the exchange rate be handled?",
+        "A":"It must be based on the exchange rate explicitly agreed upon on the date the bilateral promise is signed.",
+        "B":"It must be based on the current currency exchange rate at the time the actual set-off takes place.",
+        "C":"It must be based on the average exchange rate over the period between the promise and the set-off.",
+        "D":"It must assume a 1:1 parity to avoid the complications of Gharar (uncertainty).",
+        "True answer":"It must be based on the current currency exchange rate at the time the actual set-off takes place."
+    },
+    {
+        "Question_ID":"QID_0797",
+        "Theme":"Intensive course",
+        "Question":"Which of the following applications of set-off is not permissible according to the Shari'ah standards?",
+        "A":"The institution recovers the amounts due from the customer by entering into a new Tawarruq transaction with him, and uses the proceeds of that transaction to settle the previous debts automatically, without providing the customer with an opportunity to use the amount at his discretion.",
+        "B":"The institution consolidates the various accounts of a defaulting customer into a single account and effects set-off between the amounts due and the balance of that account, in accordance with a prior agreement with the customer.",
+        "C":"The institution sets off the amounts due from the customer arising from the use of a credit card based on Qard Hasan against the balance in the customer's current account with the same institution, pursuant to a prior agreement with the customer.",
+        "D":"The institution stipulates in the Murabahah financing agreement that, if the customer defaults in paying two or more instalments, the institution shall have the right to recover the due amounts from any of the customer's accounts held with the institution, whether current or investment accounts.",
+        "True answer":"The institution recovers the amounts due from the customer by entering into a new Tawarruq transaction with him, and uses the proceeds of that transaction to settle the previous debts automatically, without providing the customer with an opportunity to use the amount at his discretion."
     }
 ]
