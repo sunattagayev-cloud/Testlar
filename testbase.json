@@ -8042,7 +8042,7 @@
     {
         "Question_ID":"QID_0805",
         "Theme":"Intensive course 02",
-        "Question":"Which of the following in incorrect for Salam financing:",
+        "Question":"Which of the following is incorrect for Salam financing:",
         "A":"Salam is not permitted for anything specific like \"this phone\".",
         "B":"Salam capital shall be provided only be in the form of fungible goods.",
         "C":"The Muslam fihi may be a commodity in the form of fungible goods.",
@@ -8148,5 +8148,625 @@
         "C":"Ownership must transfer with all associated risks and benefits",
         "D":"The price must be paid in full upfront",
         "True answer":"Ownership must transfer with all associated risks and benefits"
+    },
+    {
+        "Question_ID":"QID_0816",
+        "Theme":"Intensive course 03",
+        "Question":"If the agent declines, without any excuse, to continue with the agency against fee, and the work he has done was beneficial, the agent should pay remuneration for the actual detriment suffered by the principal due to this decline. As regards the remuneration:",
+        "A":"The agent is not entitled to remuneration for his work.",
+        "B":"The agent is entitled to remuneration for his work he has accomplished.",
+        "C":"The agent is entitled to the market remuneration for the work he has accomplished, to the extent of the agreed remuneration for the portion of work he has accomplished.",
+        "D":"The agent is entitled to the full remuneration agreed upon.",
+        "True answer":"The agent is entitled to remuneration for his work he has accomplished."
+    },
+    {
+        "Question_ID":"QID_0817",
+        "Theme":"Intensive course 03",
+        "Question":"For what matters may a partially capable person, such as a discriminating minor, appoint an agent?",
+        "A":"Harmful matters like making donations.",
+        "B":"Matters that result in absolute benefit to him, such as accepting donations from others.",
+        "C":"Trading in impermissible commodities.",
+        "D":"Committing usurious lending.",
+        "True answer":"Matters that result in absolute benefit to him, such as accepting donations from others."
+    },
+    {
+        "Question_ID":"QID_0818",
+        "Theme":"Intensive course 03",
+        "Question":"Why is it not permissible to combine agency and personal guarantees in one contract at the same time?",
+        "A":"Because such a combination conflicts with the nature of these contracts.",
+        "B":"Because the contract expires when the principal or the agent dies.",
+        "C":"Because agency is, basically, not binding.",
+        "D":"Because absolute agency is bound by customary practices.",
+        "True answer":"Because such a combination conflicts with the nature of these contracts."
+    },
+    {
+        "Question_ID":"QID_0819",
+        "Theme":"Intensive course 03",
+        "Question":"If the investment results in profit or capital gain in case of a breach that is advantageous to the principal, then such profit or capital increase:",
+        "A":"to the agent only, because it is not one of the conditions of agency.",
+        "B":"belongs to the principal without affecting the agent's right to the performance incentive, if any.",
+        "C":"is to the principal only, and the agent is not entitled to the incentive, if any.",
+        "D":"shall be divided equally between them.",
+        "True answer":"is to the principal only, and the agent is not entitled to the incentive, if any."
+    },
+    {
+        "Question_ID":"QID_0820",
+        "Theme":"Intensive course 03",
+        "Question":"If Ju'alah contract is terminated by the worker after the work is commenced:",
+        "A":"The worker is not entitled to reward unless the parties agree otherwise",
+        "B":"The offeror is bound to pay reasonable wages.",
+        "C":"Work is entitled to reasonable wages, but he should not receive the same.",
+        "D":"None of the above",
+        "True answer":"The worker is not entitled to reward unless the parties agree otherwise"
+    },
+    {
+        "Question_ID":"QID_0821",
+        "Theme":"Intensive course 03",
+        "Question":"The following statements are correct about ju'alah:",
+        "A":"Acceptance is not a condition for the validity of ju'alah",
+        "B":"The parties should assume legal capacity to enter into a contract",
+        "C":"The compensation may be a portion of the object of work in Ju'alah",
+        "D":"All the above are correct",
+        "True answer":"All the above are correct"
+    },
+    {
+        "Question_ID":"QID_0822",
+        "Theme":"Intensive course 03",
+        "Question":"If the Ja'il (offeror) revokes the Ju'ala contract before the worker commences work:",
+        "A":"The 'Amil (worker) is not entitled to anything.",
+        "B":"The Ja'il must pay the entire Ju'l to the worker.",
+        "C":"The Ja'il must pay to the worker the Ju'l of an equivalent work.",
+        "D":"The Ja'il must pay what the two parties agreed on revocation",
+        "True answer":"The 'Amil (worker) is not entitled to anything."
+    },
+    {
+        "Question_ID":"QID_0823",
+        "Theme":"Intensive course 03",
+        "Question":"A government signs a contract with a development company to build a central wastewater treatment plant in an African capital, according to technical specifications, where the company undertakes design, construction, and funding, and in return it receives the right to operate the plant and benefit from wastewater treatment services and users for 15 years, after which the plant is handed over to the government. At any stage during construction, instead, the \"price of the project\" is the right to exploit it during the concession term. What is the most accurate fiqhi characterization of this concession between the state and the company?",
+        "A":"An Istisna contract whose price is the usufruct of the project for a fixed period.",
+        "B":"A Ju'alah contract because the consideration is a share of actual revenues.",
+        "C":"An Ijarah contract over the land's usufruct only.",
+        "D":"A Mudarabah contract where the capital is the land and buildings.",
+        "True answer":"An Istisna contract whose price is the usufruct of the project for a fixed period."
+    },
+    {
+        "Question_ID":"QID_0824",
+        "Theme":"Intensive course 03",
+        "Question":"Which of the following is permissible in distribution of Mudarabah profit?",
+        "A":"To fix the amount of profit that the Mudarib should receive",
+        "B":"To fix a ceiling (maximum amount) of profit for either of the parties",
+        "C":"To fix a floor (minimum amount) of profit for either of the parties",
+        "D":"None of the above is permissible",
+        "True answer":"None of the above is permissible"
+    },
+    {
+        "Question_ID":"QID_0825",
+        "Theme":"Intensive course 03",
+        "Question":"Rab Almal and the Mudarib may agree that the profit of the Rab Almal to be",
+        "A":"10% of the profit",
+        "B":"10% of the capital",
+        "C":"2,000 Euros",
+        "D":"A or B",
+        "True answer":"10% of the profit"
+    },
+    {
+        "Question_ID":"QID_0826",
+        "Theme":"Intensive course 03",
+        "Question":"A digital investment platform offers a pooled Mudaraba investment account. Disclosure says: \"Actual profit is shared 40% to the institution and 60% to investors. If annual return exceeds 10%, the institution takes 20% of the excess as a performance fee. If it exceeds 15%, the distribution is 40% : 60%\". No capital guarantee is provided. According to Shariah Standard No. 40, what is the ruling on this performance fee feature?",
+        "A":"Impermissible, because it ties profit to an external price index.",
+        "B":"Impermissible, because it fixes a lump sum of profit for the institution",
+        "C":"Permissible, because it gives the institution an additional rate-based share of excess profit, while all distributions remain ratio-based.",
+        "D":"Impermissible, because it implies guaranteeing a certain return to investors.",
+        "True answer":"Permissible, because it gives the institution an additional rate-based share of excess profit, while all distributions remain ratio-based."
+    },
+    {
+        "Question_ID":"QID_0827",
+        "Theme":"Intensive course 03",
+        "Question":"A regional bank faces severe liquidity stress and is judicially declared bankrupt under local regulations. Its statement of affairs shows: Current account balances of retail and corporate clients. Unrestricted Mudaraba investment accounts. A segregated portfolio of specialized equity investments (Restricted investment funds\/portfolios) which the bank manages as an investment agent without owning the underlying assets. Which of the following must be included in the bankruptcy estate and subjected to division among creditors?",
+        "A":"Only segregated investment portfolios, as they are most valuable.",
+        "B":"All three: Current accounts, Mudaraba investment accounts, and segregated portfolios.",
+        "C":"Only current accounts.",
+        "D":"Current accounts and Mudaraba investment accounts, but not the assets of segregated portfolios.",
+        "True answer":"Current accounts and Mudaraba investment accounts, but not the assets of segregated portfolios."
+    },
+    {
+        "Question_ID":"QID_0828",
+        "Theme":"Intensive course 04",
+        "Question":"According to Shari'ah Standard No. 1, what is the ruling on entering into forward currency contracts?",
+        "A":"It is permissible if both parties agree.",
+        "B":"It is permissible for hedging purposes.",
+        "C":"It is permissible only for central banks.",
+        "D":"It is prohibited.",
+        "True answer":"It is prohibited."
+    },
+    {
+        "Question_ID":"QID_0829",
+        "Theme":"Intensive course 04",
+        "Question":"When exchanging countervalues of the same currency (e.g., USD for USD), what is the key Shari'ah requirement?",
+        "A":"They must be of equal amount.",
+        "B":"One party can defer delivery by up to 3 days.",
+        "C":"The exchange can include a premium for paper money.",
+        "D":"They must be exchanged at the future spot rate.",
+        "True answer":"They must be of equal amount."
+    },
+    {
+        "Question_ID":"QID_0830",
+        "Theme":"Intensive course 04",
+        "Question":"Does crediting a sum of money to a customer's account constitute valid possession in currency trading?",
+        "A":"Yes, but only if it's done within 30 days.",
+        "B":"No, only physical hand-to-hand delivery is valid.",
+        "C":"No, unless it involves a physical gold equivalent.",
+        "D":"Yes, it is considered a form of constructive possession.",
+        "True answer":"Yes, it is considered a form of constructive possession."
+    },
+    {
+        "Question_ID":"QID_0831",
+        "Theme":"Intensive course 04",
+        "Question":"Is a bilateral promise to purchase and sell currencies legally binding in Islamic finance?",
+        "A":"No, unilateral promises are also forbidden.",
+        "B":"Yes, under all circumstances.",
+        "C":"Yes, if used for hedging.",
+        "D":"No, it is forbidden if the promise is binding on both parties.",
+        "True answer":"No, it is forbidden if the promise is binding on both parties."
+    },
+    {
+        "Question_ID":"QID_0832",
+        "Theme":"Intensive course 04",
+        "Question":"Under Shari'ah Standard No. 57, what is required when selling gold for gold?",
+        "A":"The newer gold can be sold for a higher weight of old gold.",
+        "B":"Counter-values must be equal in weight, and exchange must be spot.",
+        "C":"Weight can vary as long as market value is equal.",
+        "D":"Delivery can be deferred up to 3 days.",
+        "True answer":"Counter-values must be equal in weight, and exchange must be spot."
+    },
+    {
+        "Question_ID":"QID_0833",
+        "Theme":"Intensive course 04",
+        "Question":"When selling gold for silver, which of the following is permissible?",
+        "A":"Stipulation of a cooling-off option (Khiyar al-Shart).",
+        "B":"Deferment of delivery of the silver.",
+        "C":"A forward contract where both are delayed.",
+        "D":"Disparity in the weight of the counter-values.",
+        "True answer":"Disparity in the weight of the counter-values."
+    },
+    {
+        "Question_ID":"QID_0834",
+        "Theme":"Intensive course 04",
+        "Question":"Can gold be used as the capital of a Salam (forward) contract?",
+        "A":"Yes, provided the subject matter of the Salam is also gold.",
+        "B":"Yes, but only if the gold is in the form of jewelry.",
+        "C":"Yes, provided the subject matter is not gold, silver, or currencies.",
+        "D":"No, gold can never be used in Salam.",
+        "True answer":"Yes, provided the subject matter is not gold, silver, or currencies."
+    },
+    {
+        "Question_ID":"QID_0835",
+        "Theme":"Intensive course 04",
+        "Question":"What is the ruling on selling an 'unallocated' gold ingot without physical possession?",
+        "A":"It is permissible only for institutions.",
+        "B":"It is permissible if the ingot is stored in a secure vault.",
+        "C":"It is permissible if the buyer gets a generic certificate.",
+        "D":"It is not permissible.",
+        "True answer":"It is not permissible."
+    },
+    {
+        "Question_ID":"QID_0836",
+        "Theme":"Intensive course 04",
+        "Question":"If a lessee rents gold jewelry, can the rent be paid in gold?",
+        "A":"Yes, it is permissible.",
+        "B":"No, rent must always be paid in fiat currency.",
+        "C":"Yes, but only if paid in advance.",
+        "D":"No, because it constitutes a sale of gold for gold with delay.",
+        "True answer":"Yes, it is permissible."
+    },
+    {
+        "Question_ID":"QID_0837",
+        "Theme":"Intensive course 04",
+        "Question":"If an institution acts as a depository for gold (Wadi'ah), can it commingle the deposited gold with its own?",
+        "A":"Yes, it is standard practice.",
+        "B":"Yes, provided the institution pays a fee to the depositor.",
+        "C":"No, commingling is strictly prohibited even with permission.",
+        "D":"No, not unless the depositor explicitly permits it.",
+        "True answer":"No, not unless the depositor explicitly permits it."
+    },
+    {
+        "Question_ID":"QID_0838",
+        "Theme":"Intensive course 04",
+        "Question":"How should a deposited gold item be compensated if it is damaged due to the depository's negligence?",
+        "A":"With an equivalent gold amount of the same kind, if possible.",
+        "B":"The depository pays half the market value.",
+        "C":"With a 10% penalty fee over the original value.",
+        "D":"The depository is not liable if it was an accident.",
+        "True answer":"With an equivalent gold amount of the same kind, if possible."
+    },
+    {
+        "Question_ID":"QID_0839",
+        "Theme":"Intensive course 04",
+        "Question":"Can gold be given as Hamish Jiddiyyah (security deposit) in a Murabahah transaction?",
+        "A":"No, because it involves currency exchange.",
+        "B":"Yes, it is permissible to take it to secure a binding promise.",
+        "C":"No, only cash can be used.",
+        "D":"Yes, and it is considered Arboun immediately.",
+        "True answer":"Yes, it is permissible to take it to secure a binding promise."
+    },
+    {
+        "Question_ID":"QID_0840",
+        "Theme":"Intensive course 04",
+        "Question":"According to Shari'ah Standard No. 59, how is 'Debt' defined?",
+        "A":"Only money borrowed from a financial institution.",
+        "B":"Future profits from an investment.",
+        "C":"An asset that is established and owed.",
+        "D":"Tangible commodities that are leased.",
+        "True answer":"An asset that is established and owed."
+    },
+    {
+        "Question_ID":"QID_0841",
+        "Theme":"Intensive course 04",
+        "Question":"Is it permitted for a creditor to sell a debt to the debtor himself?",
+        "A":"Yes, provided the sale does not lead to Riba.",
+        "B":"No, it is strictly prohibited.",
+        "C":"No, debt can only be sold to a third party.",
+        "D":"Yes, but only if the debt is increased.",
+        "True answer":"Yes, provided the sale does not lead to Riba."
+    },
+    {
+        "Question_ID":"QID_0842",
+        "Theme":"Intensive course 04",
+        "Question":"If a creditor wishes to recover a monetary debt in a different currency than originally established, what is a key condition?",
+        "A":"The debtor must pay a 5% conversion fee.",
+        "B":"It must be done 30 days before maturity.",
+        "C":"The exchange must be at the original contract's rate.",
+        "D":"Possession of the substitute debt must be transferred in the contract session.",
+        "True answer":"Possession of the substitute debt must be transferred in the contract session."
+    },
+    {
+        "Question_ID":"QID_0843",
+        "Theme":"Intensive course 04",
+        "Question":"Can a cash loan owed to an Institution be used as the capital for a new Salam contract?",
+        "A":"Yes, it is a common practice.",
+        "B":"Yes, if the debtor is solvent.",
+        "C":"No, unless the Salam commodity is gold.",
+        "D":"No, it is not permitted to make the debt as the Salam capital.",
+        "True answer":"No, it is not permitted to make the debt as the Salam capital."
+    },
+    {
+        "Question_ID":"QID_0844",
+        "Theme":"Intensive course 04",
+        "Question":"What is the ruling on selling a monetary debt to a third party against cash?",
+        "A":"It is permitted if the debtor consents.",
+        "B":"It is permitted at face value.",
+        "C":"It is permitted at a discount.",
+        "D":"It is not permitted.",
+        "True answer":"It is not permitted."
+    },
+    {
+        "Question_ID":"QID_0845",
+        "Theme":"Intensive course 04",
+        "Question":"If an entity’s assets comprise a mix of debts and tangible assets, when is it permissible to trade its shares\/Sukuk without strictly following rules for the sale of debt?",
+        "A":"When the debts are owed by the government.",
+        "B":"It is never permissible.",
+        "C":"When the debts are less than 10% of total assets.",
+        "D":"When the ratio of tangible assets exceeds 50% of the value of the assets.",
+        "True answer":"When the ratio of tangible assets exceeds 50% of the value of the assets."
+    },
+    {
+        "Question_ID":"QID_0846",
+        "Theme":"Intensive course 04",
+        "Question":"Is it permitted to discount commercial papers (i.e., sell them for less than their face value before maturity)?",
+        "A":"Yes, if done with a third party.",
+        "B":"Yes, but only if the discount is less than 5%.",
+        "C":"No, it is not permitted to discount commercial papers.",
+        "D":"No, unless it is a government bond.",
+        "True answer":"No, it is not permitted to discount commercial papers."
+    },
+    {
+        "Question_ID":"QID_0847",
+        "Theme":"Intensive course 04",
+        "Question":"According to Shari'ah Standard No. 4, what is a 'Set-Off' (Muqassah)?",
+        "A":"Selling a debt at a discount.",
+        "B":"Guaranteeing the debt of another person.",
+        "C":"Transferring a debt to a third party.",
+        "D":"Extinguishing a debt receivable by a debt payable.",
+        "True answer":"Extinguishing a debt receivable by a debt payable."
+    },
+    {
+        "Question_ID":"QID_0848",
+        "Theme":"Intensive course 04",
+        "Question":"Which of the following is a condition for a 'compulsory set-off'?",
+        "A":"One debt must be secured by a mortgage.",
+        "B":"Both parties must sign a new contract.",
+        "C":"Both debts should be equal in kind, type, description and maturity.",
+        "D":"The debts must be of different currencies.",
+        "True answer":"Both debts should be equal in kind, type, description and maturity."
+    },
+    {
+        "Question_ID":"QID_0849",
+        "Theme":"Intensive course 04",
+        "Question":"Can a 'contractual set-off' take place if the two debts have different maturity dates?",
+        "A":"No, it violates the rules of Riba.",
+        "B":"No, maturity dates must always match.",
+        "C":"Yes, but only if directed by a judge.",
+        "D":"Yes, because mutual consent means relinquishing extra privileges.",
+        "True answer":"Yes, because mutual consent means relinquishing extra privileges."
+    },
+    {
+        "Question_ID":"QID_0850",
+        "Theme":"Intensive course 04",
+        "Question":"Are currency swaps that are concluded on the basis of Riba permissible?",
+        "A":"Yes, for international trade.",
+        "B":"No, they are not permissible.",
+        "C":"No, unless approved by the central bank.",
+        "D":"Yes, if the currencies belong to different countries.",
+        "True answer":"No, they are not permissible."
+    },
+    {
+        "Question_ID":"QID_0851",
+        "Theme":"Intensive course 04",
+        "Question":"Under Shari'ah Standard No. 7, what distinguishes a Hawalah of debt from a transfer of right?",
+        "A":"Hawalah is for cash; transfer of right is for commodities.",
+        "B":"There is no difference.",
+        "C":"Hawalah replaces a debtor; transfer of right replaces a creditor.",
+        "D":"Hawalah replaces a creditor; transfer of right replaces a debtor.",
+        "True answer":"Hawalah replaces a debtor; transfer of right replaces a creditor."
+    },
+    {
+        "Question_ID":"QID_0852",
+        "Theme":"Intensive course 04",
+        "Question":"What is a 'Restricted Hawalah'?",
+        "A":"The payer settles the debt from an asset belonging to the transferor in his possession.",
+        "B":"The transfer can only occur within the same country.",
+        "C":"The debt transferred must be below a certain monetary limit.",
+        "D":"The payer pays from his own funds on behalf of the transferor.",
+        "True answer":"The payer settles the debt from an asset belonging to the transferor in his possession."
+    },
+    {
+        "Question_ID":"QID_0853",
+        "Theme":"Intensive course 04",
+        "Question":"Which parties must consent for a Hawalah to be permissible?",
+        "A":"Only the transferor and the payer.",
+        "B":"The transferor, the transferee, and the payer.",
+        "C":"Only the transferor and the transferee.",
+        "D":"No consent is needed if ordered by a court.",
+        "True answer":"The transferor, the transferee, and the payer."
+    },
+    {
+        "Question_ID":"QID_0854",
+        "Theme":"Intensive course 04",
+        "Question":"What is the primary effect of a valid Hawalah on the transferor?",
+        "A":"The transferor becomes a creditor to the transferee.",
+        "B":"The transferor remains a guarantor.",
+        "C":"It discharges the transferor from the debt liability.",
+        "D":"The transferor must pay a fee to the transferee.",
+        "True answer":"It discharges the transferor from the debt liability."
+    },
+    {
+        "Question_ID":"QID_0855",
+        "Theme":"Intensive course 04",
+        "Question":"Does the death of the transferor annul a Hawalah transaction?",
+        "A":"No, but the payer gets a discount.",
+        "B":"Yes, immediately.",
+        "C":"No, it shall not be annulled.",
+        "D":"Yes, if the heirs object.",
+        "True answer":"No, it shall not be annulled."
+    },
+    {
+        "Question_ID":"QID_0856",
+        "Theme":"Intensive course 04",
+        "Question":"According to Shari'ah Standard No. 3, what is the ruling on a solvent debtor who defaults on payment?",
+        "A":"It is Haram (prohibited).",
+        "B":"It is permissible if they plan to invest the money.",
+        "C":"It is Makruh (disliked).",
+        "D":"It is permissible up to 30 days.",
+        "True answer":"It is Haram (prohibited)."
+    },
+    {
+        "Question_ID":"QID_0857",
+        "Theme":"Intensive course 04",
+        "Question":"Is it permitted to stipulate financial compensation for a delay by a debtor in settling his debt?",
+        "A":"Yes, if it covers loss of income.",
+        "B":"Yes, if it's less than 5%.",
+        "C":"No, it is not permitted.",
+        "D":"No, unless it accounts for inflation.",
+        "True answer":"No, it is not permitted."
+    },
+    {
+        "Question_ID":"QID_0858",
+        "Theme":"Intensive course 04",
+        "Question":"Is a procrastinating debtor liable for legal expenses incurred by the creditor to recover the debt?",
+        "A":"Only if the debtor is declared insolvent.",
+        "B":"Only if the court orders a 10% penalty.",
+        "C":"Yes, the debtor is liable.",
+        "D":"No, the creditor bears all costs.",
+        "True answer":"Yes, the debtor is liable."
+    },
+    {
+        "Question_ID":"QID_0859",
+        "Theme":"Intensive course 04",
+        "Question":"Is it permissible to include penalty clauses in construction or Istisna'a contracts?",
+        "A":"Yes, but only for government contracts.",
+        "B":"No, because the contractor cannot control delays.",
+        "C":"No, penalty clauses are always Riba.",
+        "D":"Yes, it is permissible.",
+        "True answer":"Yes, it is permissible."
+    },
+    {
+        "Question_ID":"QID_0860",
+        "Theme":"Intensive course 04",
+        "Question":"Can an institution include the name of a defaulting debtor in a 'black list'?",
+        "A":"Yes, but only after 5 years.",
+        "B":"Yes, it is a permitted non-material punishment.",
+        "C":"No, it violates privacy.",
+        "D":"No, defamation is strictly prohibited.",
+        "True answer":"Yes, it is a permitted non-material punishment."
+    },
+    {
+        "Question_ID":"QID_0861",
+        "Theme":"Intensive course 04",
+        "Question":"According to Shari'ah Standard No. 43, what is 'Insolvency' (Iflas)?",
+        "A":"When a business suffers a loss for three consecutive years.",
+        "B":"When the debt due of a person exceeds his assets.",
+        "C":"When a person's cash flow is temporarily negative.",
+        "D":"When a person refuses to pay debts.",
+        "True answer":"When the debt due of a person exceeds his assets."
+    },
+    {
+        "Question_ID":"QID_0862",
+        "Theme":"Intensive course 04",
+        "Question":"Who has the authority to officially declare a person insolvent?",
+        "A":"The main creditor.",
+        "B":"The court or competent judicial authority.",
+        "C":"A Shari'ah Supervisory Board.",
+        "D":"The debtor himself.",
+        "True answer":"The court or competent judicial authority."
+    },
+    {
+        "Question_ID":"QID_0863",
+        "Theme":"Intensive course 04",
+        "Question":"What happens to the debtor's 'undue debts' (debts not yet matured) upon the declaration of insolvency?",
+        "A":"They become due immediately.",
+        "B":"They remain undue until their maturity date.",
+        "C":"They are forgiven.",
+        "D":"They are transferred to a guarantor.",
+        "True answer":"They become due immediately."
+    },
+    {
+        "Question_ID":"QID_0864",
+        "Theme":"Intensive course 04",
+        "Question":"Which of the following assets is EXCLUDED from being sold during the insolvency distribution?",
+        "A":"The debtor's tools of trade.",
+        "B":"Foreign currency reserves.",
+        "C":"Real estate investments.",
+        "D":"Stocks and commodities.",
+        "True answer":"The debtor's tools of trade."
+    },
+    {
+        "Question_ID":"QID_0865",
+        "Theme":"Intensive course 04",
+        "Question":"In distributing an insolvent debtor's assets, who gets priority immediately after the administrators' fees?",
+        "A":"Unsecured creditors.",
+        "B":"The government for taxes.",
+        "C":"Secured creditors, as per the rules of granting security.",
+        "D":"Family members.",
+        "True answer":"Secured creditors, as per the rules of granting security."
+    },
+    {
+        "Question_ID":"QID_0866",
+        "Theme":"Intensive course 04",
+        "Question":"According to Shari'ah Standard No. 19, what defines a 'Qard' (Loan)?",
+        "A":"Renting a tangible asset for a specific period.",
+        "B":"Investing capital for a share of profits.",
+        "C":"Transfer of ownership in fungible wealth with an obligation to return similar wealth.",
+        "D":"Selling an item with deferred payment.",
+        "True answer":"Transfer of ownership in fungible wealth with an obligation to return similar wealth."
+    },
+    {
+        "Question_ID":"QID_0867",
+        "Theme":"Intensive course 04",
+        "Question":"What is the ruling on an excess benefit stipulated in the Qard contract?",
+        "A":"It is permitted if both parties agree.",
+        "B":"It is prohibited and amounts to Riba.",
+        "C":"It is permitted if it takes the form of a physical gift.",
+        "D":"It is permitted only for corporate borrowers.",
+        "True answer":"It is prohibited and amounts to Riba."
+    },
+    {
+        "Question_ID":"QID_0868",
+        "Theme":"Intensive course 04",
+        "Question":"Is an excess over Qard given voluntarily at the time of repayment permissible?",
+        "A":"No, only the exact amount can ever be accepted.",
+        "B":"Yes, if it is not stipulated in the contract or part of custom.",
+        "C":"No, it is Riba.",
+        "D":"Yes, provided it is stipulated in the contract.",
+        "True answer":"Yes, if it is not stipulated in the contract or part of custom."
+    },
+    {
+        "Question_ID":"QID_0869",
+        "Theme":"Intensive course 04",
+        "Question":"What is the Shari'ah view on the reality of current accounts in a bank?",
+        "A":"They are loans (Qard) provided by the customer to the bank.",
+        "B":"They are deposits held in trust (Amanah).",
+        "C":"They are agency contracts (Wakalah).",
+        "D":"They are investment accounts (Mudarabah).",
+        "True answer":"They are loans (Qard) provided by the customer to the bank."
+    },
+    {
+        "Question_ID":"QID_0870",
+        "Theme":"Intensive course 04",
+        "Question":"Can a lending institution charge a service fee for a loan (Qard)?",
+        "A":"Yes, they can charge any fixed percentage.",
+        "B":"Yes, equivalent to the actual direct amount spent on services.",
+        "C":"Yes, including indirect expenses like employee salaries.",
+        "D":"No, all fees are considered Riba.",
+        "True answer":"Yes, equivalent to the actual direct amount spent on services."
+    },
+    {
+        "Question_ID":"QID_0871",
+        "Theme":"Intensive course 04",
+        "Question":"Are banks allowed to present material gifts to owners of current accounts solely as an incentive?",
+        "A":"Yes, it is a good marketing strategy.",
+        "B":"No, unless the customer demands it.",
+        "C":"No, it is not permitted as it constitutes a benefit on a loan.",
+        "D":"Yes, provided the gift value is under $50.",
+        "True answer":"No, it is not permitted as it constitutes a benefit on a loan."
+    },
+    {
+        "Question_ID":"QID_0872",
+        "Theme":"Intensive course 04",
+        "Question":"Can a charge for ATM cash withdrawal on a credit card be linked to the amount withdrawn?",
+        "A":"No, withdrawals must always be completely free.",
+        "B":"Yes, up to a maximum of 2%.",
+        "C":"Yes, larger withdrawals cost more to process.",
+        "D":"No, it must be a certain amount within reasonable limits.",
+        "True answer":"No, it must be a certain amount within reasonable limits."
+    },
+    {
+        "Question_ID":"QID_0873",
+        "Theme":"Intensive course 04",
+        "Question":"Under Shari'ah Standard No. 4, what is 'set-off on demand'?",
+        "A":"A judge automatically cancels two debts.",
+        "B":"A third party buys both debts.",
+        "C":"The debtor demands more time to pay.",
+        "D":"The creditor of a superior debt requests discharge and consents to forgo his extra privilege.",
+        "True answer":"The creditor of a superior debt requests discharge and consents to forgo his extra privilege."
+    },
+    {
+        "Question_ID":"QID_0874",
+        "Theme":"Intensive course 04",
+        "Question":"Can a bank deduct an overdue debt from the defaulting customer's investment account without further consent?",
+        "A":"Yes, provided there is a prior stipulation in the contract.",
+        "B":"No, court approval is required for every deduction.",
+        "C":"No, investment accounts are completely shielded.",
+        "D":"Yes, but only from current accounts.",
+        "True answer":"Yes, provided there is a prior stipulation in the contract."
+    },
+    {
+        "Question_ID":"QID_0875",
+        "Theme":"Intensive course 04",
+        "Question":"What is the ruling on selling the debt of a usurious commodity (like wheat) for the same kind of commodity (wheat)?",
+        "A":"The new wheat can be heavier if it's lower quality.",
+        "B":"They must be equal in quantity and possession transferred in the session.",
+        "C":"Transfer can be delayed.",
+        "D":"It is totally prohibited to settle debts with commodities.",
+        "True answer":"They must be equal in quantity and possession transferred in the session."
+    },
+    {
+        "Question_ID":"QID_0876",
+        "Theme":"Intensive course 04",
+        "Question":"Is it permissible to sell a commodity debt prior to taking its possession?",
+        "A":"Yes, if sold to the original seller.",
+        "B":"Yes, for a usufruct.",
+        "C":"Yes, if sold for cash.",
+        "D":"No, it is not permitted.",
+        "True answer":"No, it is not permitted."
+    },
+    {
+        "Question_ID":"QID_0877",
+        "Theme":"Intensive course 04",
+        "Question":"Can the shares of a joint-stock company be sold if its assets include some debts alongside tangible assets?",
+        "A":"Yes, provided the debts are less than 5% of assets.",
+        "B":"No, the debts must be stripped out first.",
+        "C":"Yes, without considering debt rules, as long as debts are ancillary to the ongoing activity.",
+        "D":"No, trading in company shares is completely prohibited.",
+        "True answer":"Yes, without considering debt rules, as long as debts are ancillary to the ongoing activity."
     }
 ]
