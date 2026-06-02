@@ -8768,5 +8768,415 @@
         "C":"Yes, without considering debt rules, as long as debts are ancillary to the ongoing activity.",
         "D":"No, trading in company shares is completely prohibited.",
         "True answer":"Yes, without considering debt rules, as long as debts are ancillary to the ongoing activity."
+    },
+    {
+        "Question_ID":"QID_0878",
+        "Theme":"Intensive course 05",
+        "Question":"Three partners jointly own a pool consisting of debts, cash, and tangible assets. They intend to divide what they own. Thereafter, one partner purchases a debt from another. Which of the following is the most accurate statement?",
+        "A":"Option Division of one debt among claimants in proportion to their shares is not permitted because it amounts to sale of debt among partners.",
+        "B":"Where partners own multiple debts, it is impermissible for one claimant to reserve one debt and another claimant to reserve another debt according to their shares.",
+        "C":"If what is jointly owned includes debts, tangible assets, and cash, it is permitted for some partners to take debts, some cash, and others tangible assets; and if a debt is later sold, ownership and risk transfer to the buyer by any customary means enabling him to claim the debt.",
+        "D":"A pledge or guarantee automatically transfers with the debt in all cases, whether or not stipulated and even if non-assignability was stipulated by the pledgor or guarantor.",
+        "True answer":"If what is jointly owned includes debts, tangible assets, and cash, it is permitted for some partners to take debts, some cash, and others tangible assets; and if a debt is later sold, ownership and risk transfer to the buyer by any customary means enabling him to claim the debt."
+    },
+    {
+        "Question_ID":"QID_0879",
+        "Theme":"Intensive course 05",
+        "Question":"An institution charges its credit-card customers for cash withdrawals from ATMs. Which of the following charging structures is most compliant with the Standard?",
+        "A":"A percentage of the withdrawn amount, because larger withdrawals consume more bank liquidity.",
+        "B":"A fee that increases according to the repayment period, because longer utilization means greater service burden.",
+        "C":"A fixed and certain charge within reasonable service limits, not linked to the amount withdrawn or the repayment period.",
+        "D":"Multiple split charges for one withdrawal, provided the total remains below market banking practice.",
+        "True answer":"A fixed and certain charge within reasonable service limits, not linked to the amount withdrawn or the repayment period."
+    },
+    {
+        "Question_ID":"QID_0880",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following composite statements is most accurate under the Standard?",
+        "A":"Discounting commercial papers is permitted if the paper is genuine; Salam-based and Murabaha-based Sukuk may be traded for cash because they represent standardized receivables; securitization of receivables is freely tradable in money markets once documented.",
+        "B":"It is permissible to trade Shari’ah non-compliant bonds if they are sold at face value; factoring is valid so long as invoices are purchased frequently and the factor assumes collection risk; and two institutions may swap portfolios of receivables if aggregate values are equal.",
+        "C":"Commercial papers may be sold to the debtor or to a third party subject to sale-of-debt rules; discounting them is not permitted, though early settlement to the first beneficiary for less than face value is permitted; Salam-based and Murabaha-based Sukuk are not tradable for cash price; financial securities comprising receivables are subject to this Standard; securitized monetary debts are not tradable unless their trading is against a commodity, usufruct, or service with ascertained subject-delivery; factoring by discount purchase of invoices is not permitted except within those same conditions; and one institution may not sell debt to a third party for another debt owed to that party by someone else.",
+        "D":"Once debt is pooled in an unregistered portfolio or even merely accounting-separated, the rules of sale of debt cease to apply; hence securitization, invoice discounting, and exchange of debt portfolios all become permissible if market practice accepts them.",
+        "True answer":"Commercial papers may be sold to the debtor or to a third party subject to sale-of-debt rules; discounting them is not permitted, though early settlement to the first beneficiary for less than face value is permitted; Salam-based and Murabaha-based Sukuk are not tradable for cash price; financial securities comprising receivables are subject to this Standard; securitized monetary debts are not tradable unless their trading is against a commodity, usufruct, or service with ascertained subject-delivery; factoring by discount purchase of invoices is not permitted except within those same conditions; and one institution may not sell debt to a third party for another debt owed to that party by someone else."
+    },
+    {
+        "Question_ID":"QID_0881",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding the guarantor and the contractor, which one of the following statements is incorrect?",
+        "A":"The creditor may demand settlement from either the debtor or the guarantor, unless the guarantor stipulated that recourse must first be sought from the debtor.",
+        "B":"All rulings applicable to debtors in default apply equally to guarantors in default.",
+        "C":"It is permissible to include penalty clauses in construction, Istisna’a, and supply contracts, and upon refusal to pay such penalty the rulings of default by a debtor apply.",
+        "D":"It is permissible to include a penalty clause in a pure debt contract so long as the amount is donated to charity and not retained by the creditor.",
+        "True answer":"It is permissible to include a penalty clause in a pure debt contract so long as the amount is donated to charity and not retained by the creditor."
+    },
+    {
+        "Question_ID":"QID_0882",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding services and perquisites connected with current accounts, which statements are correct?\nI.The institution may provide services related to deposits and withdrawals, such as chequebooks and ATM cards, with or without compensation.\nII. The institution may differentiate between current-account holders regarding matters related to deposits and withdrawals, such as exclusive booths or cheque types.\nIII. The institution may offer current-account holders material gifts, financial incentives, or unrelated service benefits specifically in lieu of maintaining current accounts.\nIV. Perquisites and incentives that are not specific to current accounts are not governed by the prohibition applicable to Qard-linked perquisites.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0883",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding the restrictions and uncertainties affecting sale of debt to a third party, which statements are correct?\nI. It is not permitted to sell a monetary debt against cash or for a monetary debt.\nII. It is not permitted to sell a debt consisting of due and described usufruct or service with unascertained subject-delivery, regardless of what it is sold for.\nIII. It is not permitted to sell debt to a third party where there is excessive gharar, including where the debt is unestablished or its amount is unknown.\nIV. Once the debtor acknowledges the debt, sale of monetary debt against deferred delivery commodity becomes permissible.",
+        "A":"I, II and III only",
+        "B":"I and IV only",
+        "C":"II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0884",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding the stages and declaration of insolvency, which statements are correct?\nI. In the first stage, creditors may demand pro-rata payment and require the debtor to refrain from preferential disposals and acquisitions.\nII. In the second stage, creditors may seek orders preventing the debtor from donating, lending, or pre-paying undue debts.\nIII. A declaration of insolvency may be based on an application by creditors whose due debts exceed the debtor’s assets, or by the debtor himself unless the court views the application as fraudulent.\nIV. Once creditors file for declaration of insolvency, they must prove that no other creditors exist.",
+        "A":"I, II and III only",
+        "B":"I and IV only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0885",
+        "Theme":"Intensive course 05",
+        "Question":"With regard to the consequences of insolvency, which of the following statements are correct?\nI. The debts of creditors attach to the debtor's existing property at the time of sequestration and also to property accruing to him without his dealing, such as gifts.\nII. All the debtor's property immediately passes out of his ownership upon declaration of insolvency.\nIII. Subsequent dispositions by the insolvent debtor attach to his future liability and not to the sequestered assets.\nIV. After distribution, creditors lose the legal right to demand the unpaid balance from the debtor, although he remains morally obliged in Shari'ah to pay in full.",
+        "A":"I and II only",
+        "B":"I, III and IV only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, III and IV only"
+    },
+    {
+        "Question_ID":"QID_0886",
+        "Theme":"Intensive course 05",
+        "Question":"With respect to non-stipulated benefit in Qard, which which one of the following is incorrect?",
+        "A":"It is not permissible for the borrower to offer tangible property or a benefit to the lender during the Qard period if it is done for the sake of Qard, unless such giving was a pre existing practice between them.",
+        "B":"An excess over Qard at the time of repayment is permissible in quantity, quality, tangible property, or benefit, if it is neither stipulated nor based on custom.",
+        "C":"A better repayment at settlement is permissible irrespective of whether the subject-matter of Qard was cash or kind, provided it is voluntary and non-customary.",
+        "D":"A voluntary gift by the borrower during the Qard period is always permissible, because what matters is only the absence of written stipulation.",
+        "True answer":"A voluntary gift by the borrower during the Qard period is always permissible, because what matters is only the absence of written stipulation."
+    },
+    {
+        "Question_ID":"QID_0887",
+        "Theme":"Intensive course 05",
+        "Question":"Following a judicial declaration of insolvency, which one of the following statements is incorrect?",
+        "A":"An insolvent debtor’s admission of liability relating to sequestered assets has no legal effect unless creditors accept that the debt was incurred before declaration.",
+        "B":"The debtor’s acts of sale, gift, or endowment after declaration have no legal effect, except acts connected with previous transactions such as terminating a defective contract or exercising an option to terminate.",
+        "C":"All undue debts owed by the debtor become due, and creditors of such undue debts may share in the sequestered assets with creditors of due debts.",
+        "D":"All undue debts owed to the insolvent debtor also become immediately due upon insolvency, so that the insolvency administrator may accelerate them for immediate distribution.",
+        "True answer":"All undue debts owed to the insolvent debtor also become immediately due upon insolvency, so that the insolvency administrator may accelerate them for immediate distribution."
+    },
+    {
+        "Question_ID":"QID_0888",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements are correct regarding overdrafts between institutions and their correspondents and Appendix (C) capacity definitions?\nI.There is no restriction on agreements between correspondent institutions to place a ceiling on mutual overdrafts, provided no profits (interest) are claimed.\nII. Legal capacity for donation is required for the lender in Qard.\nIII. Legal capacity to undertake transactions is required for the borrower in Qard.\nIV. Deficient legal capacity for execution means the person can undertake some transactions but execution depends on ratification by another.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, III and IV only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0889",
+        "Theme":"Intensive course 05",
+        "Question":"With respect to the concept and permissibility of Hawalah, which of the following statements are correct?\nI. Hawalah of debt is the transfer of debt from the transferor to the payer, whereas transfer of right replaces one creditor with another creditor.\nII. Hawalah is a legitimate and independent contract made out of courtesy and is not a contract of sale.\nIII. Acceptance of Hawalah by the transferee is recommended where the potential payer is known to be solvent and honouring in payment.\nIV. If the payer’s financial status is unknown, Hawalah becomes impermissible.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II and III only",
+        "D":"I, III and IV only",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0890",
+        "Theme":"Intensive course 05",
+        "Question":"With respect to rules specific to institutions and revocation of insolvency, which of the following statements are correct?\nI. Current accounts held with an insolvent institution are included in the insolvency assets because they are liabilities of the institution borne by it alone.\nII. Independent investment vehicles such as restricted deposits, funds, portfolios and Sukuk assets not owned wholly or partly by the institution are not part of the insolvency assets where the institution acts only as paid agent or Mudarib.\nIII. Assets held by the institution as custodian, such as third-party securities and safety deposit boxes, form part of the insolvency assets because they are in its possession.\nIV. After distribution, revocation of insolvency is made by the court; if later an asset is discovered that had come into the debtor’s ownership before declaration without reciprocal consideration, it is sequestered and distributed among the earlier creditors.",
+        "A":"I, II and III only",
+        "B":"II, III and IV only",
+        "C":"I, II and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0891",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements are correct regarding stipulation of a period and contractual combinations in Qard?\nI. It is permissible to stipulate a period in Qard.\nII. If a period is stipulated, the borrower is not obliged to repay before expiry of that period, nor may the lender demand it earlier.\nIII. If no period is stipulated, the borrower must return the substitute on demand.\nIV. It is permissible to stipulate Bay‘, Ijarah, or another commutative contract within the Qard contract so long as market value is observed.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II and III only",
+        "D":"I, III and IV only",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0892",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following is the best characterization of the treatment of the defaulting debtor under this Standard?",
+        "A":"He may be charged compensatory damages if the creditor proves actual commercial loss caused by delay",
+        "B":"He may be compelled to pay financial compensation only if the amount is not contractually stipulated in advance.",
+        "C":"He may be subject to non-material sanctions and recovery measures, but not to financial compensation for delay as such.",
+        "D":"He may not be pursued through monitoring, blacklisting, recoupment, or legal expenses because these amount to indirect Riba.",
+        "True answer":"He may be subject to non-material sanctions and recovery measures, but not to financial compensation for delay as such."
+    },
+    {
+        "Question_ID":"QID_0893",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements concerning collateralization, legal entities, negotiability, and Sukuk are correct?\nI. The buyer of debt may stipulate that the seller collateralize the debt through a Shari’ah compliant third-party guarantee, such as Takaful on the debt.\nII. The buyer of debt may stipulate that the seller himself guarantee the debtor’s debt, giving the buyer recourse against the seller for unrecovered portions.\nIII. If debt is part of the assets of an existing entity with ongoing permissible activities, the entity or its share may be sold without applying sale-of-debt rules to the debt portion, whatever the ratio of debts, provided such debts arise from business turnover and the entity is not entirely composed of debt.\nIV. In a legally recognized entity formed from debts plus tangible assets and the like where assets are not turned over on an ongoing basis, sale or securitization is permissible only if tangible assets and the like exceed 50%, the buyer assumes the asset risk, and if Sukuk asset ratio later falls below 33%, Sukuk remain freely negotiable without restriction.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, III and IV only",
+        "True answer":"I and III only"
+    },
+    {
+        "Question_ID":"QID_0894",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements are correct regarding the definition of Qard, its subject matter, and Appendix (C) definitions?\nI. Qard is the transfer of ownership in fungible wealth to a person on whom it is binding to return wealth similar to it.\nII. The subject-matter of Qard must be known fungible marketable wealth.\nIII. Mithlis (fungibles) are types of wealth whose differences lead to differences in value, like animals.\nIV. The borrower becomes owner of the wealth loaned through possession and becomes liable for a similar substitute.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0895",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements correctly describe the modern application of current accounts?\nI. The reality of current accounts is that they are loans and not deposits.\nII. The institution comes to own the amounts in current accounts, while liability to repay similar amounts is established against it.\nIII. It is permissible for the institution to demand wages for services rendered to current account holders.\nIV. Since current accounts are legally deposits, the institution may not use those funds in its transactions.",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0896",
+        "Theme":"Intensive course 05",
+        "Question":"Concerning non-material punishments and general rulings, which statements are correct?\nI. The institution may include the name of the defaulting debtor in a black list and may warn other companies about him.\nII. The institution may investigate the financial status and activities of a defaulting debtor through all permissible and legitimate means.\nIII. The institution may accept an additional amount paid by the defaulting debtor provided there was no written or verbal condition, custom, or mutual understanding regarding such additional amount.\nIV. The institution may recover the amount due from any of the debtor’s accounts with it, including current or investment accounts, without further consent, provided the contract so stipulates and subject to currency rules.",
+        "A":"I, II and III only",
+        "B":"I, III and IV only",
+        "C":"II and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0897",
+        "Theme":"Intensive course 05",
+        "Question":"In relation to the contractor and debt-default consequences, which statements are correct?\nI. Penalty clauses are permissible in construction, Istisna’a, and supply contracts.\nII. If the contractor refuses to pay an amount due under a valid penalty clause, the rulings of default by a debtor apply to him.\nIII. It is permitted to deduct the amount due under such penalty clause from outstanding amounts owed to the contractor.\nIV. Because penalty clauses are valid in construction and supply contracts, they are equally valid in ordinary debt contracts involving deferred price obligations.",
+        "A":"I, II and III only",
+        "B":"I and IV only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0898",
+        "Theme":"Intensive course 05",
+        "Question":"A lender and borrower concluded a Qard using conduct that clearly conveyed the meaning of a loan, although neither the word Qard nor Salaf was expressly used. The lender had legal capacity for donation, while the borrower had legal capacity to undertake transactions. The loaned item was a known fungible marketable commodity. The borrower received possession in City A, but the parties stipulated repayment in City B. Which of the following is the most accurate ruling?",
+        "A":"The contract is invalid because the words Qard or Salaf must be expressly used.",
+        "B":"The contract is valid, but the stipulation of repayment in another place is invalid because repayment must be at the place of delivery only.",
+        "C":"The contract is valid, and stipulation of repayment in another place is permissible.",
+        "D":"The contract is invalid because Qard can only be concluded in writing.",
+        "True answer":"The contract is valid, and stipulation of repayment in another place is permissible."
+    },
+    {
+        "Question_ID":"QID_0899",
+        "Theme":"Intensive course 05",
+        "Question":"In relation to discharge of a monetary debt in a currency other than the original currency, which statements are correct?\nI. Possession of the substitute currency must be transferred in the contract session so that no converted part remains outstanding.\nII. Prior discharge in another currency may be stipulated at the outset, or become an established custom, so long as the customer consents.\nIII. If the debt arose out of a loan contract, the discharge should be at the exchange rate prevailing on the day of settlement.\nIV. If the debtor delayed settlement at maturity, discharge in another currency should be at the exchange rate prevailing on the day of original debt creation.",
+        "A":"I and II only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, III and IV only",
+        "True answer":"I and III only"
+    },
+    {
+        "Question_ID":"QID_0900",
+        "Theme":"Intensive course 05",
+        "Question":"An IFI financed a customer through Murabahah on deferred instalments. The customer is solvent but delays payment. The contract contains the following provisions:\n- a penalty of cash compensation payable to the IFI for each day of delay;\n- a clause making all future instalments immediately due upon default, unless non-payment was caused by force majeure; and - an irrevocable mandate allowing the IFI to sell the mortgaged asset without recourse to court.\n Which of the following is the most accurate ruling?",
+        "A":"All three provisions are permissible because they protect the IFI against default.",
+        "B":"Only provisions 2 and 3 are permissible, while the financial compensation clause is impermissible.",
+        "C":"Only provision 1 is permissible because it compensates actual harm, whereas 2 and 3 are impermissible penalties.",
+        "D":"Provision 2 is impermissible unless the debtor separately renews consent after every missed instalment.",
+        "True answer":"Only provisions 2 and 3 are permissible, while the financial compensation clause is impermissible."
+    },
+    {
+        "Question_ID":"QID_0901",
+        "Theme":"Intensive course 05",
+        "Question":"With reference to the definition and classification of debt and sale of debt, which of the following statements are correct?\nI. Debt is an established and owed asset irrespective of its cause of establishment, and it may be in the form of money, commodities, or usufructs.\nII. Debt includes only debts arising out of commutative contracts and excludes debts arising from loans, misconduct, or negligence.\nIII. As far as the buyer is concerned, sale of debt is of two types: sale to the debtor himself and sale to a third party other than the debtor.\nIV. A usufruct can never constitute debt for the purpose of this Standard.",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, III and IV only",
+        "D":"I, II and III only",
+        "True answer":"I and III only"
+    },
+    {
+        "Question_ID":"QID_0902",
+        "Theme":"Intensive course 05",
+        "Question":"A creditor wishes to sell an already established debt to the debtor himself. Which of the following structures is most fully compliant with the Standard?",
+        "A":"A monetary debt is converted into another currency at a pre-agreed future rate fixed at origination, with settlement after the contract session.",
+        "B":"A debt in wheat is sold to the debtor for dates of different quantity, with immediate possession of the consideration in the contract session.",
+        "C":"A debt is sold to the debtor in exchange for a new larger deferred debt, because the debtor is solvent and willing.",
+        "D":"A creditor and debtor bilaterally bind themselves at the time of origination that the debt will later be sold back to the debtor on agreed terms.",
+        "True answer":"A debt in wheat is sold to the debtor for dates of different quantity, with immediate possession of the consideration in the contract session."
+    },
+    {
+        "Question_ID":"QID_0903",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding stipulated excess benefit in Qard, which of the following statements are correct?\nI. Any stipulated excess for the lender in Qard amounts to Riba.\nII. The prohibition applies whether the excess is in quantity, quality, a tangible thing, or a benefit.\nIII. The prohibition applies only if the stipulation is written; it does not apply if it arises by customary practice.\nIV. The prohibition applies whether the stipulation is made at contract inception, while fixing the deferment period, or during the delay period.",
+        "A":"I and IV only",
+        "B":"I, II and IV only",
+        "C":"II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0904",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following most accurately reflects the Standard's rules on sale of sequestered assets?",
+        "A":"Real estate must always be sold first because of its relatively stable value, and auction should conclude at the first market price offered.",
+        "B":"Assets should be sold in the order of currencies, fungibles, stocks, commodities, and real estate; a reasonable time should be allowed before selling real estate, market prices should be surveyed, and if the offered price is below value the auction is repeated, with sale at the third auction price if necessary.",
+        "C":"All assets of the insolvent, including his tools of trade, suitable home, and basic expenses for dependents, must be sold for equal treatment of creditors.",
+        "D":"If proceeds are insufficient, the debtor must be compelled either to borrow or to work to make up the shortfall before insolvency is revoked.",
+        "True answer":"Assets should be sold in the order of currencies, fungibles, stocks, commodities, and real estate; a reasonable time should be allowed before selling real estate, market prices should be surveyed, and if the offered price is below value the auction is repeated, with sale at the third auction price if necessary."
+    },
+    {
+        "Question_ID":"QID_0905",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements correctly reflect the distinction between prohibited compensation and permissible alternatives in this Standard?\nI. It is impermissible to stipulate compensation for delayed debt payment, whether payable in cash or in any other consideration.\nII. It is impermissible to demand judicial compensation from a procrastinating debtor even if the alleged loss is change in currency value.\nIII. It is permissible to recover legal expenses caused by the debtor’s default.\nIV. It is permissible for the debtor to undertake a charitable donation upon procrastination.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0906",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements regarding remedies against the procrastinating debtor are correct?\nI. The procrastinating debtor is liable for legal and other expenses incurred by the creditor in recovering the debt.\nII. The creditor may seek liquidation of the debt through sale of a mortgaged asset held as collateral.\nIII. In Murabahah, if the sold asset remains in the condition in which it was sold and the buyer later becomes bankrupt, the seller may repossess the asset.\nIV. The creditor may stipulate that, upon delay, the debtor must donate an amount or percentage of the debt to be spent on charitable causes through the institution.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, III and IV only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0907",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements are correct regarding the establishment and consequences of default?\nI. Default in payment is established when, after a normal demand for payment, a debtor who has not proved insolvency fails to settle the debt on its due date.\nII. A creditor may demand payment from either the debtor or guarantor, unless the guarantor stipulated that payment must first be sought from the debtor.\nIII. If a debtor pays an amount exceeding the debt without any written or verbal condition, custom, or mutual agreement, the institution may accept it.\nIV. In Murabahah, if the sold asset remains available in the condition in which it was sold, and the buyer later becomes bankrupt, the institution may repossess the asset instead of seeking a bankruptcy order.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, III and IV only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0908",
+        "Theme":"Intensive course 05",
+        "Question":"With respect to the sale of debt to a third party other than the debtor, which one of the following is incorrect?",
+        "A":"A monetary debt may be sold to a third party for a commodity with spot delivery, or for a usufruct or service whose subject-delivery can be ascertained at the time of sale.",
+        "B":"A commodity debt may be sold prior to taking possession if it is sold for cash and the debtor acknowledges it.",
+        "C":"The debtor’s consent is not required for sale of debt to a third party unless the debtor and creditor had agreed otherwise.",
+        "D":"If the seller knew of the debtor’s insolvency or procrastination and failed to disclose it, the buyer may have the rescission option for misrepresentation.",
+        "True answer":"A commodity debt may be sold prior to taking possession if it is sold for cash and the debtor acknowledges it."
+    },
+    {
+        "Question_ID":"QID_0909",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements correctly reflect the Standard's treatment of ribā-artifices, debt restructuring, and new Murabaha?\nI. Any arrangement leading to increase in amount or value of debt against increase in tenure is prohibited, whether the debtor is solvent or insolvent.\nII. Substituting the debt for a commodity and then selling that commodity to the debtor for a deferred price higher than the debt amount is included in the prohibited form of 'Inah.\nIII. It is permissible to make an existing debt the Salam capital, provided the debtor is solvent and the debt is acknowledged.\nIV. A new Murabaha for a solvent debtor may be permissible even if it results in a new debt greater than the first debt, provided it is independent, valid in its own right, and the customer has real freedom over the asset and sale proceeds.",
+        "A":"I, II and III only",
+        "B":"II and IV only",
+        "C":"I, II and IV only",
+        "D":"I, III and IV only",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0910",
+        "Theme":"Intensive course 05",
+        "Question":"Insolvency\n1. With respect to the definitions and general Shari'ah ruling on insolvency, which of the following statements are correct?\nI. Insolvency exists when a person's due debts exceed his assets.\nII. Declaration of insolvency is a judge's declaration that prevents the debtor from disposing of his assets.\nIII. A debtor whose debts exceed his assets has no Shari'ah obligation toward creditors until a court formally declares him insolvent.\nIV. Competent authorities should declare a person insolvent and sequester his assets if his debts exceed his assets and the creditors demand it, subject to the relevant conditions.",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, II and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0911",
+        "Theme":"Intensive course 05",
+        "Question":"An Institution entered into a Salam contract. After maturity, the original subject of Salam is to be substituted by another asset. Which of the following is permissible?",
+        "A":"The substitution was stipulated in the Salam contract from the beginning, and the substitute asset has a market value exceeding the market value of the subject of Salam at delivery",
+        "B":"The substitute is cash, agreed after maturity, and its market value exceeds the original subject matter at delivery.",
+        "C":"After maturity, without prior stipulation, the subject of Salam is substituted by another non-cash asset fit to be the subject of Salam for the Salam capital, and the market value of the substitute does not exceed the market value of the original subject at delivery.",
+        "D":"Before maturity, the parties agree through a binding bilateral promise that the subject of Salam will definitely be substituted by another asset upon maturity.",
+        "True answer":"After maturity, without prior stipulation, the subject of Salam is substituted by another non-cash asset fit to be the subject of Salam for the Salam capital, and the market value of the substitute does not exceed the market value of the original subject at delivery."
+    },
+    {
+        "Question_ID":"QID_0912",
+        "Theme":"Intensive course 05",
+        "Question":"An insolvent debtor had:\n- due debts,\n- undue debts,\n- an ongoing Ijarah as lessee,\n- a guarantor on one accelerated debt, and \n- creditors willing to reduce part of the undue debt that became accelerated by insolvency.\nWhich of the following is the most accurate ruling?",
+        "A":"Undue debts remain deferred after insolvency, so creditors of undue debts do not participate in the sequestered assets until maturity.",
+        "B":"The lessor is entitled only to future rent in full and has no option to terminate the Ijarah after the lessee's insolvency.",
+        "C":"It is permissible, with creditors' approval, to reduce undue debt accelerated by insolvency, and the guarantor is liable only for the reduced amount rather than the amount originally guaranteed.",
+        "D":"The guarantor remains liable only for the amount originally guaranteed, since insolvency cannot reduce a guaranteed obligation.",
+        "True answer":"It is permissible, with creditors' approval, to reduce undue debt accelerated by insolvency, and the guarantor is liable only for the reduced amount rather than the amount originally guaranteed."
+    },
+    {
+        "Question_ID":"QID_0913",
+        "Theme":"Intensive course 05",
+        "Question":"A debtor's due debts exceed his assets. Before any judicial declaration of insolvency, creditors demand that he pay them pro-rata and refrain from conduct harmful to their interests. The debtor refuses. The creditors then seek court intervention. Which of the following is the most accurate ruling?",
+        "A":"The creditors may immediately distribute the debtor's assets among themselves without judicial involvement because insolvency is established by financial fact alone.",
+        "B":"The creditors may petition the competent authority to prevent the debtor from donations, loans, preferential dealing, admission of liabilities to related parties, prepayment of undue debts, and harmful travel without surety; however, only the court may declare insolvency",
+        "C":"The creditors must prove that they are the sole creditors before filing any claim seeking a declaration of insolvency.",
+        "D":"The debtor may not himself apply for a declaration of insolvency under any circumstances.",
+        "True answer":"The creditors may petition the competent authority to prevent the debtor from donations, loans, preferential dealing, admission of liabilities to related parties, prepayment of undue debts, and harmful travel without surety; however, only the court may declare insolvency"
+    },
+    {
+        "Question_ID":"QID_0914",
+        "Theme":"Intensive course 05",
+        "Question":"A debtor is late in paying a due Murabahah instalment. The institution had contractually reserved the right to recover from the debtor’s current and investment accounts maintained with it. One account is in the same currency as the debt, while another is in a different currency. The institution also wants to recover legal expenses and claims that the debtor’s delay constitutes default, although the debtor has not yet received an ordinary demand for payment. Which of the following is the most accurate ruling?",
+        "A":"The institution may recover from all accounts at any exchange rate it chooses, and default is established automatically once the due date passes.",
+        "B":"The institution may recoup from the same-currency balance directly, and from a different currency balance at the then prevailing exchange rate, but default is established only after normal demand and failure by a debtor who has not proved insolvency.",
+        "C":"The institution may not recover from investment accounts, only current accounts, and legal expenses are not recoverable.",
+        "D":"The institution may recover from different-currency accounts only if the original debt itself was denominated in that foreign currency.",
+        "True answer":"The institution may recoup from the same-currency balance directly, and from a different currency balance at the then prevailing exchange rate, but default is established only after normal demand and failure by a debtor who has not proved insolvency."
+    },
+    {
+        "Question_ID":"QID_0915",
+        "Theme":"Intensive course 05",
+        "Question":"An institution agreed to arrange a loan for another party and sought a fee for doing so. Separately, in its own lending operations, it imposed service charges on borrowers. Some of those charges represented actual direct costs, while others reflected staff salaries, office rent, transport, and a margin added above actual cost. Which of the following is the most accurate ruling?",
+        "A":"Both the fee for arranging the loan and all service charges are impermissible because Qard must remain entirely gratuitous in every respect.",
+        "B":"The fee for arranging the loan is permissible if it is not a Hilah for Riba; service charges are permissible only to the extent of actual direct costs, while indirect overheads and any excess above actual cost are prohibited.",
+        "C":"A fee for arranging the loan is impermissible, but indirect administrative costs may be loaded into service charges if approved by management.",
+        "D":"All direct and indirect costs may be charged so long as they are disclosed to the borrower in advance.",
+        "True answer":"The fee for arranging the loan is permissible if it is not a Hilah for Riba; service charges are permissible only to the extent of actual direct costs, while indirect overheads and any excess above actual cost are prohibited."
+    },
+    {
+        "Question_ID":"QID_0916",
+        "Theme":"Intensive course 05",
+        "Question":"Which of the following statements correctly describe the distribution order among creditors?\nI. Fees of administrators and assistants managing sale and distribution are paid first.\nII. Secured creditors come next according to the rules of granting security.\nIII. A person who finds a specific item of his property in the insolvency assets has a preferred claim over it.\nIV. If a debt is discovered after distribution, the new creditor has no recourse whatsoever because the distribution is final.",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0917",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding the definition and classification of set-off, which of the following statements are correct?\nI. Set-off means extinguishing a debt receivable by a debt payable.\nII. Set-off is divided into mandatory set-off and contractual set-off.\nIII. Mandatory set-off always requires bilateral agreement, whereas contractual set-off may arise automatically.\nIV. Mandatory set-off includes compulsory set-off and set-off on demand.",
+        "A":"I and III only",
+        "B":"I, II and IV only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0918",
+        "Theme":"Intensive course 05",
+        "Question":"Regarding the right of claw-back of an item sold to the insolvent debtor before declaration of insolvency, which statements are correct?\nI. The seller may demand return of the specific item among the sequestered assets if he has not received any part of the selling price.\nII. The seller's right of claw-back always remains, even if the item has left the debtor's ownership through sale or gift.\nIII. The right is conditioned on the item being among the sequestered assets or, failing that, the seller having claims on those assets.\nIV. The Standard establishes this right specifically for the seller who has not received any part of the price.",
+        "A":"I, III and IV only",
+        "B":"I and II only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, III and IV only"
     }
 ]
