@@ -9178,5 +9178,705 @@
         "C":"II, III and IV only",
         "D":"I, II, III and IV",
         "True answer":"I, III and IV only"
+    },
+    {
+        "Question_ID":"QID_0919",
+        "Theme":"Intensive course 06",
+        "Question":"A customer approaches an Islamic financial institution that provides currency trading services. The customer wishes to enter into a currency trading transaction for an amount greater than the funds he currently owns. To facilitate this, the institution proposes extending credit facilities to the customer, allowing him to trade currencies for an amount exceeding what he would otherwise be able to pay from his own resources. Which of the following arrangements is not permitted, in accordance with Shariah Standards, with respect to dealing in currencies through institutions?",
+        "A":"The customer enters into currency trading through the institution for an amount of money exceeding the amount he owns, using credit facilities granted by the institution that handles the currency trading, thereby enabling him to enter into a transaction for an amount in excess of what he would otherwise be able to pay for.",
+        "B":"The customer enters into currency trading through the institution for an amount he owns, and the institution executes the transaction without extending any credit that would enable the customer to trade in excess of his own payable capacity.",
+        "C":"The customer enters into currency trading through the institution for an amount matching the money he owns, while settling the transaction using his available funds without relying on credit facilities from the institution handling the currency trading.",
+        "D":"The customer enters into currency trading through the institution only for an amount equivalent to the money he owns, and any currency exchange is executed without the use of credit facilities granted by the institution.",
+        "True answer":"The customer enters into currency trading through the institution for an amount of money exceeding the amount he owns, using credit facilities granted by the institution that handles the currency trading, thereby enabling him to enter into a transaction for an amount in excess of what he would otherwise be able to pay for."
+    },
+    {
+        "Question_ID":"QID_0920",
+        "Theme":"Intensive course 06",
+        "Question":"With respect to the Shari'ah ruling on a procrastinating debtor, which of the following statements are correct? I. Default in payment by a debtor who is capable of paying the debt is prohibited. II. It is permissible to stipulate financial compensation for delay if the amount is not pre-determined and is assessed later by the court. III. It is not permitted to make a judicial demand on a debtor in default for financial compensation for delay in settling the debt. IV. The prohibition of delay compensation applies both to opportunity loss and to loss resulting from change in the value of the debt currency.",
+        "A":"I, III and IV only",
+        "B":"I and II only",
+        "C":"II, III and IV only",
+        "D":"I, II and III only",
+        "True answer":"I, III and IV only"
+    },
+    {
+        "Question_ID":"QID_0921",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution enters into a monetization (Tawarruq) arrangement involving a commodity purchased on a deferred payment basis. After acquiring the commodity, the Institution considers different methods for selling the commodity to obtain cash. Which of the following structures is permissible in According with Shari'ah Standards?",
+        "A":"The Institution sells the commodity to a party other than the original seller on a spot basis, but under a customary market practice whereby the commodity is expected to be resold to the original seller without an explicit agreement.",
+        "B":"The Institution sells the commodity to a third party on a spot basis, provided that the original seller has informally agreed to repurchase the commodity after completion of the transaction.",
+        "C":"The Institution sells the commodity to the original seller through a separate spot sale, provided that the deferred purchase contract and the spot sale are documented independently.",
+        "D":"The Institution sells the commodity to a third party who is independent of the original seller, with no prior agreement, collusion, or customary arrangement that would cause the commodity to return to the original seller.",
+        "True answer":"The Institution sells the commodity to a third party who is independent of the original seller, with no prior agreement, collusion, or customary arrangement that would cause the commodity to return to the original seller."
+    },
+    {
+        "Question_ID":"QID_0922",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic Institution is assessing whether it may perform Monetization (Tawarruq) for a conventional bank. Before proceeding, the Institution evaluates the intended or observed use of the liquidity to be obtained by the conventional bank. Observed Situations and Proposed Shari'ah Verdicts Which of the following options correctly identifies ALL and ONLY the rows in which the proposed Shari'ah verdict is correct, in According with Shari'ah Standards? \nSavolning oxiri yo'q",
+        "A":"Rows II and III only",
+        "B":"Rows I and IV only",
+        "C":"Rows I, II, III, and IV",
+        "D":"Rows I, II, and III only",
+        "True answer":"Rows II and III only"
+    },
+    {
+        "Question_ID":"QID_0923",
+        "Theme":"Intensive course 06",
+        "Question":"In relation to the contractor and debt-default consequences, which statements are correct?\nI. Penalty clauses are permissible in construction, Istisna'a, and supply contracts.\nII. If the contractor refuses to pay an amount due under a valid penalty clause, the rulings of default by a debtor apply to him.\nIII. It is permitted to deduct the amount due under such penalty clause from outstanding amounts owed to the contractor.\nIV. Because penalty clauses are valid in construction and supply contracts, they are equally valid in ordinary debt contracts involving deferred price obligations.",
+        "A":"I, II and III only",
+        "B":"I and IV only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0924",
+        "Theme":"Intensive course 06",
+        "Question":"Al-Hilal Exchange in Dubai and a corporate client sign a currency exchange contract for USD 200,000 to be exchanged for AED 734,000. A specific clause in the contract states: \"In the event of partial fund availability, the parties may execute a proportional exchange for the available amount on a spot basis, with the remaining balance to be settled in a separate, fully completed exchange within five working days.\" At execution, the client has only USD 150,000 available immediately. They exchange USD 150,000 for AED 550,500 on the spot. They agree to exchange the remaining USD 50,000 for AED 183,500 four days later. Based on AAOIFI standards, what is the Shariah ruling on this contractual arrangement and the executed exchanges?",
+        "A":"The arrangement is valid only if the second exchange is executed at exactly the same exchange rate as the first, ensuring no speculative gain from the delay.",
+        "B":"The entire arrangement is invalid because the contractual clause itself contravenes the requirement for complete and simultaneous possession in a single transaction.",
+        "C":"The contractual clause is permissible, making both the initial partial exchange and the subsequent delayed completion fully valid as parts of a single, flexible agreement",
+        "D":"Only the initial spot exchange of USD 150,000 for AED 550,500 is valid. The agreement for the remaining balance is invalid, and the USD 50,000 must be exchanged for AED 183,500 in a new, independent transaction with its own simultaneous possession.",
+        "True answer":"Only the initial spot exchange of USD 150,000 for AED 550,500 is valid. The agreement for the remaining balance is invalid, and the USD 50,000 must be exchanged for AED 183,500 in a new, independent transaction with its own simultaneous possession."
+    },
+    {
+        "Question_ID":"QID_0925",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements are correct regarding the establishment and consequences of default?\nI. Default in payment is established when, after a normal demand for payment, a debtor who has not proved insolvency fails to settle the debt on its due date.\nII. A creditor may demand payment from either the debtor or guarantor, unless the guarantor stipulated that payment must first be sought from the debtor.\nIII. If a debtor pays an amount exceeding the debt without any written or verbal condition, custom, or mutual agreement, the institution may accept it.\nIV. In Murabahah, if the sold asset remains available in the condition in which it was sold and the buyer later becomes bankrupt, the institution may repossess the asset instead of seeking a bankruptcy order.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, III and IV only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0926",
+        "Theme":"Intensive course 06",
+        "Question":"A client purchases a commodity from an Institution under a monetization (Tawarruq) arrangement. Due to regulatory restrictions, the client is unable to sell the commodity directly in the market. The client considers delegating the Institution to sell the commodity on his behalf. Which of the following correctly reflects the Shari'ah-compliant position in According with Shari'ah Standards?",
+        "A":"The client may delegate the Institution to sell the commodity on his behalf immediately after purchase, provided the Institution is independent and the delegation is documented separately",
+        "B":"The client is not permitted to delegate the Institution or its agent to sell the commodity purchased from the same Institution, and this delegation remains impermissible even if regulations prevent the client from selling the commodity himself.",
+        "C":"The client may delegate the Institution or its agent to sell the commodity on his behalf as long as the sale price is determined independently and the client bears the market risk.",
+        "D":"The client may delegate the Institution to sell the commodity on his behalf only if the delegation is made after the client has actually or constructively received the commodity, where regulations do not permit the client to sell the commodity except through the same Institution.",
+        "True answer":"The client may delegate the Institution to sell the commodity on his behalf only if the delegation is made after the client has actually or constructively received the commodity, where regulations do not permit the client to sell the commodity except through the same Institution."
+    },
+    {
+        "Question_ID":"QID_0927",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution includes Monetization (Tawarruq) as part of its internal liquidity policy. The Shari'ah auditor reviews several justifications provided by management for resorting to monetization. Which of the following best justifies the Institution's use of Monetization in According with Shari'ah Standards?",
+        "A":"The Institution uses Monetization as a regular financing tool to mobilize liquidity for its operations, instead of relying on modes such as Mudarabah, investment agency, Sukuk, or investment funds.",
+        "B":"The Institution treats Monetization as an investment technique and applies it whenever it offers comparatively faster access to liquidity than other Shari'ah-compliant modes",
+        "C":"The Institution resorts to Monetization only when it faces the danger of a liquidity shortage that could interrupt the flow of its operations and cause losses for its clients, after having exhausted or not being able to rely on other modes of fund mobilization.",
+        "D":"The Institution adopts Monetization as a precautionary liquidity buffer, using it periodically to maintain operational flexibility even when no immediate liquidity risk exists.",
+        "True answer":"The Institution resorts to Monetization only when it faces the danger of a liquidity shortage that could interrupt the flow of its operations and cause losses for its clients, after having exhausted or not being able to rely on other modes of fund mobilization."
+    },
+    {
+        "Question_ID":"QID_0928",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution sells a commercial plot to a customer for PKR 25,000,000. During completion of the sale, the following expenses arise: • Legal conveyancing fee: PKR 220,000 • Witnessing and notarization charges: PKR 35,000 • Preparation of sale deed and related instruments: PKR 95,000 • Government registration and stamp duty: PKR 65,000 The sale contract does not specify who will bear these expenses.However, in that city's prevailing market practice, such expenses are normally borne by the buyer. Question: According to Shari'ah Standards, how should these expenses be treated?",
+        "A":"The expenses are borne according to what the parties expressly stipulated in the contract; in the absence of stipulation, customary practice becomes binding.",
+        "B":"All expenses must be borne by the seller, because ownership transfers only after registration, and all formalities relate to completing possession",
+        "C":"The expenses must be equally shared between the seller and buyer, since both benefit from the conveyancing and registration process.",
+        "D":"The buyer bears only government registration charges, while legal and documentation expenses remain the seller's responsibility by default.",
+        "True answer":"The expenses are borne according to what the parties expressly stipulated in the contract; in the absence of stipulation, customary practice becomes binding."
+    },
+    {
+        "Question_ID":"QID_0929",
+        "Theme":"Intensive course 06",
+        "Question":"A residential building has two adjacent properties sharing a common right of passage. One owner sells his property to a third party without consulting the neighboring owner. The neighbor becomes aware of the sale immediately and seeks to acquire the sold property on the same price and payment terms agreed with the buyer. Which statement best reflects the Shari'ah-compliant position regarding the neighbor's right?",
+        "A":"The neighbor may acquire the property on the same terms as the buyer, provided the properties share common easement rights and the claim is made immediately.",
+        "B":"The neighbor has no right to acquire the sold property because consent of the buyer is mandatory in all cases of transfer.",
+        "C":"The neighbor may acquire the property only if the sale involved deferred payment and not spot payment.",
+        "D":"The neighbor may acquire the property only if the buyer voluntarily agrees to resell it to him.",
+        "True answer":"The neighbor may acquire the property on the same terms as the buyer, provided the properties share common easement rights and the claim is made immediately."
+    },
+    {
+        "Question_ID":"QID_0930",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution designs different currency arrangements to manage exposure to possible future currency devaluation. In one structure, both parties undertake promises related to the future purchase and sale of currencies, while in another structure only one party provides a commitment, with the other party remaining unbound. The institution argues that the permissibility of these structures should be assessed based on whether the promises are binding and the objective of hedging currency risk. Which of the following arrangements is permissible, in accordance with Shariah Standards, with respect to promises to purchase and sell currencies?",
+        "A":"A bilateral promise to purchase and sell currencies is permissible if the promise is binding on both parties, provided that it is intended solely for hedging against currency devaluation risk and does not lead to immediate exchange of countervalues.",
+        "B":"A bilateral promise to purchase and sell currencies is permissible when structured for hedging purposes, regardless of whether the promise is binding, as long as the actual currency exchange is deferred to a future date.",
+        "C":"A promise to purchase and sell currencies is impermissible if it is binding, whether unilateral or bilateral, because binding commitments eliminate uncertainty and resemble a concluded exchange contract.",
+        "D":"A bilateral promise to purchase and sell currencies is forbidden if the promise is binding, even for the purpose of hedging against currency devaluation risk; however, a promise from one party is permissible even if the promise is binding.",
+        "True answer":"A bilateral promise to purchase and sell currencies is forbidden if the promise is binding, even for the purpose of hedging against currency devaluation risk; however, a promise from one party is permissible even if the promise is binding."
+    },
+    {
+        "Question_ID":"QID_0931",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution structures a monetization (Tawarruq) transaction involving two separate contracts: one for purchasing a commodity on a deferred payment basis and another for selling the commodity on a spot basis. Which of the following arrangements is not permissible in According with Shari'ah Standards?",
+        "A":"The two contracts are documented separately, and the client retains full discretion to take delivery of the commodity without any obligation to proceed with the spot sale.",
+        "B":"The two contracts are operationally independent, and no term in either contract restricts the client's right to receive the commodity after completing the deferred purchase.",
+        "C":"The two contracts are linked through procedural steps such that acceptance of the deferred purchase automatically triggers the spot sale, causing the client to lose the right to receive the commodity.",
+        "D":"The two contracts are executed separately, and market practice does not impose any obligation on the client to enter into the spot sale.",
+        "True answer":"The two contracts are linked through procedural steps such that acceptance of the deferred purchase automatically triggers the spot sale, causing the client to lose the right to receive the commodity."
+    },
+    {
+        "Question_ID":"QID_0932",
+        "Theme":"Intensive course 06",
+        "Question":"An IFI has issued a promise to purchase arrangement in a Murabahah transaction. After the customer has given the promise, but before the Murabahah is executed, both parties review the commercial terms due to changes in market conditions. Which of the following actions is permissible in According with Shariah Standards?",
+        "A":"The Institution may unilaterally revise the mark-up or deferment of payment, provided the revisions are commercially justified and communicated to the customer before execution.",
+        "B":"The terms of the promise may be revised regarding deferment of payment, mark-up, or other terms, but only after Murabahah execution, and only if such revisions benefit the customer.",
+        "C":"The Institution and the customer may agree, after the promise is given but before Murabahah execution, to revise the terms of the promise relating to deferment of payment, mark-up, or other terms, provided such revision is based on mutual consent of both parties.",
+        "D":"Once a promise has been given by the customer, the terms of the promise become fixed and may not be revised at any stage, whether before or after execution of Murabahah.",
+        "True answer":"The Institution and the customer may agree, after the promise is given but before Murabahah execution, to revise the terms of the promise relating to deferment of payment, mark-up, or other terms, provided such revision is based on mutual consent of both parties."
+    },
+    {
+        "Question_ID":"QID_0933",
+        "Theme":"Intensive course 06",
+        "Question":"A corporate client instructs Noor Islamic Bank (NIB) to convert AED 2,000,000 from its account into USD and transfer the USD to its subsidiary's account at a bank in Singapore. NIB executes the conversion at the spot rate, debits the AED from the client's account, and initiates the USD transfer via SWIFT. The SWIFT message is sent, and the client receives a transaction reference. According to standard banking practice, the funds will take up to 48 hours to be credited to the beneficiary account in Singapore. During this 48-hour transfer period, what is the Shariah position regarding the client's ability to trade with or dispose of the USD that is in transit?",
+        "A":"The client may only dispose of a proportionate amount of the USD (e.g., 50%) during the transfer period, with the remainder restricted until final settlement.",
+        "B":"The client is entitled to dispose of the USD during the transfer period only if it obtains a written guarantee from NIB that the funds will be delivered.",
+        "C":"The client is not entitled to dispose of the USD during the transfer period unless and until the transfer has taken effect such that the client could actually deliver the currency to a third party.",
+        "D":"The client may freely trade with or dispose of the USD as soon as NIB provides the SWIFT confirmation, as constructive possession through bank transfer is deemed complete at that point.",
+        "True answer":"The client is not entitled to dispose of the USD during the transfer period unless and until the transfer has taken effect such that the client could actually deliver the currency to a third party."
+    },
+    {
+        "Question_ID":"QID_0934",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements correctly describe the rules of promise to buyback in institutional applications?\nI. It is permitted to sell with a promise from the seller alone to buyback, or from the buyer alone to resell, subject to specified rules.\nII. Both the first sale and the subsequent contract must be for spot price.\nIII. The promise must be documented in a deed separate from the first contract.\nIV. The second party (promisee) must not be obligated to enter into the second contract by regulation, custom, collusion, or similar factors.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0935",
+        "Theme":"Intensive course 06",
+        "Question":"A Shari'ah reviewer evaluates a Monetization (Tawarruq) transaction by tracing the sequence of Shari'ah requirements from contract formation to the nature of the commodity sold. Which of the following sequences correctly reflects the Shari'ah-compliant order of controls that must be satisfied in According with Shari'ah Standards",
+        "A":"Commodity eligibility → Deferred sale execution → Seller acquires commodity → Reciprocal binding promises → Compliance with Murabahah principles.",
+        "B":"Deferred purchase contract complies with Musawamah or Murabahah → Seller owns a real commodity before selling → Any binding promise is from only one party → Commodity sold is not gold, silver, or any type of currency.",
+        "C":"Binding promise from both parties → Deferred sale contract → Commodity classification → Seller ownership after sale → Compliance with Murabahah.",
+        "D":"Deferred purchase contract → Use of currency-based commodities → Seller ownership implied by contract → Binding promises from both parties if required.",
+        "True answer":"Deferred purchase contract complies with Musawamah or Murabahah → Seller owns a real commodity before selling → Any binding promise is from only one party → Commodity sold is not gold, silver, or any type of currency."
+    },
+    {
+        "Question_ID":"QID_0936",
+        "Theme":"Intensive course 06",
+        "Question":"Mr. B is an incumbent tenant under a valid lease. During the lease period, he enters into an agreement with Mr. C (a new tenant) to assign the lease in exchange for an amount exceeding the regular rental amount, while all other terms of the original lease remain unchanged. Which ONE option is fully consistent with Shari'ah, considering ownership consent and timing?",
+        "A":"The assignment is impermissible in all cases, even if the owner consents, because rent cannot exceed agreed rent.",
+        "B":"The assignment is permissible only if the owner consents and the original lease terms and applicable laws compliant with Shari'ah are observed.",
+        "C":"The assignment is permissible only after the lease expires, since the tenant's right continues beyond expiry.",
+        "D":"The assignment is automatically permissible during the lease period without owner consent, as occupancy is a transferable financial right",
+        "True answer":"The assignment is permissible only if the owner consents and the original lease terms and applicable laws compliant with Shari'ah are observed."
+    },
+    {
+        "Question_ID":"QID_0937",
+        "Theme":"Intensive course 06",
+        "Question":"During an active lease period, a landlord and tenant agree that the tenant will pay an amount to the landlord in exchange for waiving his contractual right to ownership of the usufruct for the remaining lease period. Later, the lease expires naturally and is not renewed, either expressly or through automatic renewal. Which ONE option correctly reflects the Shari'ah ruling on taking payment after lease expiry?",
+        "A":"It is not permitted to take payment for vacating the premises after expiry of the lease, and the owner has the right to take back his property.",
+        "B":"The landlord may take payment only if the tenant voluntarily agrees, regardless of lease expiry.",
+        "C":"Payment is permissible if the tenant had earlier paid rent above market value.",
+        "D":"The landlord may lawfully take payment, as long as the tenant previously enjoyed usufruct during the lease.",
+        "True answer":"It is not permitted to take payment for vacating the premises after expiry of the lease, and the owner has the right to take back his property."
+    },
+    {
+        "Question_ID":"QID_0938",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution extends a Qard (interest-free loan) of PKR 5,000,000 to a small manufacturing firm. During the process, the following expenses arise: 1. PKR 45,000 incurred for customary banking charges related to transfer, verification, and reconciliation of the loan amount. 2. PKR 60,000 for preparation of loan documents, including a promissory note, title deed references, and execution formalities. 3. PKR 25,000 incurred later for administrative recovery and reconciliation at the time of repayment. The loan agreement does not allocate these expenses explicitly to either party. Question According to Shari'ah Standards, how should these expenses be borne?",
+        "A":"All expenses must be borne by the lender, because a Qard is a charitable contract and imposing costs on the borrower contradicts its spirit.",
+        "B":"Only documentation expenses are borne by the borrower, while delivery, ascertainment, and recovery expenses remain the responsibility of the lender.",
+        "C":"All expenses related to delivery, ascertainment, documentation, implementation, and recovery of the loan are borne by the borrower.",
+        "D":"Expenses are shared proportionately between the lender and borrower, since both benefit from proper documentation and execution of the loan.",
+        "True answer":"All expenses related to delivery, ascertainment, documentation, implementation, and recovery of the loan are borne by the borrower."
+    },
+    {
+        "Question_ID":"QID_0939",
+        "Theme":"Intensive course 06",
+        "Question":"An IFI financed a customer through Murabahah on deferred instalments. The customer is solvent but delays payment. The contract contains: a penalty of cash compensation payable to the IFI for each day of delay; a clause making all future instalments immediately due upon default unless caused by force majeure; and an irrevocable mandate allowing the IFI to sell the mortgaged asset without recourse to court. Which of the following is the most accurate ruling?",
+        "A":"All three provisions are permissible because they protect the IFI against default.",
+        "B":"Only provisions 2 and 3 are permissible, while the financial compensation clause is impermissible.",
+        "C":"Only provision 1 is permissible because it compensates actual harm, whereas 2 and 3 are impermissible penalties.",
+        "D":"Provision 2 is impermissible unless the debtor separately renews consent after every missed instalment.",
+        "True answer":"Only provisions 2 and 3 are permissible, while the financial compensation clause is impermissible."
+    },
+    {
+        "Question_ID":"QID_0940",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution enters into a Murabahah arrangement with a customer who provides Hamish Jiddiyyah as part of a binding promise to purchase an asset. The Institution purchases the asset at a cost of PKR 10,000,000. Before execution of the Murabahah contract, the customer breaches his binding promise. As a result of the breach, the Institution sells the asset to a third party for PKR 9,300,000. Had the Murabahah been executed, the agreed Murabahah selling price to the customer would have been PKR 11,200,000. Which of the following correctly represents the maximum amount the Institution is permitted to deduct from the Hamish Jiddiyyah in According with Shariah Standards?",
+        "A":"PKR 1,900,000, representing the difference between the Murabahah selling price agreed with the customer and the price obtained from the third party",
+        "B":"PKR 1,200,000, representing the loss of the Institution's expected Murabahah mark-up resulting from the customer's breach",
+        "C":"PKR 700,000, representing the difference between the cost of the item borne by the Institution and the price at which the item was sold to a third party.",
+        "D":"PKR 2,000,000, representing the total commercial loss suffered by the Institution, including the opportunity loss of the Murabahah transaction.",
+        "True answer":"PKR 700,000, representing the difference between the cost of the item borne by the Institution and the price at which the item was sold to a third party."
+    },
+    {
+        "Question_ID":"QID_0941",
+        "Theme":"Intensive course 06",
+        "Question":"An institution sells an asset to a client under a separate promise by the institution alone to buy it back later. The promise is in a deed separate from the first contract. At the time of performance, the asset is totally destroyed. The institution nevertheless insists on enforcing the promise and claims the right to take an agreed portion of the original price as compensation for the promisor's repudiation. Which of the following is the most accurate ruling?",
+        "A":"The institution may enforce the promise despite total loss, because unilateral promise remains binding regardless of existence of the asset.",
+        "B":"The institution may not oblige fulfillment after total loss, and in any case may not stipulate entitlement to any part of the price as compensation.",
+        "C":"The institution may claim any agreed percentage of the price so long as it does not exceed actual damage.",
+        "D":"The institution may enforce only if the promisor is a Mudarib or investment agent, because these parties assume enhanced fiduciary obligations.",
+        "True answer":"The institution may not oblige fulfillment after total loss, and in any case may not stipulate entitlement to any part of the price as compensation."
+    },
+    {
+        "Question_ID":"QID_0942",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements is incorrect regarding the core rules of a valid buyback?",
+        "A":"The second contract must not be stipulated within the first contract.",
+        "B":"There must not be a bilateral promise binding both parties to enter into the second contract.",
+        "C":"A subsequent buyback is valid if the first sale was fictitious but documented, because legal registration is sufficient evidence of transfer.",
+        "D":"The first buyer must assume the risk of loss and benefit from the yield of the asset for the first sale to be considered real.",
+        "True answer":"A subsequent buyback is valid if the first sale was fictitious but documented, because legal registration is sufficient evidence of transfer."
+    },
+    {
+        "Question_ID":"QID_0943",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following sets of statements is entirely correct with respect to the rules governing Shuf'ah (preemption) under Shari'ah? Statements:\nI. The right of Shuf'ah may be exercised over movable property sold independently.\nII. In jointly owned property, multiple preemptors share the right proportionate to their ownership.\nIII. The right of Shuf'ah is extinguished upon the death of the preemptor.\nIV. The Shafi' may invalidate dispositions made before exercising the right, even if the property has changed hands.",
+        "A":"II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II and IV only",
+        "True answer":"II and IV only"
+    },
+    {
+        "Question_ID":"QID_0944",
+        "Theme":"Intensive course 06",
+        "Question":"Assertion (A): When the commodity is not physically available at the time of signing the monetization contract, the client must still be provided with sufficient information to ensure that the transaction represents a real purchase rather than a fictitious one.\nReason (R): Providing a full description or a sample indicating the quantity of the commodity and the place of its storage transforms the act of purchasing into a real transaction, and for this reason, the use of local commodities in monetization is considered more preferable.\nWhich of the following is correct in According with Shari'ah Standards?",
+        "A":"Both Assertion (A) and Reason (R) are correct, and Reason (R) correctly explains Assertion (A).",
+        "B":"Both Assertion (A) and Reason (R) are correct, but Reason (R) does not explain Assertion (A).",
+        "C":"Assertion (A) is correct, but Reason (R) is incorrect.",
+        "D":"Assertion (A) is incorrect, but Reason (R) is correct.",
+        "True answer":"Both Assertion (A) and Reason (R) are correct, and Reason (R) correctly explains Assertion (A)."
+    },
+    {
+        "Question_ID":"QID_0945",
+        "Theme":"Intensive course 06",
+        "Question":"A bank owns a car and leases it to a customer under an Ijārah contract. During the lease: • Ownership remains with the bank. • Possession and use remain continuously with the customer (lessee). Later, the customer purchases the same car from the bank through a separate sale contract (either at end of lease or at early termination). The car is not physically returned to the bank before executing the sale; the customer already holds the car at the time the sale is concluded. \nQuestion: From the perspective of possession (Qabd) for the buyer, which option is most accurate in According with Shari'ah Standards?",
+        "A":"The buyer must take a fresh physical delivery after the sale because prior possession as a lessee cannot stand in place of lawful possession arising from purchase.",
+        "B":"The buyer's prior possession of the tangible car may stand in place of subsequent lawful possession due to a Sharī'ah-acknowledged cause, even if the earlier possession was based on Amanah or Daman.",
+        "C":"The buyer's prior possession stands in place of subsequent lawful possession only if the earlier possession was based on Daman, and not if it was based on Amanah as a lessee.",
+        "D":"The buyer's prior possession cannot substitute subsequent lawful possession unless the bank re-takes the car first and then re-delivers it after executing the sale contract.",
+        "True answer":"The buyer's prior possession of the tangible car may stand in place of subsequent lawful possession due to a Sharī'ah-acknowledged cause, even if the earlier possession was based on Amanah or Daman."
+    },
+    {
+        "Question_ID":"QID_0946",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution participates in a Musharakah arrangement that is exposed to risks arising from currency fluctuations. To mitigate this risk, different guarantee structures are proposed. In one proposal, one of the partners undertakes to guarantee the other partner against currency-related losses. In another proposal, an unrelated third party voluntarily offers a guarantee to protect one of the partners from such risks, and the guarantee is not incorporated into the Musharakah or Mudarabah contract. Which of the following structures is permissible, in accordance with Shariah Standards, with respect to guarantees related to currency risks?",
+        "A":"It is permissible for one of the partners in a Musharakah or Mudarabah arrangement to act as a guarantor for the other partner against risks arising from dealing in currencies, provided that the guarantee is voluntary and intended solely for risk mitigation.",
+        "B":"It is permissible for a partner or a third party to provide a guarantee against currency risks, as long as the guarantee does not result in a fixed or predetermined return for either party.",
+        "C":"It is permissible for one of the partners in a Musharakah or Mudarabah to guarantee the other partner against currency risks if the guarantee is not expressly stated in the contract but arises from a separate understanding",
+        "D":"It is permissible for a third party to voluntarily be a guarantor for the purpose of protecting one of the partners from the risks of dealing in currencies, provided this guarantee is not stated in the contract.",
+        "True answer":"It is permissible for a third party to voluntarily be a guarantor for the purpose of protecting one of the partners from the risks of dealing in currencies, provided this guarantee is not stated in the contract."
+    },
+    {
+        "Question_ID":"QID_0947",
+        "Theme":"Intensive course 06",
+        "Question":"Mr. Z takes possession of an unowned piece of land, marks it with government-approved boundary indicators, and obtains the required permission from the authorities. Two years later, he agrees to waive his entitlement over this land in favor of Mr. Y for consideration. However, Mr. Z later attempts to sell the land itself to a third party. Separately, the land remains unused for three consecutive years. Which ONE option most accurately reflects the Shari'ah position regarding Mr. Z's rights and the legal consequences of these actions?",
+        "A":"Mr. Z acquires ownership by Tahjir, may sell the land, may waive his entitlement for consideration, and retains the right indefinitely regardless of non-use.",
+        "B":"Mr. Z gains exclusivity and priority without ownership, may waive his entitlement for consideration but may not sell the land, and the right expires if the land is not utilised for three years.",
+        "C":"Mr. Z gains ownership through marking and possession, may transfer the land itself for consideration, but the right expires only by express government revocation.",
+        "D":"Mr. Z gains temporary possession without exclusivity, cannot waive his entitlement for consideration, and retains the right even if the land remains unused.",
+        "True answer":"Mr. Z gains exclusivity and priority without ownership, may waive his entitlement for consideration but may not sell the land, and the right expires if the land is not utilised for three years."
+    },
+    {
+        "Question_ID":"QID_0948",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements correctly describe prohibited buyback scenarios due to collusion or customary practice leading to 'Inah?\nI. Selling an asset on deferred payment and then repurchasing it at a lower spot price is prohibited where collusion or custom exists.\nII. Selling an asset for cash and then repurchasing it at a higher deferred price is prohibited where collusion or custom exists.\nIII. Selling an asset on deferred payment and repurchasing it at a higher deferred price with a longer maturity is prohibited where collusion or custom exists.\nIV. Selling an asset for spot and then repurchasing it later for a higher spot price is always permissible because there is no deferment element.",
+        "A":"I, II and III only",
+        "B":"I and IV only",
+        "C":"II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0949",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution sells equipment to a customer under a Murabahah contract on 1 January 2025 at a selling price of PKR 12,000,000, payable in 12 equal monthly instalments ending on 31 December 2025. The Murabahah contract does not contain any clause relating to rebate, discount, or reduction of price in case of early payment. On 30 June 2025, the customer offers to settle the entire outstanding amount early. After receiving full payment, the Institution voluntarily reduces the total amount payable by PKR 600,000 as a goodwill gesture. Which of the following best reflects the Shari'ah position on this transaction in According with Shari'ah Standards?",
+        "A":"The price reduction is not permissible because any reduction in the selling price due to early payment constitutes an indirect form of interest, regardless of whether it was stipulated in the contract.",
+        "B":"The price reduction is permissible only if the amount of PKR 600,000 had been expressly agreed and documented in the Murabahah contract at the time of execution.",
+        "C":"The price reduction is permissible provided it was not part of the contractual agreement and was granted by the Institution voluntarily after early payment by the customer.",
+        "D":"The price reduction is permissible only if the early settlement occurred exactly on the halfway date of the contract period and the reduction is proportionate to the remaining instalments.",
+        "True answer":"The price reduction is permissible provided it was not part of the contractual agreement and was granted by the Institution voluntarily after early payment by the customer."
+    },
+    {
+        "Question_ID":"QID_0950",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following is the best characterization of the treatment of the defaulting debtor under this Standard?",
+        "A":"He may be charged compensatory damages if the creditor proves actual commercial loss caused by delay.",
+        "B":"He may be compelled to pay financial compensation only if the amount is not contractually stipulated in advance.",
+        "C":"He may be subject to non-material sanctions and recovery measures, but not to financial compensation for delay as such.",
+        "D":"He may not be pursued through monitoring, blacklisting, recoupment, or legal expenses because these amount to indirect Riba.",
+        "True answer":"He may be subject to non-material sanctions and recovery measures, but not to financial compensation for delay as such."
+    },
+    {
+        "Question_ID":"QID_0951",
+        "Theme":"Intensive course 06",
+        "Question":"Which statements correctly reflect the distinction between prohibited compensation and permissible alternatives in this Standard?\nI. It is impermissible to stipulate compensation for delayed debt payment, whether payable in cash or in any other consideration.\nII. It is impermissible to demand judicial compensation from a procrastinating debtor even if the alleged loss is change in currency value.\nIII. It is permissible to recover legal expenses caused by the debtor's default.\nIV. It is permissible for the debtor to undertake a charitable donation upon procrastination.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0952",
+        "Theme":"Intensive course 06",
+        "Question":"A company decides to increase its share capital. Under its corporate bylaws, existing shareholders are given priority over third parties to subscribe for the newly issued shares in proportion to their existing holdings. One shareholder chooses not to exercise this priority himself and instead assigns the priority right to another person without receiving any consideration, subject to applicable legal and regulatory requirements. Which ONE option correctly reflects the Shari'ah position on both the priority right and its assignment?",
+        "A":"Priority to subscribe for new shares may be granted to existing shareholders in proportion to their holdings, and such priority may be assigned to a third party without consideration, subject to law and supervisory rules.",
+        "B":"Priority rights may be granted only if shareholders subscribe equally regardless of prior holdings, and assignment of such rights requires consideration.",
+        "C":"Priority to subscribe for new shares is not permissible under Shari'ah, but if granted, it may be sold freely to third parties.",
+        "D":"Existing shareholders may be granted priority to subscribe for new shares, but such priority rights may not be assigned to any third party under any circumstances.",
+        "True answer":"Priority to subscribe for new shares may be granted to existing shareholders in proportion to their holdings, and such priority may be assigned to a third party without consideration, subject to law and supervisory rules."
+    },
+    {
+        "Question_ID":"QID_0953",
+        "Theme":"Intensive course 06",
+        "Question":"Concerning non-material punishments and general rulings, which statements are correct? I. The institution may include the name of the defaulting debtor in a black list and may warn other companies about him. II. The institution may investigate the financial status and activities of a defaulting debtor through all permissible and legitimate means. III. The institution may accept an additional amount paid by the defaulting debtor provided there was no written or verbal condition, custom, or mutual understanding regarding it. IV. The institution may recover the amount due from any of the debtor's accounts with it, including current or investment accounts, without further consent, provided the contract so stipulates and subject to currency rules.",
+        "A":"I, II and III only",
+        "B":"I, III and IV only",
+        "C":"II and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0954",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution undertakes a Monetization (Tawarruq) transaction in which it must sell the monetization commodity to obtain liquidity. Management considers several operational arrangements for executing the sale of the commodity. Which of the following arrangements is most consistent with Shari'ah Standards?",
+        "A":"The Institution sells the monetization commodity through its own personnel and systems, or alternatively uses a broker to execute the sale, without appointing any party as its proxy.",
+        "B":"The Institution appoints a third party as its proxy to sell the monetization commodity on its behalf, provided the proxy is independent and the arrangement is fully disclosed",
+        "C":"The Institution authorizes a third party to act as its proxy for selling the monetization commodity, while the Institution itself refrains from direct involvement in the sale process",
+        "D":"The Institution delegates the sale of the monetization commodity to a third party under a proxy arrangement, as long as the proxy does not also act as the original seller of the commodity.",
+        "True answer":"The Institution sells the monetization commodity through its own personnel and systems, or alternatively uses a broker to execute the sale, without appointing any party as its proxy."
+    },
+    {
+        "Question_ID":"QID_0955",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution enters into a Murabahah transaction with a customer. During the execution of the transaction, expenses are incurred for preparing the contract documents. The Institution considers different approaches for allocating these documentation expenses between itself and the customer. Which of the following arrangements is permissible in According with Shariah Standards?",
+        "A":"The expenses of preparing the contract documents are borne wholly by the customer, provided the parties have agreed to this arrangement, even if the expenses charged exceed the actual amount of work involved in preparing the documents.",
+        "B":"The expenses of preparing the contract documents are borne evenly by the Institution and the customer, unless they agree that the expenses are to be borne wholly by one party, provided the expenses are proportional to the actual amount of work involved and do not implicitly include a commitment or a facility fee.",
+        "C":"The expenses of preparing the contract documents are borne evenly by the Institution and the customer, unless they agree that the expenses are to be borne wholly by one party, even if those expenses are not proportional to the actual amount of work involved.",
+        "D":"The expenses of preparing the contract documents are allocated between the Institution and the customer based on an agreed arrangement, provided the total amount charged is reasonable and generally related to the preparation of the documents, regardless of whether such expenses implicitly include a commitment or facility fee.",
+        "True answer":"The expenses of preparing the contract documents are borne evenly by the Institution and the customer, unless they agree that the expenses are to be borne wholly by one party, provided the expenses are proportional to the actual amount of work involved and do not implicitly include a commitment or a facility fee."
+    },
+    {
+        "Question_ID":"QID_0956",
+        "Theme":"Intensive course 06",
+        "Question":"Three separate transactions occur on the same business day:\nTransaction I : A customer receives a bank draft issued by a local bank in his favor for PKR 1,200,000. The draft will be cleared and paid two working days later.\nTransaction II : Another customer makes a PKR 180,000 credit card payment to a merchant for office equipment.Settlement between the issuing bank and the merchant will occur later under the card network rules.\nTransaction III : A person deposits PKR 900,000 into a bank account maintained for his creditor, with the creditor's consent. The deposit is made partly in cash and partly by cheque drawn on the same bank, and the depositor owes the creditor an equivalent amount.\nQuestion Which of the following options most accurately reflects the Shari'ah characterization of possession and liability in all three transactions?",
+        "A":"Only Transaction I constitutes constructive possession, while Transactions II and III require actual receipt of funds before possession and discharge of liability occur.",
+        "B":"Transactions I, II, and III are all deemed constructive possession, and in Transaction III the depositor is absolved of liability to the extent of the deposited amount.",
+        "C":"Transactions II and III constitute constructive possession, while Transaction I does not due to the delay in actual payment by the drawee bank.",
+        "D":"None of the transactions amount to constructive possession because delay in settlement prevents recognition of possession under Shari'ah.",
+        "True answer":"Transactions I, II, and III are all deemed constructive possession, and in Transaction III the depositor is absolved of liability to the extent of the deposited amount."
+    },
+    {
+        "Question_ID":"QID_0957",
+        "Theme":"Intensive course 06",
+        "Question":"Mr. A is a tenant of a commercial shop under a 10-year lease with a monthly rent of PKR 100,000. At the start of the lease, the landlord and tenant agree that the tenant will pay an additional lump sum of PKR 2,000,000, which is treated as part of the agreed rent for the entire lease period.After 6 years, the lease is terminated early by mutual agreement. Which ONE option is most accurate according to Shari'ah regarding the treatment of the lump-sum payment?",
+        "A":"he lump-sum amount becomes an ownership premium and is unaffected by termination of the lease.",
+        "B":"The lump-sum amount is treated under the same rules as rental payments, and the applicable rules for early termination apply to it.",
+        "C":"The lump-sum amount must be refunded in full, since early termination nullifies any payment beyond periodic rent.",
+        "D":"The landlord may retain the entire lump-sum amount, as it was paid over and above rent and is independent of lease duration.",
+        "True answer":"The lump-sum amount is treated under the same rules as rental payments, and the applicable rules for early termination apply to it."
+    },
+    {
+        "Question_ID":"QID_0958",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution sells a commodity under a Monetization (Tawarruq) arrangement. During a Shari'ah audit, the auditor examines whether the commodity sold was properly distinguished from the seller's other assets so that the sale represents a valid and identifiable transaction. Which of the following measures best ensures compliance with Shari'ah requirements in this context in According with Shari'ah Standards?",
+        "A":"Ensuring that the commodity is described generically in the sale contract, provided the seller undertakes to deliver a similar commodity from its inventory.",
+        "B":"Identifying the commodity by separating it from the seller's other assets or by recording the identifying numbers of its documents, such as storing certificates.",
+        "C":"Treating the commodity as identified as long as it belongs to the seller's overall pool of assets and can be allocated to the buyer at a later stage.",
+        "D":"Considering the commodity sufficiently identified once the selling price has been agreed, even if it remains mixed with the seller's other assets.",
+        "True answer":"Identifying the commodity by separating it from the seller's other assets or by recording the identifying numbers of its documents, such as storing certificates."
+    },
+    {
+        "Question_ID":"QID_0959",
+        "Theme":"Intensive course 06",
+        "Question":"A customer, acting as a purchase orderer, proposes a specific supplier for an item intended to be acquired through Murabahah. Before executing the Murabahah contract, the Institution considers different types of guarantees to protect its interests in case the transaction does not proceed as planned. Which of the following combinations of guarantees is permissible in According with Shariah Standards?",
+        "A":"Obtaining from the customer a guarantee covering the supplier's failure to meet specifications, lack of diligence in execution, and any damage or destruction of the item during shipment or storage, provided the customer suggested the supplier.",
+        "B":"Obtaining from the customer, in his personal capacity, a guarantee regarding the good performance of the supplier's contractual obligations towards the Institution, which remains valid even if the Murabahah contract is not executed, where the customer has suggested the source of supply, while refraining from imposing any guarantee relating to hazards such as damage or destruction during shipment or storage.",
+        "C":"Obtaining from the customer, in his capacity as purchase orderer, a guarantee to compensate the Institution for any loss of time, effort, or property arising from supplier non-performance, as well as losses caused by shipment or storage hazards, provided the Murabahah contract has not yet been executed.",
+        "D":"Obtaining from the customer a guarantee that becomes effective only upon execution of the Murabahah contract and covers the supplier's performance as well as risks of damage or destruction of the item during shipment, where the customer has identified the supplier.",
+        "True answer":"Obtaining from the customer, in his personal capacity, a guarantee regarding the good performance of the supplier's contractual obligations towards the Institution, which remains valid even if the Murabahah contract is not executed, where the customer has suggested the source of supply, while refraining from imposing any guarantee relating to hazards such as damage or destruction during shipment or storage."
+    },
+    {
+        "Question_ID":"QID_0960",
+        "Theme":"Intensive course 06",
+        "Question":"Under Shari'ah rules of possession, certain legal acts may substitute actual physical possession by producing the same legal effects. Which ONE of the following statements correctly identifies a situation that constitutes constructive possession, placing registration in the position of actual possession with respect to rules and legal effects?",
+        "A":"Actual possession is achieved only through physical delivery, and registration has no legal relevance for immovable or movable assets",
+        "B":"Constructive possession is established when ownership is transferred contractually, even if no registration or delivery has taken place.",
+        "C":"Constructive possession applies only to immovable property and does not extend to movable assets such as vehicles or means of transport.",
+        "D":"Constructive possession includes the registration of a mortgage of immovables and the hypothecation of mobile movables such as cars, trains, steamers, and airplanes through legally valid registration, which substitutes actual possession.",
+        "True answer":"Constructive possession includes the registration of a mortgage of immovables and the hypothecation of mobile movables such as cars, trains, steamers, and airplanes through legally valid registration, which substitutes actual possession."
+    },
+    {
+        "Question_ID":"QID_0961",
+        "Theme":"Intensive course 06",
+        "Question":"A customer approaches an Islamic financial institution seeking Murabahah financing for a specific item. Prior to approaching the institution, the customer had received an offer from a supplier. The offer was either addressed personally to the customer or was made without specifying an addressee. The customer accepted this offer before requesting the institution to execute Murabahah financing on the same item. Which of the following correctly describes the Shariah ruling on the institution's ability to carry out Murabahah in this situation, in accordance with Shariah Standards?",
+        "A":"The institution may carry out Murabahah on the same item, provided that it purchases the item independently from the supplier after the customer has accepted the supplier's offer.",
+        "B":"The institution is not permitted to carry out Murabahah on the same item, because the sale has been concluded with the customer upon his acceptance of the supplier's offer.",
+        "C":"The institution may carry out Murabahah on the same item if the supplier's offer was not explicitly addressed to the institution and the institution was not a party to the original offer.",
+        "D":"The institution is permitted to carry out Murabahah on the same item, provided that the customer subsequently appoints the institution as his agent to complete the purchase.",
+        "True answer":"The institution is not permitted to carry out Murabahah on the same item, because the sale has been concluded with the customer upon his acceptance of the supplier's offer."
+    },
+    {
+        "Question_ID":"QID_0962",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following is the most accurate ruling concerning auction-based buyback?",
+        "A":"It is not permissible to sell a commodity on deferred payment and then repurchase it from auction at a lower cash price, because the lower cash price itself proves 'Inah.",
+        "B":"It is permissible to sell a commodity on deferred payment and then repurchase it from auction at a lower cash price, and it is permitted to purchase a commodity on credit and then offer it in an auction for cash sale, even if the first seller is among the bidders.",
+        "C":"It is permissible only if the first seller is excluded from bidding in the auction.",
+        "D":"It is permissible only if the commodity was initially sold for spot and is later repurchased for spot.",
+        "True answer":"It is permissible to sell a commodity on deferred payment and then repurchase it from auction at a lower cash price, and it is permitted to purchase a commodity on credit and then offer it in an auction for cash sale, even if the first seller is among the bidders."
+    },
+    {
+        "Question_ID":"QID_0963",
+        "Theme":"Intensive course 06",
+        "Question":"A debtor is late in paying a due Murabahah instalment. The institution had contractually reserved the right to recover from the debtor's current and investment accounts; one account is in the same currency as the debt, another in a different currency. It also wants to recover legal expenses and claims default, although the debtor has not yet received an ordinary demand for payment. Which is the most accurate ruling?",
+        "A":"The institution may recover from all accounts at any exchange rate it chooses, and default is established automatically once the due date passes.",
+        "B":"The institution may recoup from the same-currency balance directly, and from a different-currency balance at the then prevailing exchange rate, but default is established only after normal demand and failure by a debtor who has not proved insolvency.",
+        "C":"The institution may not recover from investment accounts, only current accounts, and legal expenses are not recoverable.",
+        "D":"The institution may recover from different-currency accounts only if the original debt itself was denominated in that foreign currency.",
+        "True answer":"The institution may recoup from the same-currency balance directly, and from a different-currency balance at the then prevailing exchange rate, but default is established only after normal demand and failure by a debtor who has not proved insolvency."
+    },
+    {
+        "Question_ID":"QID_0964",
+        "Theme":"Intensive course 06",
+        "Question":"On 1 March 2024, an Institution sells a commercial vehicle to a customer under a Murabahah contract for a selling price of PKR 9,600,000, payable in 12 monthly instalments ending on 28 February 2025. Under the contract structure: • Ownership of the vehicle is treated as transferred to the customer at the time of sale. • Registration of the vehicle in the customer's name is postponed as a security measure. • The customer authorises the Institution to sell the vehicle in case of default. The customer defaults on the instalment due on 31 October 2024, at which point the outstanding amount is PKR 3,200,000. The Institution sells the vehicle to a third party on 15 November 2025 for PKR 3,900,000. Which of the following correctly reflects the Shari'ah-compliant treatment of ownership, sale authority, and proceeds in According with Shari'ah Standards?",
+        "A":"The Institution may retain ownership of the vehicle until the full selling price is paid, sell the vehicle upon default, and retain the full sale proceeds of PKR 3,900,000 as compensation for the customer's failure to pay on the due date.",
+        "B":"The Institution may postpone registration of the vehicle in the customer's name as a guarantee of full payment, may sell the vehicle based on the customer's authorisation upon default, must issue a counter-deed to establish the customer's right to ownership, and must recover only PKR 3,200,000 while returning the balance of PKR 700,000 to the customer.",
+        "C":"The Institution may postpone both ownership transfer and registration until full payment of the selling price, and upon default may sell the vehicle and retain proceeds up to the full original selling price of PKR 9,600,000.",
+        "D":"The Institution may treat postponed registration as evidence that ownership has not transferred, sell the vehicle upon default, and offset the sale proceeds against both the outstanding selling price and the expected Murabahah profit.",
+        "True answer":"The Institution may postpone registration of the vehicle in the customer's name as a guarantee of full payment, may sell the vehicle based on the customer's authorisation upon default, must issue a counter-deed to establish the customer's right to ownership, and must recover only PKR 3,200,000 while returning the balance of PKR 700,000 to the customer."
+    },
+    {
+        "Question_ID":"QID_0965",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements correctly describe the provisions on buyback?\nI. Buyback, under the stipulated conditions, is treated as one of the permissible forms of contract combinations.\nII. If the seller retains legal registration of the sold asset, documentation confirming the buyer's ownership must be executed so long as buyer's ownership, yield, and risk are not negated.\nIII. The seller's retention of legal title for documentation purposes means that Shari'ah ownership remains with the seller until legal registration changes.\nIV. The seller's possession of the asset, in such a case, is deemed a trust.",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0966",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements correctly describe the Standard's treatment of Repo \/ Reverse Repo and Shari'ah-compliant alternatives?\nI. A conventional repurchase agreement is characterized as a ribā-based loan secured by financial assets.\nII. In conventional repo, the sale is not regarded as genuine because it does not transfer the normal consequences of sale such as risk and entitlement to yield.\nIII. Among Shari'ah-compliant alternatives are sale of Shari'ah-compliant securities with a unilateral promise to buy back or sell back, subject to the Standard's rules.\nIV. Back-to-back loans with points system are permissible provided the system is fair, does not convert points into cash compensation, and does not calculate interest.",
+        "A":"I and IV only",
+        "B":"II and III only",
+        "C":"I, II, III and IV",
+        "D":"I, II and III only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0967",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution finances the purchase of standardized goods stored in a licensed warehouse. Instead of physically moving the goods, the warehouse issues documents that name the Institution as the holder and acknowledge its interest. The Institution is also able to trade or transfer the goods using these documents without physically accessing the warehouse. Which of the following best reflects the Shari'ah ruling on whether constructive possession has occurred in this situation?",
+        "A":"Constructive possession is achieved because the documents are issued in the name of the possessor or acknowledge his interest, the commodities are ascertained, and the possessor is able to undertake transactions in what the documents represent.",
+        "B":"Constructive possession is not achieved unless the goods are physically removed from the warehouse, regardless of whether documents are issued or whether the possessor is able to transact using them.",
+        "C":"Constructive possession is achieved only if the documents are accompanied by immediate physical delivery of the commodities, even if the documents allow transactions in the goods.",
+        "D":"Constructive possession is not achieved because possession of documents alone does not substitute for actual possession, even if the documents represent goods and enable trading.",
+        "True answer":"Constructive possession is achieved because the documents are issued in the name of the possessor or acknowledge his interest, the commodities are ascertained, and the possessor is able to undertake transactions in what the documents represent."
+    },
+    {
+        "Question_ID":"QID_0968",
+        "Theme":"Intensive course 06",
+        "Question":"A seller sells machinery to a buyer on deferred payment. There is no express stipulation of repurchase in the first contract and no binding bilateral promise. Later, the seller repurchases the machinery from the buyer at a higher deferred price. There was no collusion, but the higher price reflected an increase in the machine's market value after substantial modification by the buyer. What is the most accurate ruling?",
+        "A":"The transaction is prohibited because any higher deferred repurchase price necessarily constitutes 'Inah",
+        "B":"The transaction is permissible because the price increase is due to change in the asset's characteristics or value, not due to deferment or cash considerations",
+        "C":"The transaction is prohibited because buyback from the first buyer is never permissible where the second price exceeds the first",
+        "D":"The transaction is invalid unless the second buyer is a third party unrelated to the first seller",
+        "True answer":"The transaction is permissible because the price increase is due to change in the asset's characteristics or value, not due to deferment or cash considerations"
+    },
+    {
+        "Question_ID":"QID_0969",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following are among the permitted scenarios for buyback mentioned in the Standard?\nI. The buyback is free from collusion and customary arrangement.\nII. The price difference is due to changes in the asset's characteristics or value, not deferment or cash considerations.\nIII. The buyer in the second contract is different from the first seller, and neither party is wholly or majority-owned by the other.\nIV. The price in one of the contracts is in a form other than cash.",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, II and III only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0970",
+        "Theme":"Intensive course 06",
+        "Question":"In a residential building constructed on jointly owned land, different individuals own separate floors. An incident occurs where structural damage affects part of the building. Consider the following situation and determine the most accurate ruling in accordance with Shari'ah principles governing financial rights arising from neighbourhood. \nScenario: A multi-storey building stands on common underlying land owned collectively by all floor owners. The ground-floor owner carries out renovations that later result in the collapse of the lower storey. In another case, the collapse occurs without any fault on the part of the lower-storey owner. Meanwhile, all owners continue to use shared facilities such as staircases, elevators, and water systems. Which of the following options most accurately reflects the Shari'ah position covering all aspects of this scenario?",
+        "A":"If a lower storey collapses due to any fault of its owner, he is required to reconstruct it so that upper-storey owners are not harmed; if the owner is not responsible, courts may intervene to protect both parties, and all owners retain rights to common facilities",
+        "B":"The lower-storey owner is never liable for reconstruction, even if at fault; disputes must be resolved by mutual consent only, and common facilities are owned exclusively by the ground-floor owner.",
+        "C":"Each floor owner bears responsibility only for his own unit; collapse issues are resolved privately between parties, and use of common facilities depends on individual ownership agreements rather than shared rights.",
+        "D":"Upper-storey owners bear reconstruction costs regardless of fault, courts have no role in settlement, and common facilities may be restricted based on contribution to maintenance.",
+        "True answer":"If a lower storey collapses due to any fault of its owner, he is required to reconstruct it so that upper-storey owners are not harmed; if the owner is not responsible, courts may intervene to protect both parties, and all owners retain rights to common facilities"
+    },
+    {
+        "Question_ID":"QID_0971",
+        "Theme":"Intensive course 06",
+        "Question":"A customer places PKR 2,500,000 with an Islamic financial institution under a Wadī'ah (deposit for safekeeping) arrangement. During the tenure of the deposit, the following expenses arise: • PKR 18,000 charged by the bank for receiving and recording the deposit through internal vault and system procedures. • PKR 12,000 incurred when the customer withdraws the deposit through a special cash handling request. The Wadī'ah agreement is silent on the allocation of deposit and withdrawal expenses.\nQuestion According to Shari'ah Standards, who should bear these expenses?",
+        "A":"The institution bears both expenses, since it is entrusted with safekeeping the deposit and controls the operational process.",
+        "B":"The expenses are shared equally, as deposit and withdrawal benefit both the depositor and the institution.",
+        "C":"The institution bears deposit expenses, while withdrawal expenses are borne by the depositor due to customer-initiated action.",
+        "D":"The depositor bears both the deposit and withdrawal expenses, as he is the owner of the deposited funds.",
+        "True answer":"The depositor bears both the deposit and withdrawal expenses, as he is the owner of the deposited funds."
+    },
+    {
+        "Question_ID":"QID_0972",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic legal researcher is analyzing different types of easements in order to determine their nature, beneficiaries, and permissible scope of use under Shari'ah. The researcher distinguishes between rights attached to private real estate and rights available to the general public through public utilities. Which of the following statements most accurately reflects the Shari'ah position on easements, considering their classification and limitation of use?",
+        "A":"Private easements arise from contractual arrangements between property owners, while public easements are collective ownership rights that may be freely transferred or commercially exploited by individuals.",
+        "B":"Both private and public easements are general usage rights derived from state authority, and individual entitlement to them may extend beyond personal use if customary practice allows.",
+        "C":"Private easements are established rights attached to one real estate property over another, whereas public easements are rights of the general public to benefit from public utilities, with individual use limited to personal use only.",
+        "D":"Public easements grant unrestricted usage rights to individuals, including commercial and transferable use, while private easements are restricted solely to access rights without utility-related benefits.",
+        "True answer":"Private easements are established rights attached to one real estate property over another, whereas public easements are rights of the general public to benefit from public utilities, with individual use limited to personal use only."
+    },
+    {
+        "Question_ID":"QID_0973",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution adopts two alternative transaction structures involving a commodity: Structure One: The Institution purchases a commodity on a deferred price determined through Murabahah or Musawamah and subsequently sells the commodity on a spot basis to an independent third party in order to obtain cash. Structure Two: The Institution purchases the same commodity on a deferred price and then sells it on a spot basis for a lower price to the same party from whom the commodity was originally purchased. Which of the following correctly classifies the two structures in According with Shari'ah Standards?",
+        "A":"Both structures constitute Monetization because in each case the commodity is purchased on a deferred price and sold on a spot basis to obtain cash.",
+        "B":"Structure One constitutes Monetization because the commodity is sold to a third party for a spot price to obtain cash, while Structure Two constitutes Bay' al 'Inah because the commodity is sold for a lower spot price to the same party from whom it was purchased.",
+        "C":"Structure One constitutes Bay' al-'Inah because the commodity is purchased on a deferred price and sold on a spot basis, while Structure Two constitutes Monetization because the deferred price was determined through Murabahah.",
+        "D":"Both structures constitute Bay' al-'Inah because the commodity is ultimately sold for a spot price lower than the deferred purchase price.",
+        "True answer":"Structure One constitutes Monetization because the commodity is sold to a third party for a spot price to obtain cash, while Structure Two constitutes Bay' al 'Inah because the commodity is sold for a lower spot price to the same party from whom it was purchased."
+    },
+    {
+        "Question_ID":"QID_0974",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements correctly describe buyback under the Shari'ah Standard?\nI. Buyback means the sale of a tangible asset or usufruct followed by the seller's reacquisition of it from the buyer or another to whom ownership has passed.\nII. Buyback is permissible only when the second transfer occurs automatically at the end of the agreed duration without a new contract. \nIII. The first sale must be real and must transfer ownership with its Shari'ah consequences, including entitlement to yield and assumption of risk.\nIV. The subsequent purchase must occur by an independent contract.",
+        "A":"I, II and III only",
+        "B":"I, III and IV only",
+        "C":"II and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, III and IV only"
+    },
+    {
+        "Question_ID":"QID_0975",
+        "Theme":"Intensive course 06",
+        "Question":"Two parties located in different countries enter into a currency exchange transaction using recognised modern means of communication. One party transmits an offer that is valid for a specified period through a prescribed communication channel. The other party communicates acceptance within that period. The parties do not meet physically, and the taking of possession of the countervalues does not occur at the same moment as acceptance. Which of the following scenarios most accurately reflects the juristic consequences of such contracting, in accordance with Shariah Standards, with respect to remoteness, binding effect of the offer, and completion of the contract?",
+        "A":"Bilateral contracting between parties at different remote places using modern means of communication has the same juristic consequences as execution in one place; however, once acceptance is communicated within the stated period, the contract is considered completed even if taking possession of the countervalues has not yet taken place.",
+        "B":"Bilateral contracting between two parties at different remote places using modern means of communication has the same juristic consequences as execution of the contract in one and the same place, and an offer made for a stated period remains binding on the offeror during that period; however, the contract is not completed until acceptance by the offeree and taking possession of the countervalues, either actual or constructive, by both parties, has taken place.",
+        "C":"An offer transmitted by a prescribed means of communication for a stated period remains binding on the offeror during that period, and the contract is considered completed upon acceptance by the offeree, provided that the taking of possession of the countervalues is subsequently effected, whether actually or constructively.",
+        "D":"An offer made for a stated period and transmitted through modern means of communication remains binding on the offeror during that period, and acceptance by the offeree establishes the contract, while the taking of possession of the countervalues may be deferred without affecting the completion of the contract.",
+        "True answer":"Bilateral contracting between two parties at different remote places using modern means of communication has the same juristic consequences as execution of the contract in one and the same place, and an offer made for a stated period remains binding on the offeror during that period; however, the contract is not completed until acceptance by the offeree and taking possession of the countervalues, either actual or constructive, by both parties, has taken place."
+    },
+    {
+        "Question_ID":"QID_0976",
+        "Theme":"Intensive course 06",
+        "Question":"A seller agrees to sell 1,000 kg of steel rods to a buyer under a spot sale contract for PKR 500,000. Before delivery, the following expenses are incurred: • Transportation of steel rods to the warehouse: PKR 18,000 • Warehouse handling and presentation of goods: PKR 7,000 • Weighing charges using a certified scale: PKR 5,000 • Cost of transferring sale price through bank draft: PKR 3,000 .There is no special stipulation in the contract, and no contrary customary practice between the parties.\nQuestion: According to Shari'ah Standards, how should these expenses be allocated between the seller and the buyer?",
+        "A":"The seller bears all delivery, handling, weighing, and price transfer expenses because possession is not complete until the buyer physically receives the goods.",
+        "B":"The buyer bears all costs related to delivery and measurement since ownership transfers upon contract conclusion, while the seller bears only contractual documentation costs.",
+        "C":"All expenses are shared proportionately between seller and buyer based on the sale price, since the contract is a financial commutative contract.",
+        "D":"The seller bears the expenses of delivering, presenting, and ascertaining the commodity, while the buyer bears the expense of delivering the price, as no contrary stipulation exists.",
+        "True answer":"The seller bears the expenses of delivering, presenting, and ascertaining the commodity, while the buyer bears the expense of delivering the price, as no contrary stipulation exists."
+    },
+    {
+        "Question_ID":"QID_0977",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution considers extending a loan to a customer who intends to engage in currency dealing. In one proposed structure, the institution requires the customer, as a condition of the loan, to carry out all currency dealing exclusively through that institution. In another structure, the institution provides a loan to the customer without imposing any condition regarding where the customer must conduct currency dealing. Which of the following arrangements is not permissible, in accordance with Shariah Standards, with respect to lending and currency dealing?",
+        "A":"The institution lends a sum of money to the customer without imposing any condition that currency dealing must be effected through that institution, leaving the customer free to deal with any party.",
+        "B":"The institution lends a sum of money to the customer on the condition that currency dealing must be effected with that institution and not with any other institution.",
+        "C":"The institution lends a sum of money to the customer, and currency dealing is effected with the institution by mutual convenience rather than as a contractual condition attached to the loan.",
+        "D":"The institution provides a loan to the customer, and the customer independently chooses to conduct currency dealing with the lending institution without such choice being stipulated as a condition of the loan.",
+        "True answer":"The institution lends a sum of money to the customer on the condition that currency dealing must be effected with that institution and not with any other institution."
+    },
+    {
+        "Question_ID":"QID_0978",
+        "Theme":"Intensive course 06",
+        "Question":"An Institution concludes a Murabahah sale with a customer and takes 'Arboun (earnest money) at the time of conclusion of the sale. The Institution purchases the item at a cost of PKR 8,500,000. Later on, within the option period, the customer revokes the contract. The Institution subsequently sells the item to a third party for PKR 8,100,000. The amount of 'Arboun paid by the customer was PKR 900,000.\nWhich of the following best reflects the Shari'ah-compliant treatment of 'Arboun in According with Shari'ah Standards?",
+        "A":"The Institution must deduct only the actual damage of PKR 400,000 and refund PKR 500,000 to the customer, because retaining the full amount of 'Arboun is not permitted once the actual damage can be determined.",
+        "B":"The Institution may either retain the full amount of PKR 900,000 or deduct only the actual damage of PKR 400,000 and refund PKR 500,000; however, once the actual damage is known, retaining any amount beyond that damage is no longer permissible.",
+        "C":"The Institution may retain the full amount of PKR 900,000, or alternatively deduct PKR 400,000 as actual damage and refund PKR 500,000; however, the deduction of actual damage must also include the loss of expected Murabahah mark-up",
+        "D":"The Institution is permitted to retain the full amount of PKR 900,000, and it is preferable that the Institution, after deducting the actual damage of PKR 400,000, refunds the remaining PKR 500,000 to the customer.",
+        "True answer":"The Institution is permitted to retain the full amount of PKR 900,000, and it is preferable that the Institution, after deducting the actual damage of PKR 400,000, refunds the remaining PKR 500,000 to the customer."
+    },
+    {
+        "Question_ID":"QID_0979",
+        "Theme":"Intensive course 06",
+        "Question":"Regarding the guarantor and the contractor, which one of the following statements is incorrect?",
+        "A":"The creditor may demand settlement from either the debtor or the guarantor, unless the guarantor stipulated that recourse must first be sought from the debtor.",
+        "B":"All rulings applicable to debtors in default apply equally to guarantors in default.",
+        "C":"It is permissible to include penalty clauses in construction, Istisna'a, and supply contracts, and upon refusal to pay such penalty the rulings of default by a debtor apply.",
+        "D":"It is permissible to include a penalty clause in a pure debt contract so long as the amount is donated to charity and not retained by the creditor.",
+        "True answer":"It is permissible to include a penalty clause in a pure debt contract so long as the amount is donated to charity and not retained by the creditor."
+    },
+    {
+        "Question_ID":"QID_0980",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution is assessing whether a particular entitlement qualifies as a financial right under Shari'ah. The entitlement allows a person to lawfully enter into transactions, carry responsibilities arising from them, and be recognized as capable of holding such rights under Islamic law. Which of the following most accurately represents a financial right according to Shari'ah?",
+        "A":"A prerogative arising from commercial custom that allows participation in transactions without requiring legal capacity or accountability under Shari'ah.",
+        "B":"A privilege granted by market practice that enables a person to benefit economically, even if such benefit is not explicitly recognized by the Shari'ah or linked to legal responsibility.",
+        "C":"A prerogative of a natural or artificial person recognized by the Shari'ah to have rights and responsibilities and the legal capacity to enter into transactions.",
+        "D":"A contractual benefit that arises solely from agreement between parties, regardless of Shari'ah recognition or the legal capacity of the person involved.",
+        "True answer":"A prerogative of a natural or artificial person recognized by the Shari'ah to have rights and responsibilities and the legal capacity to enter into transactions."
+    },
+    {
+        "Question_ID":"QID_0981",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution sells 500 units of industrial steel rods to a corporate customer for PKR 18,000,000. • At the time of contracting, the steel rods are stored in Lahore. • The buyer explicitly stipulates in the sale contract that the goods must be delivered to its project site in Faisalabad. • The contract also clearly states that delivery shall be made at the seller's expense. • Transportation and handling costs from Lahore to Faisalabad amount to PKR 320,000. After delivery, a dispute arises regarding who must bear the transportation cost. Question: According to Shari'ah Standards, who is responsible for bearing the PKR 320,000 transportation expense?",
+        "A":"The buyer must bear the transportation cost because possession transfers only upon delivery at the specified place.",
+        "B":"The seller must bear the transportation cost because delivery at a place other than where the commodity was present was stipulated at the seller's expense.",
+        "C":"The transportation cost should be shared proportionately, since delivery to another city benefits both parties equally.",
+        "D":"The responsibility depends on local market practice, regardless of the contractual stipulation regarding delivery expenses.",
+        "True answer":"The seller must bear the transportation cost because delivery at a place other than where the commodity was present was stipulated at the seller's expense."
+    },
+    {
+        "Question_ID":"QID_0982",
+        "Theme":"Intensive course 06",
+        "Question":"An IFI and a customer intend to form a Musharakah in a specified project. During structuring, they discuss future exit mechanics for one partner's share. Which arrangement is permissible in According with Shariah Standards?",
+        "A":"At the time of forming the Musharakah, the IFI and the customer agree on a binding arrangement that one party will buy the other's share by Murabahah, and they state that the buyout can be executed on spot or deferred payment terms.",
+        "B":"One partner gives a promise to purchase the other partner's share in Musharakah at market price, or at a price to be agreed at the time of sale, provided a new contract is drawn up, and the sale may be on spot or on deferred payment terms.",
+        "C":"At the time of forming the Musharakah, the IFI and the customer document a promise from one of them to purchase the other's share, but they tie the execution to a Murabahah mechanism, while leaving the price to be agreed at the time of sale, with payment on spot or deferred terms.",
+        "D":"One partner promises to purchase the other's share at market price or at a price to be agreed at the time of sale, but they treat the promise itself as sufficient and do not draw up any new contract at the time the sale is executed, whether payment is spot or deferred.",
+        "True answer":"One partner gives a promise to purchase the other partner's share in Musharakah at market price, or at a price to be agreed at the time of sale, provided a new contract is drawn up, and the sale may be on spot or on deferred payment terms."
+    },
+    {
+        "Question_ID":"QID_0983",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution structures several currency exchange transactions using agents. In some cases, the agent is authorised to execute the contract and deliver the countervalue; in other cases, the agent is authorised to sell currencies without taking possession of the amount sold; and in certain transactions, possession of the countervalues is authorised only after execution of the currency exchange contract. Which of the following scenarios represents a fully Shariah-compliant agency arrangement, in accordance with Shariah Standards, with respect to authorisation, possession, and timing of delivery in currency trading?",
+        "A":"The institution appoints an agent to execute a sale of currency with authority limited to documentation, authorises another agent to sell currencies without taking possession, and permits taking possession of the countervalues after execution of the exchange contract, regardless of whether possession is completed before or after the dispersal of the principal parties.",
+        "B":"The institution appoints an agent to execute a contract of sale of a currency and authorises him to take possession and deliver the countervalue, and in another transaction appoints an agent to sell currencies without authorising him to take possession of the amount sold, while possession of the sold amount is taken by the principal only after the parties have dispersed.",
+        "C":"The institution authorises an agent to execute a contract of currency exchange but delays the taking of possession and delivery of the countervalue until a later time, and authorises another agent to sell currencies without possession, provided possession is completed after the transaction is fully settled and documented.",
+        "D":"The institution appoints an agent to sell currencies without authorising him to take possession of the amount sold, provided that the principal or another agent takes possession at the closing of the transaction before the principal parties are dispersed, and also authorises taking possession of the countervalues after execution of the contract, provided such possession is completed by authorised agents at the closing of the transaction before the parties are dispersed.",
+        "True answer":"The institution appoints an agent to sell currencies without authorising him to take possession of the amount sold, provided that the principal or another agent takes possession at the closing of the transaction before the principal parties are dispersed, and also authorises taking possession of the countervalues after execution of the contract, provided such possession is completed by authorised agents at the closing of the transaction before the parties are dispersed."
+    },
+    {
+        "Question_ID":"QID_0984",
+        "Theme":"Intensive course 06",
+        "Question":"Nexus Global Trading Firm regularly trades in currencies to hedge its import\/export risks. Its Shariah advisor is reviewing their standard operating procedures (SOPs) to ensure full compliance. Which of the following procedures, if found in their SOPs, would represent a CLEAR VIOLATION of AAOIFI's Shari'ah Standard on Trading in Currencies?",
+        "A":"The firm's treasury team is permitted to execute trades on currency futures contracts to lock in exchange rates for deliveries expected in 90 days.",
+        "B":"For transactions involving the same currency (e.g., USD banknotes for USD coins), the firm ensures the countervalues are always of equal nominal amount.",
+        "C":"In every spot transaction, the firm's policy requires both parties to have constructive or actual possession of the funds before they disperse.",
+        "D":"The firm's compliance manual explicitly forbids structuring trades with the primary intent of creating a market monopoly or causing societal harm.",
+        "True answer":"The firm's treasury team is permitted to execute trades on currency futures contracts to lock in exchange rates for deliveries expected in 90 days."
+    },
+    {
+        "Question_ID":"QID_0985",
+        "Theme":"Intensive course 06",
+        "Question":"Which of the following statements regarding remedies against the procrastinating debtor are correct?\nI. The procrastinating debtor is liable for legal and other expenses incurred by the creditor in recovering the debt.\nII. The creditor may seek liquidation of the debt through sale of a mortgaged asset held as collateral.\nIII. In Murabahah, if the sold asset remains in the condition in which it was sold and the buyer later becomes bankrupt, the seller may repossess the asset.\nIV. The creditor may stipulate that, upon delay, the debtor must donate an amount or percentage of the debt to charitable causes through the institution.",
+        "A":"I and II only",
+        "B":"II, III and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, III and IV only",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0986",
+        "Theme":"Intensive course 06",
+        "Question":"Which ONE of the following statements most accurately reflects the definition of \"Possession (Qabd)\", as recognized under Shari'ah Standards?",
+        "A":"Possession is established only when a person physically takes delivery of an item, regardless of commercial or customary practice.",
+        "B":"Possession refers to legal ownership of an asset, even if neither physical control nor customary handling of the asset has occurred.",
+        "C":"Possession is the gathering of a thing or what takes its rule, determined in accordance with the requirements of customary practice.",
+        "D":"Possession exists only when an asset is transferred through a written contract recognized by law and enforced by courts.",
+        "True answer":"Possession is the gathering of a thing or what takes its rule, determined in accordance with the requirements of customary practice."
+    },
+    {
+        "Question_ID":"QID_0987",
+        "Theme":"Intensive course 06",
+        "Question":"An Islamic financial institution structures a Murabahah transaction to finance the purchase of an asset for a customer. During the structuring process, different sourcing arrangements are proposed. In one arrangement, the customer sells an asset already owned by him to the institution, which then seeks to resell it to the same customer through Murabahah. In another arrangement, the supplier of the asset is wholly or majority-owned by the customer. The institution proceeds with the Murabahah transaction, and the sale is concluded. Which of the following correctly reflects the Shariah ruling on such arrangements, in accordance with Shariah Standards?",
+        "A":"The Murabahah transaction is permissible as long as the institution formally purchases the item, regardless of whether the seller is the customer himself or an entity wholly or majority owned by the customer.",
+        "B":"The Murabahah transaction is permissible provided that the customer does not act as an agent of the institution, even if the item is sold to the institution by the customer or by a supplier wholly or majority owned by him.",
+        "C":"The Murabahah transaction remains valid if the item is purchased from the customer or from a supplier wholly or majority owned by him, unless such ownership relationship was explicitly disclosed at the time of sale.",
+        "D":"The institution must ensure that the party from whom the item is bought is a third party other than the customer or his agent, and it is not permitted for the customer to sell an ordered item to the institution and then repurchase it through Murabahah, nor may the party supplying the item be wholly or by way of majority owned by the customer; otherwise, the transaction is rendered void as it is tantamount to 'Inah.",
+        "True answer":"The institution must ensure that the party from whom the item is bought is a third party other than the customer or his agent, and it is not permitted for the customer to sell an ordered item to the institution and then repurchase it through Murabahah, nor may the party supplying the item be wholly or by way of majority owned by the customer; otherwise, the transaction is rendered void as it is tantamount to 'Inah."
+    },
+    {
+        "Question_ID":"QID_0988",
+        "Theme":"Intensive course 06",
+        "Question":"Al-Istithmar Bank finances a client's machinery purchase through a Murabaha contract with a total deferred price of USD 1,000,000, payable in 10 semi-annual installments. At the contract signing, both parties agree to a special clause stating: \"The customer reserves the right to pay any upcoming installment in United Arab Emirates Dirhams (AED), with the conversion to be calculated using the spot exchange rate on the day of payment. What is the Shariah ruling on this specific contractual clause according to AAOIFI standards?",
+        "A":"The clause is impermissible as it effectively creates a forward currency contract linked to a credit transaction, which is prohibited.",
+        "B":"The clause is impermissible because it introduces an element of major uncertainty (gharar fahish) regarding the final payable amount of the deferred debt.",
+        "C":"The clause is permissible as it represents an agreement for debt settlement in another currency using the spot exchange rate on the day of payment.",
+        "D":"The clause is permissible only if the customer provides a collateral guarantee for any exchange rate fluctuations that might occur between installment dates.",
+        "True answer":"The clause is permissible as it represents an agreement for debt settlement in another currency using the spot exchange rate on the day of payment."
     }
 ]
