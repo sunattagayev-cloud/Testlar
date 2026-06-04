@@ -9878,5 +9878,505 @@
         "C":"The clause is permissible as it represents an agreement for debt settlement in another currency using the spot exchange rate on the day of payment.",
         "D":"The clause is permissible only if the customer provides a collateral guarantee for any exchange rate fluctuations that might occur between installment dates.",
         "True answer":"The clause is permissible as it represents an agreement for debt settlement in another currency using the spot exchange rate on the day of payment."
+    },
+    {
+        "Question_ID":"QID_0989",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints an investment agent to manage a portfolio under an Investment Agency (Wakalah Bi Al-Istithmar) agreement. The contract stipulates that the agent will receive compensation linked to market benchmarks and may also receive additional incentives based on investment performance. With reference to the Shari'ah rules governing the agency fee, evaluate the following statements:\nI. The agent's fee may be determined as a fixed amount, a percentage of the invested amount, or linked to an established index or benchmark known to both parties.\nII. When the fee is linked to a benchmark or index, it must be capped and floored by specifying maximum and minimum limits.\nIII. If the agency contract does not specify the fee but it is customary for such agents to charge fees, the agent is entitled to a fee prevailing in the relevant market even if the agent does not complete the assigned task after initiating it and realizing returns beneficial to the principal.\nIV. The principal must pay the agent's fee strictly in accordance with the time and manner stipulated in the contract.\nV. It is permissible to stipulate that the agent is entitled to all or part of any profit exceeding the expected profit as a performance incentive in addition to the agency fee.",
+        "A":"I, II and IV only",
+        "B":"I, II, III and V only",
+        "C":"I, II, III, IV and V",
+        "D":"II, III and V only",
+        "True answer":"I, II, III, IV and V"
+    },
+    {
+        "Question_ID":"QID_0990",
+        "Theme":"Intensive course 07",
+        "Question":"\"According to the definition provided in the Standard, which of the following most accurately represents the concept of \"Hiring of Persons\"?",
+        "A":"A contract through which a service or work of a natural or legal person is obtained against a specific amount of pay, where the service must be immediate and cannot relate to a future service",
+        "B":"A contract through which a service or work of a natural or legal person is obtained against a specific amount of pay, where the service may be specific or a future one that needs to be specified through detailed terms of reference",
+        "C":"specific amount of pay, and the service must be precisely defined and delivered immediately at the time of the contract.",
+        "D":"A contract through which a service or work of a natural or legal person is obtained against a specific amount of pay, provided that the service relates only to a defined task and not to future services.",
+        "True answer":"A contract through which a service or work of a natural or legal person is obtained against a specific amount of pay, where the service must be immediate and cannot relate to a future service"
+    },
+    {
+        "Question_ID":"QID_0991",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution enters into two different hiring arrangements with its clients:\n• Contract A: The institution agrees to provide a specific consultancy service immediately, although it does not yet possess the capability or resources to deliver the service at the time of signing the contract.\nContract B: The institution signs a contract to provide a future educational training program that will be delivered at a specified date later, with detailed specifications of the service agreed upon in advance. Evaluate the following statements in light of the Shari'ah rulings governing the subject matter of hiring contracts:\nI. When the hiring contract relates to a specific service, the employee must own the service and have the ability to deliver it before entering into the contract.\nII. It is permissible for the institution to sign a contract for a specific service even if it does not yet possess the service, provided that it intends to acquire the service\nIII. Hiring may relate to a future service provided that the service is clearly described and specified in a way that eliminates ambiguity and dispute.\nIV. In the case of hiring for a future service, the employee must necessarily own the service before signing the contract.\nV. If the service delivered by the employee does not conform to the agreed specifications, the employer has the right to reject the service and demand one that meets the specifications. Which of the following options is correct?",
+        "A":"I, II and IV only",
+        "B":"II, II and V only",
+        "C":"I, III, IV and V only",
+        "D":"I, III and V only",
+        "True answer":"I, III and V only"
+    },
+    {
+        "Question_ID":"QID_0992",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution enters into several Ju'alah arrangements involving third parties and internal operations. The Shari'ah Supervisory Board reviews the following proposed structures:\nI. The institution agrees to act as a worker ('Amil) under a Ju'alah contract to perform a task benefiting another party, while contracting the work out to another worker through a separate Ju'alah contract, provided the two contracts are not linked.\nII. The institution undertakes a Ju'alah contract as a worker and subcontracts the work through another Ju'alah even though the original contract explicitly requires that the institution perform the work itself.\nIII. The institution acts as an offeror (Ja'il) in a Ju'alah contract where the work benefits the institution itself.\nIV. The institution acts as an offeror in a Ju'alah contract to fulfill an obligation arising from another Ju'alah arrangement for the benefit of a third party, provided the two Ju'alah contracts are not linked.",
+        "A":"I and III only",
+        "B":"I, III and IV only",
+        "C":"II, III and IV only",
+        "D":"I, II and IV only",
+        "True answer":"I, III and IV only"
+    },
+    {
+        "Question_ID":"QID_0993",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution structures cross-institution investment arrangements using Investment Agency (Wakalah Bi Al-Istithmar) involving a conventional bank. In one arrangement, the Islamic institution appoints the conventional bank as an investment agent, while in another arrangement the Islamic institution accepts funds from the conventional bank under Wakalah and invests them in its Shari'ah-compliant activities. With reference to the Shari'ah rules governing such arrangements, evaluate the following statements:\nI. It is permissible for Islamic financial institutions to appoint a conventional bank as an investment agent provided that the relevant contracts are Shari'ah-compliant and approved by the institution's Shari'ah Supervisory Board.\nII. Such appointment is permissible only if the conventional bank has among its activities Shari'ah-compliant modes of financing and investment with proper Shari'ah supervision and Shari'ah audit without violating regulatory requirements.\nIII. It is permissible for an Islamic financial institution to accept funds from a conventional bank under Wakalah and invest them in activities approved by its Shari'ah Supervisory Board.\nIV. When accepting Wakalah funds from a conventional bank, the contract must be free from conditions and restrictions that are prohibited by the Shari'ah.",
+        "A":"I and II only",
+        "B":"I, II and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0994",
+        "Theme":"Intensive course 07",
+        "Question":"In a contract of agency, if the principal does not approve the act of an uncommissioned agent (Fodooli), the contract automatically becomes void and neither the uncommissioned agent nor the counterparty remains bound by it.",
+        "A":"TRUE",
+        "B":"FALSE",
+        "C":null,
+        "D":null,
+        "True answer":"FALSE"
+    },
+    {
+        "Question_ID":"QID_0995",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution leases a commercial warehouse to a client for a fixed rental payable quarterly. The client intends to sub-lease the same warehouse to another party at a different rental structure. The original lease agreement does not include any condition restricting sub-leasing or requiring the owner's approval. Which of the following is correct under Shari'ah principles?",
+        "A":"The client may sub-lease the warehouse only at the same rental amount and only on a current payment basis.",
+        "B":"The client may sub-lease the warehouse at a higher rental payable on a deferred basis, unless the owner stipulates that sub-leasing should not be assigned or should not be done without his approval.",
+        "C":"The client may not sub-lease the warehouse to any third party unless the rental is lower and payable currently.",
+        "D":"The client may sub-lease the warehouse only after obtaining written approval from the owner in all cases.",
+        "True answer":"The client may sub-lease the warehouse at a higher rental payable on a deferred basis, unless the owner stipulates that sub-leasing should not be assigned or should not be done without his approval."
+    },
+    {
+        "Question_ID":"QID_0996",
+        "Theme":"Intensive course 07",
+        "Question":"'An Islamic financial institution hires a risk management consultant for a one-year hiring contract. The contract includes the following provisions regarding renewal:\nI. The parties agree before the expiry of the contract to renew the hiring contract for another period.\nII. The contract contains a clause stating that the contract will automatically renew at the beginning of a new period if neither party notifies the other of his intention not to renew.\nIII. The contract renews automatically even though the contract did not contain any clause allowing spontaneous renewal.\nIV. The contract renews automatically because neither party expressed disinterest in renewal and the contract already contained a clause allowing automatic renewal Which of the following options is correct?",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_0997",
+        "Theme":"Intensive course 07",
+        "Question":"Mr. Khalid, without being appointed as an agent and without any necessity or urgency, sells machinery belonging to ABC Islamic Company to a third party. At the time of concluding the contract, he does not disclose that he lacks authority to act on behalf of the owner. Later, the owner becomes aware of the transaction. With reference to the Shari'ah rulings governing the Act of an Uncommissioned Agent (Fodooli), evaluate the following statements:\nI. If the owner approves the act of the uncommissioned agent, the contract becomes effective and subject to the rulings on agency, and such approval takes effect retroactively from the date of the act.\nII. Approval of the contract by the owner must occur before either of the contracting parties revokes the contract; otherwise, a new contract must be initiated.\nIII. If the owner rejects the transaction and the uncommissioned agent did not declare at the time of signing that he lacked authority, the contract becomes binding upon the uncommissioned agent himself.\nIV. The rulings on the uncommissioned agent apply to all financial contracts, including compensatory contracts such as sale and lease, as well as donations and investment agency contracts.",
+        "A":"I, II and III",
+        "B":"II, III and IV",
+        "C":"I, II, III and IV",
+        "D":"I and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_0998",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution hires a Shariah compliance consultant for a contract period of 12 months. At the end of the contract period, the following situations arise:\nI. The consultant continues providing services after the expiry of the contract because immediate termination would cause operational harm to the institution.\nII. The parties continue the work without agreeing on a new rate of pay for the continued period.\nIII. The parties agree on a new pay rate for the continuation of the service beyond the contract period.\nIV. The employer refuses to pay any compensation for the continuation because the original contract period has already expired.\nIn light of the Shari'ah rulings governing the expiry and continuation of hiring contracts, which of the following options is correct?",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, II, III and IV",
+        "D":"I, II and III only",
+        "True answer":"I, II and III only"
+    },
+    {
+        "Question_ID":"QID_0999",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution enters into a single Ijarah arrangement for a furnished holiday apartment with multiple clients. Each client is entitled to benefit from the apartment according to an allocated time schedule. The contract specifies the usufruct of the apartment and the overall duration of rent, but does not allocate a specific continuous rental period to any one client. Which of the following best reflects the Shari'ah position on this arrangement?",
+        "A":"The Ijarah contract is invalid because each lessee must be assigned a specific continuous rental period.",
+        "B":"The Ijarah contract is permissible, and each lessee may benefit from the property during the time assigned to him in accordance with specified rules.",
+        "C":"The Ijarah contract is permissible only if each lessee pays a different rental amount based on usage.",
+        "D":"The Ijarah contract is impermissible because the usufruct is shared among several lessees.",
+        "True answer":"The Ijarah contract is permissible, and each lessee may benefit from the property during the time assigned to him in accordance with specified rules."
+    },
+    {
+        "Question_ID":"QID_1000",
+        "Theme":"Intensive course 07",
+        "Question":"In the context of Shari'ah rules governing agency, which of the following statements correctly reflects the definition, permissibility, and basic contractual nature of agency?\nI. Agency refers to the act whereby one party delegates another to act on its behalf in matters that are capable of delegation.\nII. Agency is permissible because delegation of authority in matters that a person can perform personally is recognized in Shari'ah.\nIII. Agency is originally a binding contract that neither party may revoke once the agent has been appointed.\nIV. Agency is basically a non-binding contract, although it may become binding in certain circumstances.",
+        "A":"I and II",
+        "B":"I, II and IV",
+        "C":"II and III",
+        "D":"I and III",
+        "True answer":"I, II and IV"
+    },
+    {
+        "Question_ID":"QID_1001",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution hires a consultant for a two-year service contract. During the contract period the following situations occur:\nI. Both parties mutually agree to terminate the contract before its expiry.\nII. The employer terminates the contract independently without the consent of the other party and without any valid excuse.\nIII. The contract includes a conditional option (Khiyar al-Shart) allowing termination within a specified period.\nIV. The employer discovers a defect that renders the service useless and terminates the contract.\nWhich of the following options is correct?",
+        "A":"I, III and IV only",
+        "B":"I and II only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, III and IV only"
+    },
+    {
+        "Question_ID":"QID_1002",
+        "Theme":"Intensive course 07",
+        "Question":"An industrial company wants to determine the variable rent in a lease contract for industrial equipment. The company has decided to use a commodity price index to determine the portion representing the return in the variable rent. What is the Shari'ah compliant use of indices in this scenario?",
+        "A":"It is permissible to use indices to determine the portion representing the return in the variable rent, provided that the index is linked to a well-known benchmark with no room for dispute, and a maximum and minimum limit is set.",
+        "B":"It is permissible to use indices to determine the variable rent, provided that the index is variable.",
+        "C":"It is not permissible to use indices to determine the variable rent in a lease contract.",
+        "D":"It is permissible to use indices to determine the variable rent, provided that the index is fixed.",
+        "True answer":"It is permissible to use indices to determine the portion representing the return in the variable rent, provided that the index is linked to a well-known benchmark with no room for dispute, and a maximum and minimum limit is set."
+    },
+    {
+        "Question_ID":"QID_1003",
+        "Theme":"Intensive course 07",
+        "Question":"..... is the contract through which a service\/work of a natural or a legal person is obtained against a specific amount of pay. The service thus obtained could be specific or a future on one that needs to be specified through detailed terms of reference, such as educational, health and consultancy services.",
+        "A":"Ijarah Mawsufah fi al-Dhimmah (contract for an unidentified asset undertaken by the lessor to be delivered according to the agreed specifications)",
+        "B":"ljarah Mudafah (forward ljarah)",
+        "C":"Hiring of People (ljarat al-Ashkhas)",
+        "D":"ljarah Tashghiliyah (Operating ljarah)",
+        "True answer":"Hiring of People (ljarat al-Ashkhas)"
+    },
+    {
+        "Question_ID":"QID_1004",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution hires a software developer to build a compliance reporting system. The contract clearly states that the project must be completed within go days. The contract also contains the following clause: If the developer delays the completion of the work beyond the agreed period without a valid reason, he will be required to pay PKR 50,000 to the institution as a penalty for the delay. The amount was determined considering the normal practice in the industry and fairness between the parties. In light of the Shari'ah rulings governing hiring contracts, evaluate the following statements:\nI. It is permissible to stipulate in a hiring contract a penalty clause requiring the employee to pay a specific amount in case of delay in performing the work within the specified period.\nII. The amount of the penalty may be determined with due consideration to normal practice and justice.\nIII. Such a penalty clause is impermissible because financial penalties cannot be imposed for delay in performance of work.\nWhich of the following options is correct?",
+        "A":"I and III are correct, while II is incorrect.",
+        "B":"II and III are correct, while I is incorrect.",
+        "C":"I and II are correct, while III is incorrect.",
+        "D":"I, II and III are all correct.",
+        "True answer":"I and II are correct, while III is incorrect."
+    },
+    {
+        "Question_ID":"QID_1005",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the Shari'ah rules governing binding and non-binding agency, consider the following statements:\nI. Agency is originally non-binding because each of the two parties has the right to revoke the contract without denying its effects that may continue after revocation.\nII. Agency becomes binding when it involves the rights of others, such as when a mortgagor appoints the mortgagee as an agent to seize or sell the mortgaged asset upon maturity.\nIII. Agency becomes binding only when both parties mutually agree that the contract cannot be revoked during the entire period of agency.\nIV. Agency becomes binding when the agent commences tasks that cannot be discontinued or phased out without causing injury to the principal or the agent.",
+        "A":"I and II",
+        "B":"II, III and IV",
+        "C":"I, II and IV",
+        "D":"I and III",
+        "True answer":"I, II and IV"
+    },
+    {
+        "Question_ID":"QID_1006",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints Mr. Hamid as an agent to manage certain contractual and operational tasks. During the course of the agency relationship, several events occur which may potentially terminate the agency contract. In light of the Shari'ah rules governing expiry of agency, which of the following statements is INCORRECT?",
+        "A":"The agency contract expires if either the principal or the agent dies, loses legal capacity, or if the institution undergoes bankruptcy or liquidation.",
+        "B":"The agency contract expires when the agent completes the assigned task in a fixed-task agency or when the principal performs the task himself.",
+        "C":"The agency contract automatically expires when the agent suffers a financial loss while performing the agency duties",
+        "D":"The agency contract expires when the principal no longer owns the asset concerned, loses the right to dispose of it, or when the subject matter of the agency ceases to exist.",
+        "True answer":"The agency contract automatically expires when the agent suffers a financial loss while performing the agency duties"
+    },
+    {
+        "Question_ID":"QID_1007",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution leases an office building to a client under an Ijarah contract with monthly rentals payable at the end of each month. After six months, both parties mutually agree to revise the rental amount for the remaining lease period. At the same time, the institution proposes to increase the unpaid rentals relating to the earlier months. Which of the following correctly reflects the Shari'ah ruling?",
+        "A":"Both future rentals and unpaid rentals of previous periods may be increased by mutual agreement.",
+        "B":"Only rentals of previous unpaid periods may be increased, while future rentals may not be amended.",
+        "C":"The amendment of future rentals is permissible by agreement of both parties, but rentals of any previous periods which have not yet been paid become a debt and cannot be increased",
+        "D":"Neither future rentals nor unpaid rentals of previous periods may be amended once the lease has commenced.",
+        "True answer":"The amendment of future rentals is permissible by agreement of both parties, but rentals of any previous periods which have not yet been paid become a debt and cannot be increased"
+    },
+    {
+        "Question_ID":"QID_1008",
+        "Theme":"Intensive course 07",
+        "Question":"Which of the following is not a difference between Ju'alah (reward-based contract) and Ijarah (hire\/rent contract)?",
+        "A":"Ju'alah does not require acceptance.",
+        "B":"The validity of Ju'alah despite the ambiguity of the work, as long as the desired outcome is specified by the offeror.",
+        "C":"The validity of contracting Ju'alah with a known party.",
+        "D":"The entitlement to the reward in Ju'alah depends on the completion and delivery of the work.",
+        "True answer":"The validity of contracting Ju'alah with a known party."
+    },
+    {
+        "Question_ID":"QID_1009",
+        "Theme":"Intensive course 07",
+        "Question":"A financial institution announces a Ju'alah reward for the completion of a complex geological survey that may lead to the discovery of mineral resources. The announcement specifies that the work must be completed within six months. After the expiry of the period, the worker has already completed a substantial part of the work that is beneficial to the institution, but the final result is not fully achieved yet. With reference to the Shari'ah rules governing the work in a Ju'alah contract, evaluate the following statements:\nI. It is permissible to stipulate that the work must be completed within a specified period, after which the worker will not be entitled to compensation unless the result is close to realization.\nII. If the specified period expires and the worker has performed part of the work that benefits the offeror, the worker is entitled to reasonable wages (Ujrat al-Mithl).\nIII. The Ju'alah contract remains valid even if the nature of the work is uncertain, provided that the required result of the work is determined.\nIV. A valid Ju'alah contract requires that the work involve some effort and must not be an obligation already binding upon the worker.",
+        "A":"I and III only",
+        "B":"II and IV only",
+        "C":"I, II and III only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II, III and IV"
+    },
+    {
+        "Question_ID":"QID_1010",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution leases a logistics warehouse to a client under a long-term Ijarah contract. During the lease period, the client passes away. After the death, the client's heirs assess the financial obligations arising from the lease and claim that continuing the contract would place an excessive burden on their available resources and exceed their actual needs. Which of the following correctly reflects the Shari'ah position in this case?",
+        "A":"The Ijarah contract automatically terminates upon the death of either party without any further condition.",
+        "B":"The Ijarah contract does not terminate due to death, but the heirs of the lessee may terminate it if they can prove that the contract has become, as a result of the death of their legator, too onerous for their resources and in excess of their needs.",
+        "C":"The Ijarah contract continues in all cases, and the heirs are not entitled to terminate it under any circumstance.",
+        "D":"The Ijarah contract terminates only if the lessor, and not the lessee, passes away.",
+        "True answer":"The Ijarah contract does not terminate due to death, but the heirs of the lessee may terminate it if they can prove that the contract has become, as a result of the death of their legator, too onerous for their resources and in excess of their needs."
+    },
+    {
+        "Question_ID":"QID_1011",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution receives a request from a customer regarding an asset that the customer wishes to take on lease. Which of the following situations is consistent with the principle governing the execution of an Ijarah contract?",
+        "A":"The institution executes the Ijarah contract only if the customer already owns the asset and transfers its ownership to the institution before leasing it back.",
+        "B":"The Ijarah contract is executed for an asset owned by the lessor or a usufruct owned by the sub-lessor, and the customer may request the institution to acquire the asset or to acquire the usufruct of an existing asset which the customer wishes to take on lease.",
+        "C":"The institution may execute an Ijarah contract for any asset requested by the customer regardless of ownership or usufruct status at the time of execution.",
+        "D":"The customer may directly execute an Ijarah contract for an asset not owned by the lessor provided the institution undertakes to acquire it after execution.",
+        "True answer":"The Ijarah contract is executed for an asset owned by the lessor or a usufruct owned by the sub-lessor, and the customer may request the institution to acquire the asset or to acquire the usufruct of an existing asset which the customer wishes to take on lease."
+    },
+    {
+        "Question_ID":"QID_1012",
+        "Theme":"Intensive course 07",
+        "Question":"A Shari'ah advisor is reviewing a proposed Ju'alah-based arrangement where an institution offers a reward to anyone who succeeds in achieving a particular result. A question arises regarding the Shari'ah justification for allowing such a contract despite uncertainty regarding the amount of work required. Which of the following statements best explains the juristic basis for the permissibility of Ju'alah?",
+        "A":"Ju'alah is permissible because the work required under the contract must be precisely determined in advance, similar to the requirements of an Ijarah contract.",
+        "B":"Ju'alah is permissible because the determination of the desired result is sufficient even if uncertainty exists regarding the work to be performed.",
+        "C":"Ju'alah is permissible only when the work to be performed and the time required for its completion are both clearly specified in the contract.",
+        "D":"Ju'alah is permissible because the worker guarantees the successful completion of the work regardless of the uncertainty involved.",
+        "True answer":"Ju'alah is permissible because the determination of the desired result is sufficient even if uncertainty exists regarding the work to be performed."
+    },
+    {
+        "Question_ID":"QID_1013",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the liability of an investment agent in Investment Agency (Wakalah Bi Al-Istithmar), which of the following statements is NOT correct?",
+        "A":"The investment agent acts in a fiduciary capacity in relation to the investment and is not liable for losses except in cases of willful misconduct, negligence, or breach of contract.",
+        "B":"When the agent is held liable for the loss of capital, such liability is limited to the capital amount and does not extend to the loss of expected profit.",
+        "C":"If the investment results in profit or capital gain despite the agent's breach that is advantageous to the principal, such profit or gain belongs to the principal without affecting the agent's entitlement to performance incentive.",
+        "D":"When the agent breaches the investment agency contract and causes loss, the agent becomes liable for both the invested capital and the expected profit that the investment would have generated.",
+        "True answer":"When the agent breaches the investment agency contract and causes loss, the agent becomes liable for both the invested capital and the expected profit that the investment would have generated."
+    },
+    {
+        "Question_ID":"QID_1014",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution hired three different parties under separate contracts: Employee A works exclusively under the supervision of the institution. Employee B is a professional technician who provides services to multiple clients. Agent C is appointed as an investment agent authorized to utilize funds for investment purposes During the execution of their respective duties, damage occurs to property involved in their work. Consider the following statements regarding their liability\nI. Employee A is not responsible for damage unless it results from his transgression, negligence, or breach of a stipulated condition.\nII. Employee B is absolutely responsible for damage occurring in the course of work unless the damage results from an inevitable factor.\nIII. Agent C must guarantee any loss arising from investment activities regardless of whether negligence or transgression occurred.\nIV. Unlike a shared employee who guarantees what he is paid to work on, an investment agent does not guarantee except in case of transgression or negligence.\nWhich of the following options is correct?",
+        "A":"I, II and IV only",
+        "B":"I and III only",
+        "C":"II, III and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_1015",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints an investment agent under an Investment Agency (Wakalah Bi Al-Istithmar) arrangement for a fixed investment period. Before the investment activities are fully settled, the agency term expires while certain receivables from debtors remain outstanding. In another situation, the agency relationship is terminated early due to mutual agreement and early settlement of obligations. With reference to the Shari'ah rules governing expiry and early termination of investment agency, evaluate the following statements:\nI. When the investment agency expires and receivables are yet to be collected, the investment agent must collect the receivables and take necessary actions against debtors delaying their payments.\nII. The investment agent is automatically entitled to a collection fee for recovering receivables after the expiry of the agency term.\nIII. It is not permissible for the investment agent to use such receivables for personal purposes or to re-invest them.\nIV. The investment agent is not required to pay such receivables to the principal from the agent's own funds or obtain financing (such as Tawarruq) to settle them.\nV. In the event of early termination of the agency, it is permissible—if mutually agreed—to reduce the performance incentive stipulated for the agent proportionately to the remaining investment tenor.",
+        "A":"I, III and IV only",
+        "B":"I, III, IV and V only",
+        "C":"II, III and V only",
+        "D":"I, II, III and IV only",
+        "True answer":"I, III, IV and V only"
+    },
+    {
+        "Question_ID":"QID_1016",
+        "Theme":"Intensive course 07",
+        "Question":"In the phase of promise to lease in ijarah Muntahia Bittamleek",
+        "A":"It is permissible to have a master agreement drawn up covering a number of ijarah transactions between the Institution and the customer, setting out the general terms and conditions of agreement between the two parties.",
+        "B":"In principle, Ijarah may be effected directly on the asset without any requirement of a preceding master agreement.",
+        "C":"It is permissible for the Institution to require the customer who has promised to lease to pay a sum of money to the Institution to ensure the customer's seriousness in accepting a lease on the asset and the subsequent obligations",
+        "D":"All of the above are true.",
+        "True answer":"It is permissible to have a master agreement drawn up covering a number of ijarah transactions between the Institution and the customer, setting out the general terms and conditions of agreement between the two parties."
+    },
+    {
+        "Question_ID":"QID_1017",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic bank appoints Mr. Kareem as an agent to purchase certain equipment on behalf of the bank. During the execution of the agency mandate, the following situations arise:\nI. Mr. Kareem purchases the equipment from his father, who is financially independent and not under his guardianship.\nII. Mr. Kareem purchases the equipment from his minor son who is under his guardianship.\nIII. Mr. Kareem acts as agent for both the buyer and the seller in the same contract\n IV. Mr. Kareem purchases the equipment for the bank and later buys the same equipment from the bank himself through a new sale contract with proper offer and acceptance, while keeping the guarantees of both contracts separate.\nBased on the Shari'ah rules governing dealing with oneself and relatives in agency, which of the above situations are permissible?",
+        "A":"I and IV only",
+        "B":"I, II and IV",
+        "C":"II and III only",
+        "D":"I, III and IV",
+        "True answer":"I and IV only"
+    },
+    {
+        "Question_ID":"QID_1018",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic institution hires two types of workers: • Employee A works exclusively for the institution under its supervision. • Employee B performs services for several clients and is not bound to work for a specific employer at a specific time. The institution structures the contracts as follows:\nI. Employee A accepts a parallel engagement with another employer during the same period without permission from the original employer.\nII. Employee B performs work for several clients simultaneously without restriction regarding specific employers or times.\nIII. In the hiring contract of Employee A, the hiring period and general type of work are specified.\nIV. In the hiring contract of Employee B, the work, its type, and its specifications are clearly described.\nWhich of the following options correctly reflects the Shari'ah rulings on hiring of persons?",
+        "A":"II, III and IV only",
+        "B":"I, II and III only",
+        "C":"I and IV only",
+        "D":"I, II, III and IV",
+        "True answer":"II, III and IV only"
+    },
+    {
+        "Question_ID":"QID_1019",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints Mr. Salman as a procurement agent to purchase industrial equipment. The institution clearly instructs him that the maximum acceptable purchase price is USD 100,000, while the prevailing market price is USD 95,000. Ignoring the instruction, the agent purchases the equipment for USD 110,000. Which of the following correctly describes the agent's liability according to the Shari'ah rules governing breach of agency contract?",
+        "A":"The agent must compensate the principal for the difference between the purchase price and the price specified by the principal.",
+        "B":"The agent must compensate the principal for the difference between the purchase price and the market price.",
+        "C":"The agent becomes fully liable for the entire purchase price because he violated the contractual instruction.",
+        "D":"The agent bears no liability because agency contracts are based on trust and the principal bears all commercial risks",
+        "True answer":"The agent must compensate the principal for the difference between the purchase price and the market price."
+    },
+    {
+        "Question_ID":"QID_1020",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the definition and permissibility of Investment Agency (Al-Wakalah Bi Al-Istithmar), identify the correct statements:\nI. Investment Agency refers to appointing another person to invest and grow one's wealth.\nII. Investment Agency is permissible only when the agent performs the investment without charging any fee.\nIII. Investment Agency may be conducted either with a fee or without a fee.\nIV. The permissibility of Investment Agency is subject to compliance with the relevant Shari'ah rules.",
+        "A":"I and II",
+        "B":"I, III and IV",
+        "C":"II and III",
+        "D":"I, II and IV",
+        "True answer":"I, III and IV"
+    },
+    {
+        "Question_ID":"QID_1021",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints an agent to manage procurement operations. The agency contract specifies that the arrangement will expire automatically after one year. During the tenth month, the agent initiates a procurement transaction whose delivery and financial effects will extend beyond the one-year period. In light of the Shari'ah rules governing temporary agency, which of the following statements is most accurate?\nI. Agency contracts must always have a defined time limit beyond which the contract becomes invalid.\nII. Parties may agree on a time period after which the agency becomes invalid automatically without any request for revocation.\nIII. When a time limit is specified, the agent is prevented from initiating any operation during the contract period whose effects may extend beyond the expiry date.\nIV. Unless otherwise stipulated, the agent may commence operations during the contract period even if their effects extend beyond the period of the contract.",
+        "A":"I and III",
+        "B":"II and III",
+        "C":"II and IV",
+        "D":"I, II and IV",
+        "True answer":"II and IV"
+    },
+    {
+        "Question_ID":"QID_1022",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the rules governing restrictions in Investment Agency, identify the correct statements:\nI. Investment agency may be restricted to a particular kind of investment or a specific place.\nII. Investment agency may also be unrestricted, but in such a case the agent must still act according to customary practice and the principal's best interests.\nIII. Either party may unilaterally amend the restrictions stipulated in the investment agency contract.\nIV. Restrictions that are compliant with Shari'ah may be stipulated in an investment agency contract.",
+        "A":"I and II",
+        "B":"II and III",
+        "C":"I, III and IV",
+        "D":"I, II and IV",
+        "True answer":"I, II and IV"
+    },
+    {
+        "Question_ID":"QID_1023",
+        "Theme":"Intensive course 07",
+        "Question":"Choose the option that accurately represents working capital financing through the \"agency for investment\" (Wakala Bil Istithmar) structure:",
+        "A":"The amounts deposited by the client into his account with the institution are considered the institution's contribution to financing the working capital. The client is entitled to a fee for his service and profit from his portion of capital, and both parties bear the resulting loss after the agency on a pro-rata basis. When the financing is no longer required, the relationship may be terminated by distributing the joint account or by one party purchasing the other's share.",
+        "B":"The amounts withdrawn by the client from the institution are considered the institution's contribution to financing the working capital. The client is entitled to a fee for his service and profit from his portion of the working capital, and losses occurring after the agency, if any, are borne by both parties on a pro-rata basis. When the financing need ends, the relationship may be terminated through Takharuj by distributing the joint account between them pro-rata or by one party purchasing the share of the other at a price agreed upon at that time.",
+        "C":"The amounts deposited by the client into his account with the institution are treated as the institution's contribution to working capital. The client is entitled only to a service fee and does not earn profit from the capital, while the institution bears the resulting loss according to its share in financing.",
+        "D":"The amounts withdrawn by the client from the institution are treated as the institution's contribution to working capital. The client is entitled only to a service fee and does not earn profit from his portion of capital, while the institution bears the entire resulting loss after the agency.",
+        "True answer":"The amounts withdrawn by the client from the institution are considered the institution's contribution to financing the working capital. The client is entitled to a fee for his service and profit from his portion of the working capital, and losses occurring after the agency, if any, are borne by both parties on a pro-rata basis. When the financing need ends, the relationship may be terminated through Takharuj by distributing the joint account between them pro-rata or by one party purchasing the share of the other at a price agreed upon at that time."
+    },
+    {
+        "Question_ID":"QID_1024",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution leases heavy machinery to a client against a security deposit provided by the lessee. Due to the client's breach of the lease contract, the institution forecloses the security. At the time of foreclosure, some rental instalments relating to previous periods remain unpaid, while other instalments relate to future periods during which the lessee has not yet enjoyed the benefit of the leased asset. Which of the following correctly reflects the Shari'ah ruling on the amounts that the institution may deduct from the security?",
+        "A":"The institution may deduct all unpaid rental instalments, including those relating to future periods, without restriction.",
+        "B":"The institution may deduct only what is due in respect of rental for previous periods and legitimate compensations necessitated by the lessee's breach of contract.",
+        "C":"The institution may deduct rental instalments for previous and future periods, but not any compensation related to breach of contract.",
+        "D":"The institution may deduct only future rental instalments for periods during which the lessee has not benefited from the asset.",
+        "True answer":"The institution may deduct only what is due in respect of rental for previous periods and legitimate compensations necessitated by the lessee's breach of contract."
+    },
+    {
+        "Question_ID":"QID_1025",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution announces publicly: \"Whoever provides a complete feasibility study for a new Shari'ah-compliant investment project will receive a reward of PKR 200,000.\" The announcement is made through the institution's website without requiring any formal acceptance from potential participants. Several individuals begin working on the task independently. With reference to the Shari'ah rules governing the form of a Ju'alah contract, which of the following statements is most accurate?",
+        "A":"The Ju'alah contract is invalid because acceptance from the worker is required before work begins.",
+        "B":"The Ju'alah contract is valid only if the offer is made verbally and addressed to a specific worker.",
+        "C":"The Ju'alah contract is valid because it may be concluded through an offer directed to the public using any method that indicates an invitation to perform the work and an obligation to pay compensation.",
+        "D":"The Ju'alah contract becomes valid only after the worker formally accepts the offer in writing.",
+        "True answer":"The Ju'alah contract is valid because it may be concluded through an offer directed to the public using any method that indicates an invitation to perform the work and an obligation to pay compensation."
+    },
+    {
+        "Question_ID":"QID_1026",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the co-mingling of funds in Investment Agency, which of the following statements is NOT correct?",
+        "A":"It is permissible to co-mingle funds invested under Investment Agency with funds from Mudarabah investment accounts.",
+        "B":"When Investment Agency funds are co-mingled with Mudarabah funds, they are treated as additional capital provided by a capital provider in the Mudarabah investment.",
+        "C":"When such funds are invested in Murabahah transactions, the profits belong to the principals while the agent is entitled to the agency fee and any stipulated performance incentive.",
+        "D":"When Investment Agency funds are co-mingled with Mudarabah funds, the investment agent becomes entitled to a share of the Mudarabah profit in addition to the agency fee.",
+        "True answer":"When Investment Agency funds are co-mingled with Mudarabah funds, the investment agent becomes entitled to a share of the Mudarabah profit in addition to the agency fee."
+    },
+    {
+        "Question_ID":"QID_1027",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints an investment agent to manage certain assets. During the agency period, the assets suffer damage due to a sudden market event unrelated to the agent's conduct. The principal demands compensation from the agent. Additionally, the principal proposes that the agent provide a personal guarantee for the invested capital within the agency contract. In light of the Shari'ah rules governing commitments of the agent, which of the following statements are correct?\nI. The agent is considered a trustee in holding the asset and therefore is not liable to indemnify the principal for damage unless the damage results from his misconduct, negligence, or breach of contractual terms.\nII. Acts of the agent that benefit the principal, such as selling at a higher price or purchasing at a lower price than expected, may still constitute a breach of contract requiring indemnity.\nIII. It is not permissible to combine agency and personal guarantee in the same contract because such combination conflicts with the nature of these contracts.\nIV. If the agent voluntarily provides a guarantee independently of the agency contract, he may become liable as a guarantor in a capacity separate from that of agent.",
+        "A":"I and II",
+        "B":"II and III",
+        "C":"I, III and IV",
+        "D":"I, II, III and IV",
+        "True answer":"I, III and IV"
+    },
+    {
+        "Question_ID":"QID_1028",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints an investment agent under an Investment Agency (Wakalah Bi Al-Istithmar) contract to manage a portfolio of Shari'ah compliant investments. During the execution of the investment mandate, issues arise regarding the determination of the investment amount and term, allocation of expenses, commencement of investment activities prior to receipt of funds, and entitlement to profits. With reference to the Shari'ah rules governing the amount, term and profit of the investment, evaluate the following statements:\nI. The amount and term of the investment must be determined, regardless of whether the investment amount is paid in a lump sum or in installments.\nII. Expenses related to the investment such as transportation, storage, taxes, maintenance and insurance are borne by the principal, and it is not permissible to require the agent to pay them from the agent's own funds or make reimbursement contingent upon the yield of the investment.\nIII. The investment agent, as a legal entity, remains liable for expenses related to its own employees or equipment used in conducting the investment activities.\nIV. With the principal's permission, the agent may commence investment activity before receiving the funds from the principal either by incurring a debt on behalf of the principal through purchasing on credit or by advancing a loan to the principal through purchasing something on his behalf.\nV. The entire profit generated from the investment belongs to the principal unless it is stipulated that the agent will receive all or part of any excess above the expected profit as a performance incentive in addition to its fixed fee.",
+        "A":"I, II and III only",
+        "B":"I, II, III and IV only",
+        "C":"I, II, III, IV and V",
+        "D":"II, III and V only",
+        "True answer":"I, II, III, IV and V"
+    },
+    {
+        "Question_ID":"QID_1029",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution leases a manufacturing facility to a client for a fixed monthly rent. During the lease period, part of the facility becomes unusable due to the client's misuse of the equipment, while the lease contract remains in force. As a result, the client is unable to derive full benefit from the leased asset for a certain period. Which of the following correctly reflects the Shari'ah ruling in this situation?",
+        "A":"The lessee is not required to restore or repair the usufruct, and the rent for the affected period must be waived.",
+        "B":"The lessee is obliged to restore or repair the usufruct, and the rent for the affected period must be waived.",
+        "C":"The lessee is not obliged to restore the usufruct, but must continue paying rent for the entire lease period.",
+        "D":"The lessee is obliged to restore or repair the usufruct, and the rent for the time during which the benefit is lost is not to be waived.",
+        "True answer":"The lessee is obliged to restore or repair the usufruct, and the rent for the time during which the benefit is lost is not to be waived."
+    },
+    {
+        "Question_ID":"QID_1030",
+        "Theme":"Intensive course 07",
+        "Question":"Evaluate the following statements in light of the Shari'ah ruling regarding agreement on more than one rate of pay in a hiring contract:\nI. It is permissible for the contracting parties to agree that if the work is completed within a certain period the pay will be a specific amount, and if it is completed within a shorter period the pay will increase.\nII. It is permissible to link different rates of pay to differences in the place, type, or specialization of the work to be performed.\nIII. It is impermissible to agree upon more than one rate of pay in a hiring contract because the pay must always remain fixed and cannot vary based on conditions.\nWhich of the following options correctly reflects the status of the above statements?",
+        "A":"I-True, II -True, III - False",
+        "B":"I-True, II-False, III- True",
+        "C":"I-False, II- True, II - False",
+        "D":"I-False, II - False, III - True",
+        "True answer":"I-True, II -True, III - False"
+    },
+    {
+        "Question_ID":"QID_1031",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution enters into an Ijarah arrangement whereby it undertakes to deliver a specially described industrial machine to a client during the lease period. At the time of executing the Ijarah contract, the institution does not own the machine. The rental is agreed to be payable periodically after delivery. Upon delivery, the machine does not conform to the specifications stated in the contract. Which of the following correctly reflects the Shari'ah ruling in this case?",
+        "A":"The Ijarah contract is invalid because the asset was not owned by the lessor at the time of execution and rental was not paid in advance.",
+        "B":"The lessee must accept the delivered machine and may only claim compensation for the difference in value.",
+        "C":"The lessee is entitled to reject the delivered machine and demand an asset that conforms to the description.",
+        "D":"The Ijarah contract must be treated as a Salam contract and the lessee loses the right to reject the asset.",
+        "True answer":"The lessee is entitled to reject the delivered machine and demand an asset that conforms to the description."
+    },
+    {
+        "Question_ID":"QID_1032",
+        "Theme":"Intensive course 07",
+        "Question":"A company offers a Ju'alah reward of PKR 500,000 to anyone who successfully recovers a lost shipment. Several workers begin searching for the shipment. During the process, the following situations occur: • Before any work begins, the offeror revokes the reward announcement. • In another case, the worker has already commenced the search when the offeror prevents him from continuing the work. • In a separate case, the worker himself stops the search after commencing the work without any agreement regarding compensation. • In another instance, the worker revokes the contract after commencing the work, claiming compensation for the effort already made. In light of the Shari'ah rules governing revocation of Ju'alah, evaluate the following statements:\nI. If the offeror or the worker revokes the Ju'alah contract before the commencement of work, the worker is not entitled to compensation.\nII. If the offeror prevents the worker from continuing the work after it has commenced, the offeror must pay reasonable wages.\nIII. If the worker terminates the Ju'alah contract after the work has commenced, he is entitled to the reward unless the parties agree otherwise.\nIV. If the worker revokes the contract after commencing the work, he has no claim against the offeror unless the parties had agreed otherwise.",
+        "A":"I and II only",
+        "B":"I, II and IV only",
+        "C":"II, III and IV only",
+        "D":"I, III and IV only",
+        "True answer":"I, II and IV only"
+    },
+    {
+        "Question_ID":"QID_1033",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the types of work that may form the subject matter of a Ju'alah contract, evaluate the following statements:\nI. A Ju'alah contract may be concluded for an activity intended to produce a result such as the extraction of minerals.\nII. Ju'alah may be used for activities involving information beneficial to the offeror, such as preparing a report, study, or scientific work where the extent of the work cannot be determined in advance.\nIII. Ju'alah may be concluded for activities aimed at returning lost property to its owner.",
+        "A":"I and II only",
+        "B":"II and III only",
+        "C":"I and III only",
+        "D":"I, II and III",
+        "True answer":"I, II and III"
+    },
+    {
+        "Question_ID":"QID_1034",
+        "Theme":"Intensive course 07",
+        "Question":"Which of the following best describes the concept of Ju'alah according to the Shari'ah rules?",
+        "A":"A contract in which a specified worker undertakes a clearly defined task in exchange for a predetermined wage payable regardless of the result.",
+        "B":"A contract in which one party offers specified compensation to anyone who achieves a determined result, where the period for achieving it is known.",
+        "C":"A contract in which one party offers specified compensation to anyone who achieves determined result, whether the period for achieving it is known or unknown.",
+        "D":"A contract in which one party offers specified compensation to anyone who achieves a determined result, where the period for achieving it is unknown.",
+        "True answer":"A contract in which one party offers specified compensation to anyone who achieves determined result, whether the period for achieving it is known or unknown."
+    },
+    {
+        "Question_ID":"QID_1035",
+        "Theme":"Intensive course 07",
+        "Question":"With reference to the Characteristics of Investment Agency, which of the following statements is NOT correct?",
+        "A":"Investment agency contracts, whether remunerated or unremunerated, are binding on institutions because they are generally fixed-term contracts in which both parties agree not to terminate within a specified period.",
+        "B":"When the parties agree that the contract may be terminated within a specified period, it is permissible to stipulate the right of one party to terminate the contract unilaterally in certain circumstances.",
+        "C":"When the term of the investment agency expires, the agent may enter into new investment activities but must first liquidate all ongoing investments.",
+        "D":"When the term of the agency expires, the agent must refrain from entering into new investment activities while ongoing investments may continue until completion.",
+        "True answer":"When the term of the investment agency expires, the agent may enter into new investment activities but must first liquidate all ongoing investments."
+    },
+    {
+        "Question_ID":"QID_1036",
+        "Theme":"Intensive course 07",
+        "Question":"A company offers a Ju'alah reward for the successful recovery of a disputed claim. The reward is stated as 15% of the amount recovered, and the company agrees to pay half of the reward in advance once the contract is concluded. During the process, several situations arise regarding the worker's entitlement to compensation. In light of the Shari'ah rules governing compensation in Ju'alah, evaluate the following statements:\nI. The compensation must be known, lawful in the eyes of the Shari'ah and deliverable; otherwise, reasonable compensation becomes binding.\nII. It is permissible for the compensation in Ju'alah to be stipulated as a portion of the object of work, such as a percentage of a debt agreed upon for collection.\nIII. As a rule, entitlement to compensation is established once the worker begins the work, even if the required result has not yet been delivered to the offeror.\nIV. If an accident occurs during the work causing loss that was not due to the worker's tort or negligence, the worker is entitled to full compensation.\nV. It is permissible to stipulate that compensation be paid in advance; however, such payment is considered subject to accounts and may be reclaimed if the result is not realised.",
+        "A":"I, II and V only",
+        "B":"I, II, IV and V only",
+        "C":"II, III and IV only",
+        "D":"I, III, IV and V only",
+        "True answer":"I, II, IV and V only"
+    },
+    {
+        "Question_ID":"QID_1037",
+        "Theme":"Intensive course 07",
+        "Question":"An Islamic financial institution appoints an agent under a procurement agency contract to purchase equipment and related services. During execution, the agent pays for transportation, storage, and insurance related to the purchased equipment. The contract also specifies that the agent will receive a fixed remuneration for his services. In light of the Shari'ah rulings governing commitments of the principal, which of the following statements are correct?\nI. In procurement agency, the principal must bear the price of the purchased commodity as well as the related expenses incurred by the agent.\nII. Expenses such as transportation, storage, taxation, maintenance, and insurance should be reimbursed by the principal.\nIII. In paid agency, the contract may stipulate that the agent himself must bear such expenses in the future.\nIV. In paid agency, the principal must pay the agent the remuneration agreed upon in the contract.",
+        "A":"I and III",
+        "B":"I, II and IV",
+        "C":"II and IV",
+        "D":"I, II, III and IV",
+        "True answer":"I, II and IV"
+    },
+    {
+        "Question_ID":"QID_1038",
+        "Theme":"Intensive course 07",
+        "Question":"Statement: Ju'alah may be used for the realization of scientific discoveries, innovative inventions, and intellectual designs such as symbols and trade marks, where entitlement to compensation is contingent upon the realisation of the discovery, registration of patents, or creation of designs in accordance with the conditions specified by the offeror.",
+        "A":"TRUE",
+        "B":"FALSE",
+        "C":null,
+        "D":null,
+        "True answer":"TRUE"
     }
 ]
